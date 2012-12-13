@@ -1,0 +1,9443 @@
+阿婆髻	a po ji	1
+阿依莲	a yi lian	1
+矮坳	ai ao	1
+矮车	ai che	1
+艾冲	ai chong	1
+爱登堡	ai deng bao	1
+矮岗	ai gang	1
+爱好村	ai hao cun	1
+艾家	ai jia	1
+艾家冲	ai jia chong	1
+爱莲湖公园	ai lian hu gong yuan	1
+矮岭	ai ling	1
+矮排	ai pai	1
+爱琴海	ai qin hai	1
+矮山脚	ai shan jiao	1
+矮塘村	ai tang cun	1
+爱心文体超市	ai xin wen ti chao shi	1
+爱乐琴行	ai yue qin hang	1
+矮寨	ai zhai	1
+矮子冲	ai zi chong	1
+安保	an bao	1
+庵背	an bei	1
+安场	an chang	1
+岸村	an cun	1
+安富村	an fu cun	1
+安福村	an fu cun	1
+安和	an he	1
+安江	an jiang	1
+安康花园	an kang hua yuan	1
+安坑	an keng	1
+暗坑	an keng	1
+安乐村	an le cun	1
+安乐洞	an le dong	1
+安里	an li	1
+庵里	an li	1
+庵门口	an men kou	1
+按门口	an men kou	1
+安民桥	an min qiao	1
+安平加油站	an ping jia you zhan	1
+安平镇	an ping zhen	1
+安平中学	an ping zhong xue	1
+鞍前	an qian	1
+安仁大桥	an ren da qiao	1
+安仁县	an ren xian	1
+安仁县电力局	an ren xian dian li ju	1
+鞍山	an shan	1
+岸上	an shang	1
+庵上	an shang	1
+安踏	an ta	1
+庵塘	an tang	1
+岸下	an xia	1
+岸下村	an xia cun	1
+安源村	an yuan cun	1
+岸洲	an zhou	1
+庵子里	an zi li	1
+坳背	ao bei	1
+垇背	ao bei	1
+坳背村	ao bei cun	1
+坳背塘	ao bei tang	1
+坳口	ao kou	1
+垇口	ao kou	1
+坳口村	ao kou cun	1
+坳里	ao li	1
+澳力久业	ao li jiu ye	1
+坳脑	ao nao	1
+坳坵	ao qiu	1
+敖泉镇	ao quan zhen	1
+凹山	ao shan	1
+敖山	ao shan	1
+敖山村	ao shan cun	1
+坳上	ao shang	1
+垇上	ao shang	1
+坳上村	ao shang cun	1
+坳上卫生院	ao shang wei sheng yuan	1
+坳上镇	ao shang zhen	1
+坳头	ao tou	1
+垇头	ao tou	1
+坳头村	ao tou cun	1
+坳头山	ao tou shan	1
+坳头上	ao tou shang	1
+凹下	ao xia	1
+坳下	ao xia	1
+垇下	ao xia	1
+坳下村	ao xia cun	1
+坳子塘	ao zi tang	1
+八坝	ba ba	1
+拔昌	ba chang	1
+耙冲	ba chong	1
+八冲	ba chong	1
+坝冲	ba chong	1
+八担	ba dan	1
+八担山	ba dan shan	1
+八甲	ba jia	1
+八甲村	ba jia cun	1
+芭蕉冲	ba jiao chong	1
+芭蕉坑	ba jiao keng	1
+芭蕉岭	ba jiao ling	1
+八角庙	ba jiao miao	1
+八角丘	ba jiao qiu	1
+芭蕉塘	ba jiao tang	1
+八角塘	ba jiao tang	1
+八角亭	ba jiao ting	1
+芭蕉窝	ba jiao wo	1
+八角仙	ba jiao xian	1
+八角寨	ba jiao zhai	1
+八局医院	ba ju yi yuan	1
+八里坳	ba li ao	1
+八里冲	ba li chong	1
+八里牌	ba li pai	1
+笆篱乡	ba li xiang	1
+八面山	ba mian shan	1
+八亩里	ba mu li	1
+八亩田	ba mu tian	1
+八坵	ba qiu	1
+八丘田	ba qiu tian	1
+巴山村	ba shan cun	1
+坝上	ba shang	1
+八十八	ba shi ba	1
+八十把	ba shi ba	1
+八十担	ba shi dan	1
+扒塘	ba tang	1
+扒田	ba tian	1
+坝头村	ba tou cun	1
+坝头上	ba tou shang	1
+坝下	ba xia	1
+八仙岭	ba xian ling	1
+八仙堂	ba xian tang	1
+八仙下棋	ba xian xia qi	1
+八仙寨	ba xian zhai	1
+八一步行街	ba yi bu xing jie	1
+八一希望学校	ba yi xi wang xue xiao	1
+八一小区	ba yi xiao qu	1
+八音洞	ba yin dong	1
+百步岭	bai bu ling	1
+百草堂	bai cao tang	1
+白冲	bai chong	1
+百担丘	bai dan qiu	1
+白洞	bai dong	1
+白杜	bai du	1
+白杜村	bai du cun	1
+白杜小学	bai du xiao xue	1
+百纺站	bai fang zhan	1
+白房子	bai fang zi	1
+百福花园	bai fu hua yuan	1
+白根	bai gen	1
+白钩	bai gou	1
+白沟村	bai gou cun	1
+白果村	bai guo cun	1
+白果山	bai guo shan	1
+白果树下	bai guo shu xia	1
+白合村	bai he cun	1
+白鹤塘	bai he tang	1
+白鹤仙	bai he xian	1
+白虎岭	bai hu ling	1
+白虎镇	bai hu zhen	1
+白花村	bai hua cun	1
+百花村	bai hua cun	1
+百花园小区	bai hua yuan xiao qu	1
+白鸡坪	bai ji ping	1
+柏家	bai jia	1
+白家	bai jia	1
+百嘉	bai jia	1
+白家昌	bai jia chang	1
+白家冲	bai jia chong	1
+柏家村	bai jia cun	1
+白家庙	bai jia miao	1
+柏家塘	bai jia tang	1
+白家塘	bai jia tang	1
+百家塘	bai jia tang	1
+白家田	bai jia tian	1
+白蜡冲	bai la chong	1
+白浪	bai lang	1
+白廊村	bai lang cun	1
+百丽丝	bai li si	1
+柏岭	bai ling	1
+白岭村	bai ling cun	1
+白楼	bai lou	1
+白楼子	bai lou zi	1
+白鹿洞村	bai lu dong cun	1
+白鹿洞完小	bai lu dong wan xiao	1
+白鹿洞镇	bai lu dong zhen	1
+白路塘	bai lu tang	1
+白露塘	bai lu tang	1
+白鹭塘	bai lu tang	1
+白露塘镇	bai lu tang zhen	1
+白路头	bai lu tou	1
+白鹿新村	bai lu xin cun	1
+白马岭	bai ma ling	1
+白马塘	bai ma tang	1
+白芒洲	bai mang zhou	1
+白茅村	bai mao cun	1
+白毛村	bai mao cun	1
+白毛岭	bai mao ling	1
+白毛塘	bai mao tang	1
+白毛头	bai mao tou	1
+白米山	bai mi shan	1
+白米塘	bai mi tang	1
+白面石	bai mian shi	1
+柏木桥	bai mu qiao	1
+柏木山	bai mu shan	1
+白木塘	bai mu tang	1
+白泥坳	bai ni ao	1
+白泥冲	bai ni chong	1
+白泥村	bai ni cun	1
+白泥坑	bai ni keng	1
+白泥岭	bai ni ling	1
+白泥塘	bai ni tang	1
+白牛塘	bai niu tang	1
+白坪	bai ping	1
+白坪村	bai ping cun	1
+白清村	bai qing cun	1
+白泉村	bai quan cun	1
+白沙	bai sha	1
+白沙村	bai sha cun	1
+白沙加油站	bai sha jia you zhan	1
+白沙岭	bai sha ling	1
+白沙圩乡	bai sha xu xiang	1
+白善	bai shan	1
+白市	bai shi	1
+白氏	bai shi	1
+白石	bai shi	1
+白石坳	bai shi ao	1
+白市村	bai shi cun	1
+白石村	bai shi cun	1
+白石带	bai shi dai	1
+白石渡镇	bai shi du zhen	1
+白石脚	bai shi jiao	1
+白石坑	bai shi keng	1
+白石岭	bai shi ling	1
+白石岭村	bai shi ling cun	1
+白石塘村	bai shi tang cun	1
+白石岩	bai shi yan	1
+柏树村	bai shu cun	1
+柏树塘	bai shu tang	1
+柏树下	bai shu xia	1
+白水冲	bai shui chong	1
+白水村	bai shui cun	1
+白水带	bai shui dai	1
+白水洞	bai shui dong	1
+白水塘	bai shui tang	1
+白水下	bai shui xia	1
+白水乡	bai shui xiang	1
+百岁亭	bai sui ting	1
+百泰首饰	bai tai shou shi	1
+白炭窑	bai tan yao	1
+白塘	bai tang	1
+白田村	bai tian cun	1
+白头岭	bai tou ling	1
+白头脑	bai tou nao	1
+白屋	bai wu	1
+白屋里	bai wu li	1
+白溪村	bai xi cun	1
+百姓大药房	bai xing da yao fang	1
+百姓乐大药房	bai xing le da yao fang	1
+百姓人家	bai xing ren jia	1
+白燕	bai yan	1
+白燕山	bai yan shan	1
+白洋冲	bai yang chong	1
+白羊山	bai yang shan	1
+白洋洲	bai yang zhou	1
+白叶村	bai ye cun	1
+白叶坑	bai ye keng	1
+白叶山	bai ye shan	1
+白云村	bai yun cun	1
+白云山	bai yun shan	1
+白云仙	bai yun xian	1
+白云小学	bai yun xiao xue	1
+百丈	bai zhang	1
+百丈村	bai zhang cun	1
+百丈岭	bai zhang ling	1
+柏竹	bai zhu	1
+白珠村	bai zhu cun	1
+白竹村	bai zhu cun	1
+白竹山	bai zhu shan	1
+白竹塘	bai zhu tang	1
+白竹亭	bai zhu ting	1
+白竹湾	bai zhu wan	1
+白竹小学	bai zhu xiao xue	1
+白竹园	bai zhu yuan	1
+百竹园	bai zhu yuan	1
+白竹园村	bai zhu yuan cun	1
+百子桥	bai zi qiao	1
+半边街	ban bian jie	1
+半边月	ban bian yue	1
+半冲	ban chong	1
+板冲	ban chong	1
+半洞	ban dong	1
+半都	ban dou	1
+半坑	ban keng	1
+板坑	ban keng	1
+板栗山	ban li shan	1
+板栗树下	ban li shu xia	1
+板栗园	ban li yuan	1
+板梁村	ban liang cun	1
+半岭	ban ling	1
+板岭	ban ling	1
+半垄	ban long	1
+半垅	ban long	1
+半面山	ban mian shan	1
+半亩田	ban mu tian	1
+半泥	ban ni	1
+半排	ban pai	1
+板桥	ban qiao	1
+板桥村	ban qiao cun	1
+板桥加油站	ban qiao jia you zhan	1
+板桥林场	ban qiao lin chang	1
+板桥湾	ban qiao wan	1
+板桥乡	ban qiao xiang	1
+板桥乡政府	ban qiao xiang zheng fu	1
+板桥中心校	ban qiao zhong xin xiao	1
+半山	ban shan	1
+板山	ban shan	1
+板山村	ban shan cun	1
+半山岭	ban shan ling	1
+半山亭	ban shan ting	1
+板上	ban shang	1
+板石	ban shi	1
+板塘	ban tang	1
+湴塘	ban tang	1
+板田	ban tian	1
+班头	ban tou	1
+半屯	ban tun	1
+板屋	ban wu	1
+板屋村	ban wu cun	1
+板溪村	ban xi cun	1
+板下	ban xia	1
+板仙	ban xian	1
+半腰	ban yao	1
+斑竹山	ban zhu shan	1
+板子山	ban zi shan	1
+邦里	bang li	1
+榜山村	bang shan cun	1
+堡城村	bao cheng cun	1
+豹冲	bao chong	1
+保冲	bao chong	1
+宝岛眼镜连锁	bao dao yan jing lian suo	1
+宝盖楼	bao gai lou	1
+包公庙	bao gong miao	1
+包公亭	bao gong ting	1
+保和堂大药房	bao he tang da yao fang	1
+保和乡	bao he xiang	1
+保和医院	bao he yi yuan	1
+包家	bao jia	1
+包家冲	bao jia chong	1
+包家山	bao jia shan	1
+宝坑	bao keng	1
+堡口	bao kou	1
+堡口村	bao kou cun	1
+宝蓝花园	bao lan hua yuan	1
+宝岭	bao ling	1
+宝岭村	bao ling cun	1
+宝南	bao nan	1
+宝南村	bao nan cun	1
+保桥	bao qiao	1
+宝沙村	bao sha cun	1
+宝山	bao shan	1
+宝山铜矿	bao shan tong kuang	1
+宝山幼儿园	bao shan you er yuan	1
+报上	bao shang	1
+宝塔脚	bao ta jiao	1
+宝塔岭	bao ta ling	1
+宝塔湾	bao ta wan	1
+宝塔下	bao ta xia	1
+保塘	bao tang	1
+宝塘	bao tang	1
+宝塘村	bao tang cun	1
+堡下	bao xia	1
+鲍鱼圣汤	bao yu sheng tang	1
+宝云庵	bao yun an	1
+宝珠山	bao zhu shan	1
+豹子里	bao zi li	1
+豹子岭	bao zi ling	1
+北岸村	bei an cun	1
+北边把	bei bian ba	1
+背城	bei cheng	1
+背冲	bei chong	1
+北冲	bei chong	1
+北斗	bei dou	1
+北斗村	bei dou cun	1
+北湖	bei hu	1
+北湖公园	bei hu gong yuan	1
+北湖花园	bei hu hua yuan	1
+北湖家园	bei hu jia yuan	1
+北湖桥	bei hu qiao	1
+北湖区	bei hu qu	1
+北湖区党校	bei hu qu dang xiao	1
+北湖区政府	bei hu qu zheng fu	1
+北湖商场	bei hu shang chang	1
+北湖商业城	bei hu shang ye cheng	1
+北湖市场	bei hu shi chang	1
+碑记村	bei ji cun	1
+碑记乡	bei ji xiang	1
+北郊村	bei jiao cun	1
+北街	bei jie	1
+北街口	bei jie kou	1
+北京四中网校	bei jing si zhong wang xiao	1
+北林村	bei lin cun	1
+北门	bei men	1
+背首	bei shou	1
+北水村	bei shui cun	1
+北塘	bei tang	1
+陂头	bei tou	1
+北头	bei tou	1
+陂头村	bei tou cun	1
+贝溪	bei xi	1
+贝溪村	bei xi cun	1
+贝溪乡	bei xi xiang	1
+北苑宾馆	bei yuan bin guan	1
+北寨	bei zhai	1
+北中山	bei zhong shan	1
+本家园	ben jia yuan	1
+坌头	ben tou	1
+崩冲	beng chong	1
+崩岗头	beng gang tou	1
+崩江	beng jiang	1
+崩里	beng li	1
+碧冲	bi chong	1
+碧冲村	bi chong cun	1
+薜家	bi jia	1
+笔架岭	bi jia ling	1
+笔架山	bi jia shan	1
+比媚	bi mei	1
+碧水云天	bi shui yun tian	1
+碧潭村	bi tan cun	1
+碧塘村	bi tang cun	1
+碧塘乡	bi tang xiang	1
+碧云庵	bi yun an	1
+边冲	bian chong	1
+扁冲	bian chong	1
+扁担形	bian dan xing	1
+卞家	bian jia	1
+边江	bian jiang	1
+便民超市	bian min chao shi	1
+边下	bian xia	1
+彪坑	biao keng	1
+滨河楼	bin he lou	1
+滨湖大厦	bin hu da sha	1
+彬塘	bin tang	1
+兵心	bing xin	1
+拨背	bo bei	1
+波村	bo cun	1
+簸箕石	bo ji shi	1
+钵兰街	bo lan jie	1
+柏林宾馆	bo lin bin guan	1
+柏林村	bo lin cun	1
+柏林镇	bo lin zhen	1
+波罗坑	bo luo keng	1
+波罗山	bo luo shan	1
+波水乡	bo shui xiang	1
+波司登男装	bo si deng nan zhuang	1
+波塘	bo tang	1
+伯头	bo tou	1
+磻溪村	bo xi cun	1
+博雅学校	bo ya xue xiao	1
+博雅医院	bo ya yi yuan	1
+步步高	bu bu gao	1
+卜冲	bu chong	1
+卜里坪	bu li ping	1
+步森	bu sen	1
+埠头村	bu tou cun	1
+步云村	bu yun cun	1
+菜冲	cai chong	1
+才冲	cai chong	1
+菜洞	cai dong	1
+彩洞	cai dong	1
+财富盛汇	cai fu sheng hui	1
+财富证券	cai fu zheng quan	1
+蔡古	cai gu	1
+蔡家	cai jia	1
+蔡家坳	cai jia ao	1
+蔡家村	cai jia cun	1
+蔡家洞	cai jia dong	1
+蔡家垅	cai jia long	1
+蔡家山	cai jia shan	1
+才口村	cai kou cun	1
+菜农村	cai nong cun	1
+才山里	cai shan li	1
+采石村	cai shi cun	1
+菜塘	cai tang	1
+菜土	cai tu	1
+菜窝	cai wo	1
+采轩	cai xuan	1
+菜园里	cai yuan li	1
+菜园坡	cai yuan po	1
+菜子冲	cai zi chong	1
+菜籽冲	cai zi chong	1
+菜子坪	cai zi ping	1
+苍背	cang bei	1
+仓背	cang bei	1
+苍冲	cang chong	1
+仓冲	cang chong	1
+沧海村	cang hai cun	1
+仓脚	cang jiao	1
+苍山	cang shan	1
+仓上	cang shang	1
+仓田村	cang tian cun	1
+仓头	cang tou	1
+仓下	cang xia	1
+草冲	cao chong	1
+槽洞	cao dong	1
+槽割	cao ge	1
+曹古	cao gu	1
+槽河	cao he	1
+曹家	cao jia	1
+曹家坳	cao jia ao	1
+曹家冲	cao jia chong	1
+曹家村	cao jia cun	1
+曹家店	cao jia dian	1
+曹家洞	cao jia dong	1
+曹家坊	cao jia fang	1
+曹家龙	cao jia long	1
+曹家垄	cao jia long	1
+曹家垅	cao jia long	1
+曹家坪	cao jia ping	1
+曹家山	cao jia shan	1
+曹家塘	cao jia tang	1
+曹家田村	cao jia tian cun	1
+曹家头	cao jia tou	1
+曹家湾	cao jia wan	1
+曹家圩	cao jia xu	1
+曹家院	cao jia yuan	1
+曹家园	cao jia yuan	1
+曹家洲	cao jia zhou	1
+曹家庄	cao jia zhuang	1
+草里	cao li	1
+曹里	cao li	1
+草垄	cao long	1
+曹门口	cao men kou	1
+槽门口	cao men kou	1
+曹排村	cao pai cun	1
+操坪	cao ping	1
+草坪里	cao ping li	1
+草坪头	cao ping tou	1
+曹石	cao shi	1
+草塘	cao tang	1
+草堂村	cao tang cun	1
+草塘村	cao tang cun	1
+曹田村	cao tian cun	1
+曹溪	cao xi	1
+草鞋岭	cao xie ling	1
+草鞋铺	cao xie pu	1
+侧角	ce jiao	1
+侧岭	ce ling	1
+侧上	ce shang	1
+侧也	ce ye	1
+曾古	ceng gu	1
+茶坳	cha ao	1
+茶背	cha bei	1
+插背	cha bei	1
+茶杯冲	cha bei chong	1
+茶冲	cha chong	1
+查冲	cha chong	1
+茶冲村	cha chong cun	1
+茶洞	cha dong	1
+茶坑	cha keng	1
+茶口	cha kou	1
+叉口	cha kou	1
+茶料	cha liao	1
+茶林村	cha lin cun	1
+叉路口	cha lu kou	1
+岔路口	cha lu kou	1
+茶盘坵	cha pan qiu	1
+茶盘山	cha pan shan	1
+茶坪	cha ping	1
+茶坪村	cha ping cun	1
+茶山	cha shan	1
+茶山坳	cha shan ao	1
+茶山背	cha shan bei	1
+茶山村	cha shan cun	1
+茶山脚	cha shan jiao	1
+茶山里	cha shan li	1
+茶山排	cha shan pai	1
+茶山头	cha shan tou	1
+茶山下	cha shan xia	1
+茶树坪	cha shu ping	1
+茶田村	cha tian cun	1
+茶亭	cha ting	1
+茶亭里	cha ting li	1
+茶窝	cha wo	1
+茶坞村	cha wu cun	1
+茶仙坊	cha xian fang	1
+茶叶坳	cha ye ao	1
+茶叶冲	cha ye chong	1
+茶叶村	cha ye cun	1
+茶叶坑	cha ye keng	1
+茶叶盘	cha ye pan	1
+茶叶坪	cha ye ping	1
+茶叶头	cha ye tou	1
+茶叶湾	cha ye wan	1
+茶园冲	cha yuan chong	1
+茶园村	cha yuan cun	1
+茶园里	cha yuan li	1
+茶园岭	cha yuan ling	1
+茶园坪	cha yuan ping	1
+茶园山	cha yuan shan	1
+茶园头	cha yuan tou	1
+茶园下	cha yuan xia	1
+茶庄	cha zhuang	1
+茶子岭	cha zi ling	1
+茶子山	cha zi shan	1
+茶子园	cha zi yuan	1
+柴冲	chai chong	1
+柴上	chai shang	1
+柴油机厂	chai you ji chang	1
+长安村	chang an cun	1
+长安岭	chang an ling	1
+长标	chang biao	1
+长策乡	chang ce xiang	1
+长城超市	chang cheng chao shi	1
+长城村	chang cheng cun	1
+长城大酒店	chang cheng da jiu dian	1
+长城加油站	chang cheng jia you zhan	1
+长城岭	chang cheng ling	1
+长冲	chang chong	1
+长冲坳	chang chong ao	1
+长冲村	chang chong cun	1
+长冲里	chang chong li	1
+长冲铺村	chang chong pu cun	1
+长冲小学	chang chong xiao xue	1
+长春庵	chang chun an	1
+长春村	chang chun cun	1
+长村	chang cun	1
+长村乡	chang cun xiang	1
+长带	chang dai	1
+厂得	chang de	1
+长洞	chang dong	1
+长份	chang fen	1
+长汾村	chang fen cun	1
+长佛	chang fo	1
+长富村	chang fu cun	1
+长岗村	chang gang cun	1
+长埂	chang geng	1
+长埂山	chang geng shan	1
+长埂子	chang geng zi	1
+长河水库	chang he shui ku	1
+长横	chang heng	1
+长湖	chang hu	1
+长湖村	chang hu cun	1
+长江村	chang jiang cun	1
+长江洞	chang jiang dong	1
+长江岭	chang jiang ling	1
+长江下	chang jiang xia	1
+长江圩	chang jiang xu	1
+长坑	chang keng	1
+长坑里	chang keng li	1
+长坑垄	chang keng long	1
+长廊村	chang lang cun	1
+长乐村	chang le cun	1
+长乐林场	chang le lin chang	1
+长乐学校	chang le xue xiao	1
+常乐中学	chang le zhong xue	1
+厂里	chang li	1
+长连	chang lian	1
+长涟	chang lian	1
+长林山	chang lin shan	1
+长岭	chang ling	1
+长岭农场	chang ling nong chang	1
+长岭上	chang ling shang	1
+长岭头	chang ling tou	1
+长岭湾	chang ling wan	1
+长岭下	chang ling xia	1
+长垄	chang long	1
+长垅	chang long	1
+长隆村	chang long cun	1
+长垅村	chang long cun	1
+长垅子	chang long zi	1
+长毛冲	chang mao chong	1
+厂门口	chang men kou	1
+长排	chang pai	1
+长排岭	chang pai ling	1
+长坪	chang ping	1
+长坪村	chang ping cun	1
+菖蒲塘	chang pu tang	1
+昌前	chang qian	1
+长桥	chang qiao	1
+长青村	chang qing cun	1
+常青村	chang qing cun	1
+长青水库	chang qing shui ku	1
+长丘	chang qiu	1
+长坵	chang qiu	1
+长沙村	chang sha cun	1
+长沙洞	chang sha dong	1
+长沙坑	chang sha keng	1
+长沙岭	chang sha ling	1
+长沙坪	chang sha ping	1
+长山	chang shan	1
+长山脚	chang shan jiao	1
+长山里	chang shan li	1
+长生洞	chang sheng dong	1
+长水路	chang shui lu	1
+长滩	chang tan	1
+长滩村	chang tan cun	1
+长塘	chang tang	1
+长塘村	chang tang cun	1
+长塘坪	chang tang ping	1
+长塘下	chang tang xia	1
+长田	chang tian	1
+长田村	chang tian cun	1
+长湾	chang wan	1
+长湾里	chang wan li	1
+长窝	chang wo	1
+长窝里	chang wo li	1
+长溪村	chang xi cun	1
+长须龙	chang xu long	1
+长盈	chang ying	1
+长远村	chang yuan cun	1
+长源村	chang yuan cun	1
+长圳	chang zhen	1
+长洲村	chang zhou cun	1
+长竹园	chang zhu yuan	1
+长庄	chang zhuang	1
+长庄村	chang zhuang cun	1
+抄冲	chao chong	1
+朝洞	chao dong	1
+朝光村	chao guang cun	1
+潮里	chao li	1
+朝门	chao men	1
+朝山里	chao shan li	1
+潮田村	chao tian cun	1
+潮州菜馆	chao zhou cai guan	1
+车背	che bei	1
+车厂里	che chang li	1
+车机头	che ji tou	1
+车检中心	che jian zhong xin	1
+车脑	che nao	1
+车坡	che po	1
+车桥	che qiao	1
+车塘	che tang	1
+车田	che tian	1
+车田村	che tian cun	1
+车田坪	che tian ping	1
+车头冲	che tou chong	1
+车头村	che tou cun	1
+车头坪	che tou ping	1
+车头桥	che tou qiao	1
+车头镇	che tou zhen	1
+车头中学	che tou zhong xue	1
+车湾	che wan	1
+车湾村	che wan cun	1
+车溪村	che xi cun	1
+车下	che xia	1
+车子里	che zi li	1
+车子下	che zi xia	1
+晨岗	chen gang	1
+陈古	chen gu	1
+郴桂路	chen gui lu	1
+陈家	chen jia	1
+陈家坳	chen jia ao	1
+陈家坝	chen jia ba	1
+陈家边	chen jia bian	1
+陈家冲	chen jia chong	1
+陈家村	chen jia cun	1
+陈家洞	chen jia dong	1
+陈家坊	chen jia fang	1
+陈家垅	chen jia long	1
+陈家门	chen jia men	1
+陈家门口	chen jia men kou	1
+陈家排	chen jia pai	1
+陈家坪	chen jia ping	1
+陈家坪村	chen jia ping cun	1
+陈家山	chen jia shan	1
+陈家塘	chen jia tang	1
+陈家塘村	chen jia tang cun	1
+陈家湾	chen jia wan	1
+陈家湾村	chen jia wan cun	1
+陈家贤	chen jia xian	1
+陈家元	chen jia yuan	1
+陈家园	chen jia yuan	1
+陈家宅	chen jia zhai	1
+陈家庄	chen jia zhuang	1
+郴建集团	chen jian ji tuan	1
+郴江	chen jiang	1
+陈江村	chen jiang cun	1
+郴江花园	chen jiang hua yuan	1
+陈六	chen liu	1
+陈门村	chen men cun	1
+陈排	chen pai	1
+陈坪	chen ping	1
+郴汽集团	chen qi ji tuan	1
+陈塘村	chen tang cun	1
+陈溪村	chen xi cun	1
+郴州北湖市场	chen zhou bei hu shi chang	1
+郴州宾馆	chen zhou bin guan	1
+郴州出口	chen zhou chu kou	1
+郴州大厦	chen zhou da sha	1
+郴州电大	chen zhou dian da	1
+郴州电脑城	chen zhou dian nao cheng	1
+郴州国际大酒店	chen zhou guo ji da jiu dian	1
+郴州技术学院	chen zhou ji shu xue yuan	1
+郴州粮机	chen zhou liang ji	1
+郴州汽车南站	chen zhou qi che nan zhan	1
+郴州人才市场	chen zhou ren cai shi chang	1
+郴州日报	chen zhou ri bao	1
+郴州三中	chen zhou san zhong	1
+郴州市	chen zhou shi	1
+郴州市财政局	chen zhou shi cai zheng ju	1
+郴州市第二中学	chen zhou shi di er zhong xue	1
+郴州市地税局	chen zhou shi di shui ju	1
+郴州市第一中学	chen zhou shi di yi zhong xue	1
+郴州市电业局	chen zhou shi dian ye ju	1
+郴州师范	chen zhou shi fan	1
+郴州市公安局	chen zhou shi gong an ju	1
+郴州市工商局	chen zhou shi gong shang ju	1
+郴州市国土局	chen zhou shi guo tu ju	1
+郴州市环保局	chen zhou shi huan bao ju	1
+郴州市检察院	chen zhou shi jian cha yuan	1
+郴州市建设局	chen zhou shi jian she ju	1
+郴州市交通局	chen zhou shi jiao tong ju	1
+郴州市教育局	chen zhou shi jiao yu ju	1
+郴州市九中	chen zhou shi jiu zhong	1
+郴州市林业局	chen zhou shi lin ye ju	1
+郴州市六中	chen zhou shi liu zhong	1
+郴州市民政局	chen zhou shi min zheng ju	1
+郴州市气象局	chen zhou shi qi xiang ju	1
+郴州市人事局	chen zhou shi ren shi ju	1
+郴州市十一中	chen zhou shi shi yi zhong	1
+郴州市水利局	chen zhou shi shui li ju	1
+郴州市委	chen zhou shi wei	1
+郴州市卫生局	chen zhou shi wei sheng ju	1
+郴州市五中	chen zhou shi wu zhong	1
+郴州市一完小	chen zhou shi yi wan xiao	1
+郴州市政府	chen zhou shi zheng fu	1
+郴州市中医院	chen zhou shi zhong yi yuan	1
+郴州师专	chen zhou shi zhuan	1
+郴州四中	chen zhou si zhong	1
+郴州特产	chen zhou te chan	1
+郴州五中	chen zhou wu zhong	1
+郴州新网	chen zhou xin wang	1
+郴州一中	chen zhou yi zhong	1
+郴州医专	chen zhou yi zhuan	1
+郴州迎宾馆	chen zhou ying bin guan	1
+郴州影剧院	chen zhou ying ju yuan	1
+郴州站	chen zhou zhan	1
+城背村	cheng bei cun	1
+城北村	cheng bei cun	1
+城北加油站	cheng bei jia you zhan	1
+城北小学	cheng bei xiao xue	1
+城北邮政支局	cheng bei you zheng zhi ju	1
+城东村	cheng dong cun	1
+城东加油站	cheng dong jia you zhan	1
+城东学校	cheng dong xue xiao	1
+秤钩湾	cheng gou wan	1
+城关二小	cheng guan er xiao	1
+城关加油站	cheng guan jia you zhan	1
+城关医院	cheng guan yi yuan	1
+城关镇	cheng guan zhen	1
+城关镇卫生院	cheng guan zhen wei sheng yuan	1
+城关镇政府	cheng guan zhen zheng fu	1
+城关镇中心小学	cheng guan zhen zhong xin xiao xue	1
+城关中学	cheng guan zhong xue	1
+成家村	cheng jia cun	1
+澄江	cheng jiang	1
+城江村	cheng jiang cun	1
+程江村	cheng jiang cun	1
+城郊村	cheng jiao cun	1
+城郊桥	cheng jiao qiao	1
+城角头	cheng jiao tou	1
+城郊乡	cheng jiao xiang	1
+城郊乡卫生院	cheng jiao xiang wei sheng yuan	1
+城郊乡政府	cheng jiao xiang zheng fu	1
+成康	cheng kang	1
+城南加油站	cheng nan jia you zhan	1
+城南乡	cheng nan xiang	1
+城南乡政府	cheng nan xiang zheng fu	1
+承坪乡	cheng ping xiang	1
+城前岭	cheng qian ling	1
+城市花园	cheng shi hua yuan	1
+城市英雄	cheng shi ying xiong	1
+城塘	cheng tang	1
+城头	cheng tou	1
+城头村	cheng tou cun	1
+城头下	cheng tou xia	1
+城溪村	cheng xi cun	1
+诚信大厦	cheng xin da sha	1
+撑腰石	cheng yao shi	1
+城镇中学	cheng zhen zhong xue	1
+城子里	cheng zi li	1
+池家	chi jia	1
+赤坑	chi keng	1
+赤市	chi shi	1
+赤石乡	chi shi xiang	1
+赤水洞	chi shui dong	1
+赤滩村	chi tan cun	1
+赤塘村	chi tang cun	1
+赤土	chi tu	1
+赤源村	chi yuan cun	1
+赤竹坪	chi zhu ping	1
+冲的	chong de	1
+冲角	chong jiao	1
+冲口	chong kou	1
+冲口上	chong kou shang	1
+冲里	chong li	1
+冲木	chong mu	1
+冲内	chong nei	1
+冲天顶	chong tian ding	1
+冲头	chong tou	1
+冲头村	chong tou cun	1
+冲尾	chong wei	1
+冲下	chong xia	1
+臭泥塘	chou ni tang	1
+楚家	chu jia	1
+楚家村	chu jia cun	1
+初江	chu jiang	1
+楚江	chu jiang	1
+楚江村	chu jiang cun	1
+楚江乡	chu jiang xiang	1
+滁口镇	chu kou zhen	1
+出龙江	chu long jiang	1
+出米岩	chu mi yan	1
+楚南	chu nan	1
+出山口	chu shan kou	1
+出水冲	chu shui chong	1
+出水塘	chu shui tang	1
+出水岩	chu shui yan	1
+出塘	chu tang	1
+楚塘	chu tang	1
+船坳	chuan ao	1
+船底窝	chuan di wo	1
+船洞	chuan dong	1
+船坑	chuan keng	1
+船岭	chuan ling	1
+船山村	chuan shan cun	1
+船上	chuan shang	1
+川石	chuan shi	1
+川水	chuan shui	1
+船塘	chuan tang	1
+船塘村	chuan tang cun	1
+船头村	chuan tou cun	1
+船形	chuan xing	1
+船形村	chuan xing cun	1
+窗下	chuang xia	1
+创新幼儿园	chuang xin you er yuan	1
+创业驾校	chuang ye jia xiao	1
+春峰村	chun feng cun	1
+春蕾幼儿园	chun lei you er yuan	1
+春秋茶楼	chun qiu cha lou	1
+椿树坪	chun shu ping	1
+椿树下	chun shu xia	1
+春塘	chun tang	1
+瓷厂	ci chang	1
+次冲	ci chong	1
+茨冲村	ci chong cun	1
+祠堂里	ci tang li	1
+祠堂头	ci tang tou	1
+祠堂湾	ci tang wan	1
+祠堂下	ci tang xia	1
+丛林的	cong lin de	1
+丛山里	cong shan li	1
+粗坑	cu keng	1
+粗石江村	cu shi jiang cun	1
+粗石坑	cu shi keng	1
+崔家	cui jia	1
+崔家坳	cui jia ao	1
+崔江村	cui jiang cun	1
+村冲	cun chong	1
+村头	cun tou	1
+村头村	cun tou cun	1
+村尾村	cun wei cun	1
+大坳	da ao	1
+大垇	da ao	1
+大凹岭	da ao ling	1
+大坳头	da ao tou	1
+大坳下	da ao xia	1
+大把冲	da ba chong	1
+大坝里	da ba li	1
+大坝脑	da ba nao	1
+大柏	da bai	1
+大白塘	da bai tang	1
+大板桥	da ban qiao	1
+大板上	da ban shang	1
+大塝	da bang	1
+大榜	da bang	1
+大背村	da bei cun	1
+大背岭	da bei ling	1
+大波冲	da bo chong	1
+大步冲	da bu chong	1
+大步村	da bu cun	1
+大布江	da bu jiang	1
+大布江乡	da bu jiang xiang	1
+大埠头	da bu tou	1
+大草坪	da cao ping	1
+大长江	da chang jiang	1
+大厂里	da chang li	1
+大车下	da che xia	1
+大乘村	da cheng cun	1
+大城村	da cheng cun	1
+大成山	da cheng shan	1
+大冲村	da chong cun	1
+大冲的	da chong de	1
+大冲里	da chong li	1
+大冲坪	da chong ping	1
+大冲头	da chong tou	1
+大冲下	da chong xia	1
+大冲乡	da chong xiang	1
+大冲站	da chong zhan	1
+大村	da cun	1
+大地村	da di cun	1
+大洞	da dong	1
+大洞村	da dong cun	1
+大洞得	da dong de	1
+大东坑	da dong keng	1
+大斗	da dou	1
+大塅	da duan	1
+大段里	da duan li	1
+大奀	da en	1
+大耳山	da er shan	1
+大坊村	da fang cun	1
+大方洞	da fang dong	1
+大房湾	da fang wan	1
+大坊小学	da fang xiao xue	1
+大汾	da fen	1
+大凤	da feng	1
+大凤村	da feng cun	1
+大风山	da feng shan	1
+大富	da fu	1
+大富村	da fu cun	1
+大富豪酒店	da fu hao jiu dian	1
+达芙妮	da fu ni	1
+达夫妮	da fu ni	1
+大福桥	da fu qiao	1
+大富头	da fu tou	1
+大岗	da gang	1
+大埂	da geng	1
+大埂上	da geng shang	1
+大弓背	da gong bei	1
+打鼓洞	da gu dong	1
+打鼓岭	da gu ling	1
+打卦石	da gua shi	1
+大官岭	da guan ling	1
+大观园	da guan yuan	1
+大广村	da guang cun	1
+大光明眼镜	da guang ming yan jing	1
+大光山	da guang shan	1
+大锅里	da guo li	1
+大海头	da hai tou	1
+大汉村	da han cun	1
+大河	da he	1
+大河边	da he bian	1
+大何村	da he cun	1
+大河村	da he cun	1
+大禾村	da he cun	1
+大河山	da he shan	1
+大禾塘	da he tang	1
+大禾田	da he tian	1
+大河洲	da he zhou	1
+大湖村	da hu cun	1
+大湖的	da hu de	1
+大湖山	da hu shan	1
+大湖仙	da hu xian	1
+大华加油站	da hua jia you zhan	1
+大花山	da hua shan	1
+大黄家村	da huang jia cun	1
+大火	da huo	1
+大吉下	da ji xia	1
+达家	da jia	1
+大稼	da jia	1
+大家门	da jia men	1
+大江背	da jiang bei	1
+大江边	da jiang bian	1
+大江边村	da jiang bian cun	1
+大江村	da jiang cun	1
+大江里	da jiang li	1
+大江头	da jiang tou	1
+大脚岭	da jiao ling	1
+大脚湾	da jiao wan	1
+大街里	da jie li	1
+大津	da jin	1
+大井	da jing	1
+大井村	da jing cun	1
+大井水	da jing shui	1
+大井头	da jing tou	1
+大军冲	da jun chong	1
+大坑	da keng	1
+大坑村	da keng cun	1
+大坑对面	da keng dui mian	1
+大坑里	da keng li	1
+大坑尾	da keng wei	1
+大块	da kuai	1
+大块里	da kuai li	1
+大奎山	da kui shan	1
+大奎上	da kui shang	1
+大奎上乡	da kui shang xiang	1
+大来村	da lai cun	1
+大浪上	da lang shang	1
+大李家	da li jia	1
+大栗坪	da li ping	1
+大莲村	da lian cun	1
+大寮	da liao	1
+大岭	da ling	1
+大岭背	da ling bei	1
+大岭村	da ling cun	1
+大岭脚	da ling jiao	1
+大岭里	da ling li	1
+大岭林场	da ling lin chang	1
+大岭脑	da ling nao	1
+大岭山	da ling shan	1
+大岭上	da ling shang	1
+大岭头	da ling tou	1
+大岭下	da ling xia	1
+大岭寨	da ling zhai	1
+大柳	da liu	1
+大留村	da liu cun	1
+大垄	da long	1
+大垅	da long	1
+大垅村	da long cun	1
+大龙口	da long kou	1
+大垅里	da long li	1
+大龙岭	da long ling	1
+大龙山	da long shan	1
+大龙头	da long tou	1
+大垅头	da long tou	1
+大路背	da lu bei	1
+大路边	da lu bian	1
+大路村	da lu cun	1
+大路岭	da lu ling	1
+大路面	da lu mian	1
+大路山	da lu shan	1
+大路水	da lu shui	1
+大路头	da lu tou	1
+大路湾	da lu wan	1
+大路下	da lu xia	1
+大罗家	da luo jia	1
+大律	da lv	1
+大律村	da lv cun	1
+大马村	da ma cun	1
+大麻村	da ma cun	1
+大马坪	da ma ping	1
+大麻塘	da ma tang	1
+大马头	da ma tou	1
+大麻头	da ma tou	1
+大帽岭	da mao ling	1
+大茅坪	da mao ping	1
+大门朝北	da men chao bei	1
+大门图	da men tu	1
+大面里	da mian li	1
+大庙	da miao	1
+大庙背	da miao bei	1
+大庙前	da miao qian	1
+大木冲	da mu chong	1
+大木山	da mu shan	1
+大木树	da mu shu	1
+大木塘	da mu tang	1
+打脑	da nao	1
+大排	da pai	1
+大排岭	da pai ling	1
+大排山	da pai shan	1
+大排上	da pai shang	1
+大朋村	da peng cun	1
+大批山	da pi shan	1
+大偏	da pian	1
+大坪	da ping	1
+大平	da ping	1
+大平车	da ping che	1
+大坪村	da ping cun	1
+大坪坑	da ping keng	1
+大坪里	da ping li	1
+大平里	da ping li	1
+大坪林场	da ping lin chang	1
+大坪岭	da ping ling	1
+大坪农场	da ping nong chang	1
+大坪山	da ping shan	1
+大坪上	da ping shang	1
+大坪塘	da ping tang	1
+大坪头	da ping tou	1
+大坪头村	da ping tou cun	1
+大坪镇	da ping zhen	1
+大坪中学	da ping zhong xue	1
+大坡村	da po cun	1
+大坡里	da po li	1
+大坡岭	da po ling	1
+大坡上	da po shang	1
+大坡头	da po tou	1
+大铺村	da pu cun	1
+大乾	da qian	1
+大桥村	da qiao cun	1
+大坵	da qiu	1
+大丘村	da qiu cun	1
+大丘头	da qiu tou	1
+大泉村	da quan cun	1
+大泉头	da quan tou	1
+大沙盘	da sha pan	1
+大沙坪	da sha ping	1
+大沙头	da sha tou	1
+大山	da shan	1
+大山背	da shan bei	1
+大山冲	da shan chong	1
+大山村	da shan cun	1
+大山洞	da shan dong	1
+大山脚	da shan jiao	1
+大山口	da shan kou	1
+大山里	da shan li	1
+大山林场	da shan lin chang	1
+大山岭	da shan ling	1
+大山垄	da shan long	1
+大山脑	da shan nao	1
+大山坪	da shan ping	1
+大山头	da shan tou	1
+大山尾	da shan wei	1
+大山下	da shan xia	1
+大山园	da shan yuan	1
+大舍	da she	1
+打石坳	da shi ao	1
+大士村	da shi cun	1
+大石村	da shi cun	1
+大石脚	da shi jiao	1
+大石岭	da shi ling	1
+大石坪	da shi ping	1
+大石山	da shi shan	1
+大石头	da shi tou	1
+大石下	da shi xia	1
+大树	da shu	1
+大树背	da shu bei	1
+大树村	da shu cun	1
+大树脚	da shu jiao	1
+大树坑	da shu keng	1
+大树塘	da shu tang	1
+大树田	da shu tian	1
+大树窝	da shu wo	1
+大树下	da shu xia	1
+大树下村	da shu xia cun	1
+大水	da shui	1
+大水冲	da shui chong	1
+大水村	da shui cun	1
+大水洞	da shui dong	1
+大水江	da shui jiang	1
+大水井	da shui jing	1
+大水坑	da shui keng	1
+大水口	da shui kou	1
+大水垄	da shui long	1
+大水垅	da shui long	1
+大水坪	da shui ping	1
+大水桥	da shui qiao	1
+大水山	da shui shan	1
+大水湾	da shui wan	1
+大水乡	da shui xiang	1
+大水源	da shui yuan	1
+大寺村	da si cun	1
+大坦	da tan	1
+大滩村	da tan cun	1
+大塘	da tang	1
+大汤	da tang	1
+大塘坳	da tang ao	1
+大塘背	da tang bei	1
+大塘冲	da tang chong	1
+大塘村	da tang cun	1
+大塘加油站	da tang jia you zhan	1
+大塘江	da tang jiang	1
+大塘角	da tang jiao	1
+大塘坑	da tang keng	1
+大塘里	da tang li	1
+大塘垅	da tang long	1
+大塘美	da tang mei	1
+大塘面	da tang mian	1
+大塘坪	da tang ping	1
+大塘丘	da tang qiu	1
+大塘湾	da tang wan	1
+大塘尾	da tang wei	1
+大塘下	da tang xia	1
+大塘乡	da tang xiang	1
+大塘园	da tang yuan	1
+大塘中学	da tang zhong xue	1
+大田坳	da tian ao	1
+大田的	da tian de	1
+大田埂	da tian geng	1
+大田楼	da tian lou	1
+大田铺	da tian pu	1
+大田头	da tian tou	1
+打铁冲	da tie chong	1
+大头冲	da tou chong	1
+大头老	da tou lao	1
+大头岭	da tou ling	1
+大头山	da tou shan	1
+大头园	da tou yuan	1
+大土	da tu	1
+大土脚	da tu jiao	1
+大土里	da tu li	1
+大土岭	da tu ling	1
+大塆	da wan	1
+大湾	da wan	1
+大湾冲	da wan chong	1
+大碗厨	da wan chu	1
+大湾村	da wan cun	1
+大湾的	da wan de	1
+大湾口	da wan kou	1
+大弯里	da wan li	1
+大湾里	da wan li	1
+大湾上	da wan shang	1
+大湾塘	da wan tang	1
+大弯头	da wan tou	1
+大湾头	da wan tou	1
+大湾小学	da wan xiao xue	1
+大王冲	da wang chong	1
+大王庙	da wang miao	1
+大围	da wei	1
+大围里	da wei li	1
+大窝	da wo	1
+大窝村	da wo cun	1
+大窝里	da wo li	1
+大窝岭	da wo ling	1
+大窝头	da wo tou	1
+大窝子	da wo zi	1
+大屋	da wu	1
+大屋边	da wu bian	1
+大屋场	da wu chang	1
+大屋冲	da wu chong	1
+大屋里	da wu li	1
+大雾山	da wu shan	1
+大屋塘	da wu tang	1
+大屋头	da wu tou	1
+大屋下	da wu xia	1
+大屋庄	da wu zhuang	1
+大溪	da xi	1
+大溪村	da xi cun	1
+大溪岭	da xi ling	1
+大西塘	da xi tang	1
+大溪头	da xi tou	1
+大溪下	da xi xia	1
+大斜	da xie	1
+大兴村	da xing cun	1
+大兴湾	da xing wan	1
+大穴头	da xue tou	1
+大丫上	da ya shang	1
+大丫头	da ya tou	1
+大岩背	da yan bei	1
+大岩下	da yan xia	1
+大杨村	da yang cun	1
+大阳山	da yang shan	1
+大益茶馆	da yi cha guan	1
+大有村	da you cun	1
+大元	da yuan	1
+大园	da yuan	1
+大垣	da yuan	1
+大沅	da yuan	1
+大源	da yuan	1
+大远村	da yuan cun	1
+大元村	da yuan cun	1
+大源村	da yuan cun	1
+大元里	da yuan li	1
+大园里	da yuan li	1
+大元山村	da yuan shan cun	1
+大元上	da yuan shang	1
+大源水库	da yuan shui ku	1
+大元头	da yuan tou	1
+大园头	da yuan tou	1
+大院子	da yuan zi	1
+大樟	da zhang	1
+大掌里	da zhang li	1
+大樟树下	da zhang shu xia	1
+大圳口	da zhen kou	1
+大众旅行社	da zhong lv xing she	1
+大众药房	da zhong yao fang	1
+大洲	da zhou	1
+大竹	da zhu	1
+大竹坪	da zhu ping	1
+大竹山	da zhu shan	1
+大竹山村	da zhu shan cun	1
+大竹园	da zhu yuan	1
+大自然地板	da zi ran di ban	1
+带冲	dai chong	1
+带古	dai gu	1
+代家	dai jia	1
+戴家	dai jia	1
+戴家坝	dai jia ba	1
+戴家冲	dai jia chong	1
+代家村	dai jia cun	1
+戴家村	dai jia cun	1
+戴家塆	dai jia wan	1
+岱上	dai shang	1
+代头	dai tou	1
+岱头	dai tou	1
+玳溪	dai xi	1
+代下	dai xia	1
+岱下	dai xia	1
+担杆岭	dan gan ling	1
+单古	dan gu	1
+淡家	dan jia	1
+丹岭	dan ling	1
+丹水	dan shui	1
+丹水岭	dan shui ling	1
+丹阳大酒店	dan yang da jiu dian	1
+党冲	dang chong	1
+挡冲	dang chong	1
+当家村	dang jia cun	1
+当家塘	dang jia tang	1
+党里	dang li	1
+党上	dang shang	1
+党下	dang xia	1
+刀背山	dao bei shan	1
+刀冲	dao chong	1
+道洞	dao dong	1
+倒洞	dao dong	1
+倒湖里	dao hu li	1
+道角	dao jiao	1
+倒角上	dao jiao shang	1
+到岭	dao ling	1
+道南村	dao nan cun	1
+倒坪	dao ping	1
+岛石村	dao shi cun	1
+道士山	dao shi shan	1
+道士岩	dao shi yan	1
+到水塘	dao shui tang	1
+道塘	dao tang	1
+到塘	dao tang	1
+道塘村	dao tang cun	1
+道塘小学	dao tang xiao xue	1
+道头	dao tou	1
+道窝里	dao wo li	1
+倒窝里	dao wo li	1
+到下	dao xia	1
+到应	dao ying	1
+道子上	dao zi shang	1
+德冲	de chong	1
+得靖	de jing	1
+德仁堂大药房	de ren tang da yao fang	1
+德兴宾馆	de xing bin guan	1
+得月楼	de yue lou	1
+邓古	deng gu	1
+邓家	deng jia	1
+邓家坳	deng jia ao	1
+邓家冲	deng jia chong	1
+邓家村	deng jia cun	1
+邓家磊	deng jia lei	1
+邓家垅	deng jia long	1
+邓家门	deng jia men	1
+邓家坪	deng jia ping	1
+邓家山	deng jia shan	1
+邓家塘	deng jia tang	1
+邓家田	deng jia tian	1
+邓家湾	deng jia wan	1
+邓家湾村	deng jia wan cun	1
+邓家屋场	deng jia wu chang	1
+邓家洲	deng jia zhou	1
+邓林村	deng lin cun	1
+蹬上	deng shang	1
+磴上	deng shang	1
+等下	deng xia	1
+灯盏坪	deng zhan ping	1
+灯盏湾	deng zhan wan	1
+灯盏窝	deng zhan wo	1
+灯盏下	deng zhan xia	1
+滴白水	di bai shui	1
+地背	di bei	1
+地冲	di chong	1
+第二医院	di er yi yuan	1
+堤埂	di geng	1
+地脚下	di jiao xia	1
+地界村	di jie cun	1
+地垄里	di long li	1
+地坪	di ping	1
+地前	di qian	1
+第三医院	di san yi yuan	1
+滴山水	di shan shui	1
+滴水带	di shui dai	1
+滴水下	di shui xia	1
+第四医院	di si yi yuan	1
+地鱼塘	di yu tang	1
+低洲	di zhou	1
+店背	dian bei	1
+殿背	dian bei	1
+店里	dian li	1
+电力宾馆	dian li bin guan	1
+电力大厦	dian li da sha	1
+电力旅行社	dian li lv xing she	1
+殿上	dian shang	1
+点石家装	dian shi jia zhuang	1
+淀头	dian tou	1
+殿尾	dian wei	1
+店下	dian xia	1
+吊村	diao cun	1
+吊沟岭	diao gou ling	1
+吊井岩	diao jing yan	1
+吊坑	diao keng	1
+吊楼上	diao lou shang	1
+掉楼上	diao lou shang	1
+吊棚上	diao peng shang	1
+吊嘴里	diao zui li	1
+鼎福楼	ding fu lou	1
+定盖	ding gai	1
+鼎和大酒店	ding he da jiu dian	1
+丁家	ding jia	1
+丁家坳	ding jia ao	1
+顶上	ding shang	1
+顶上村	ding shang cun	1
+东岸	dong an	1
+东岸村	dong an cun	1
+东边角	dong bian jiao	1
+东边岭	dong bian ling	1
+东边落	dong bian luo	1
+东边湾	dong bian wan	1
+东边庄	dong bian zhuang	1
+东波	dong bo	1
+东波村	dong bo cun	1
+东槽村	dong cao cun	1
+东车	dong che	1
+东城村	dong cheng cun	1
+东成乡	dong cheng xiang	1
+东冲	dong chong	1
+东冲村	dong chong cun	1
+东冲口	dong chong kou	1
+东村	dong cun	1
+东洞	dong dong	1
+东洞村	dong dong cun	1
+东渡	dong du	1
+东方村	dong fang cun	1
+东方灯饰	dong fang deng shi	1
+东方明珠	dong fang ming zhu	1
+东方新城	dong fang xin cheng	1
+东方足浴	dong fang zu yu	1
+东风村	dong feng cun	1
+东风井	dong feng jing	1
+东风农贸市场	dong feng nong mao shi chang	1
+东风头	dong feng tou	1
+东风乡	dong feng xiang	1
+东风小学	dong feng xiao xue	1
+东风中学	dong feng zhong xue	1
+东干	dong gan	1
+东岗村	dong gang cun	1
+东岗岭	dong gang ling	1
+东岗山	dong gang shan	1
+东瓜冲	dong gua chong	1
+冬瓜冲	dong gua chong	1
+冬瓜岭	dong gua ling	1
+冬瓜坪	dong gua ping	1
+冬瓜山	dong gua shan	1
+东河村	dong he cun	1
+东河口	dong he kou	1
+洞洪村	dong hong cun	1
+东华山	dong hua shan	1
+董家	dong jia	1
+董家冲	dong jia chong	1
+东家冲	dong jia chong	1
+董家村	dong jia cun	1
+东家老	dong jia lao	1
+东江	dong jiang	1
+洞江	dong jiang	1
+东江宾馆	dong jiang bin guan	1
+东江村	dong jiang cun	1
+东江洞	dong jiang dong	1
+东江湖	dong jiang hu	1
+东江加油站	dong jiang jia you zhan	1
+东江明珠大酒店	dong jiang ming zhu da jiu dian	1
+东江水	dong jiang shui	1
+东江水库	dong jiang shui ku	1
+东江水泥厂	dong jiang shui ni chang	1
+东江镇	dong jiang zhen	1
+东郊村	dong jiao cun	1
+东街	dong jie	1
+东街桥	dong jie qiao	1
+东卡	dong ka	1
+东坑	dong keng	1
+冬坑	dong keng	1
+东坑村	dong keng cun	1
+东坑里	dong keng li	1
+东坑头	dong keng tou	1
+东坑小学	dong keng xiao xue	1
+东口	dong kou	1
+洞口	dong kou	1
+洞口村	dong kou cun	1
+洞口乡	dong kou xiang	1
+东来顺	dong lai shun	1
+洞里	dong li	1
+东林庵	dong lin an	1
+东岭	dong ling	1
+冬岭	dong ling	1
+东岭背	dong ling bei	1
+东岭村	dong ling cun	1
+东岭上	dong ling shang	1
+东岭乡	dong ling xiang	1
+东流村	dong liu cun	1
+东流水	dong liu shui	1
+东流小学	dong liu xiao xue	1
+东洛	dong luo	1
+东洛村	dong luo cun	1
+东洛乡	dong luo xiang	1
+动漫电玩	dong man dian wan	1
+东茅岭	dong mao ling	1
+东毛岭	dong mao ling	1
+东门	dong men	1
+东门村	dong men cun	1
+东门口	dong men kou	1
+东门前	dong men qian	1
+东木桥	dong mu qiao	1
+洞脑	dong nao	1
+东坪	dong ping	1
+东坪村	dong ping cun	1
+东坪乡	dong ping xiang	1
+东坡	dong po	1
+东坡村	dong po cun	1
+东坡头	dong po tou	1
+东桥	dong qiao	1
+东桥村	dong qiao cun	1
+东桥加油站	dong qiao jia you zhan	1
+洞青	dong qing	1
+东曲江	dong qu jiang	1
+东沙	dong sha	1
+东沙村	dong sha cun	1
+东山	dong shan	1
+冻山	dong shan	1
+东山坳	dong shan ao	1
+东山村	dong shan cun	1
+东山公	dong shan gong	1
+东山坑	dong shan keng	1
+东山里	dong shan li	1
+东山林场	dong shan lin chang	1
+东山垅	dong shan long	1
+东山桥	dong shan qiao	1
+东山湾	dong shan wan	1
+东山下	dong shan xia	1
+栋上	dong shang	1
+洞上	dong shang	1
+东升幼儿园	dong sheng you er yuan	1
+东市村	dong shi cun	1
+东寿村	dong shou cun	1
+东双	dong shuang	1
+董水	dong shui	1
+东水	dong shui	1
+东水村	dong shui cun	1
+洞水村	dong shui cun	1
+东水田	dong shui tian	1
+东塔公园	dong ta gong yuan	1
+东塔岭	dong ta ling	1
+东塔农贸市场	dong ta nong mao shi chang	1
+东塔桥	dong ta qiao	1
+东塔中学	dong ta zhong xue	1
+东滩	dong tan	1
+东塘	dong tang	1
+东塘村	dong tang cun	1
+东塘电气	dong tang dian qi	1
+东塘桥	dong tang qiao	1
+东塘下	dong tang xia	1
+东田	dong tian	1
+冬田	dong tian	1
+洞庭菜馆	dong ting cai guan	1
+洞庭食府	dong ting shi fu	1
+洞头	dong tou	1
+洞头村	dong tou cun	1
+东湾	dong wan	1
+洞湾	dong wan	1
+洞尾	dong wei	1
+洞尾村	dong wei cun	1
+洞窝里	dong wo li	1
+东溪村	dong xi cun	1
+东西坑	dong xi keng	1
+东溪完小	dong xi wan xiao	1
+洞下	dong xia	1
+洞心	dong xin	1
+东轩	dong xuan	1
+东堰	dong yan	1
+东洋市	dong yang shi	1
+东元	dong yuan	1
+东苑广场	dong yuan guang chang	1
+东源山	dong yuan shan	1
+东泽村	dong ze cun	1
+东寨	dong zhai	1
+东正	dong zheng	1
+东正村	dong zheng cun	1
+洞中间	dong zhong jian	1
+洞中心	dong zhong xin	1
+东周村	dong zhou cun	1
+东庄	dong zhuang	1
+东庄村	dong zhuang cun	1
+洞子下	dong zi xia	1
+豆冲	dou chong	1
+斗冲	dou chong	1
+豆腐厂	dou fu chang	1
+豆古	dou gu	1
+斗光	dou guang	1
+豆家	dou jia	1
+都辽	dou liao	1
+都寮	dou liao	1
+都岭	dou ling	1
+陡岭	dou ling	1
+斗岭	dou ling	1
+兜率岩	dou lv yan	1
+豆坪村	dou ping cun	1
+斗坵	dou qiu	1
+斗山村	dou shan cun	1
+斗上	dou shang	1
+兜水	dou shui	1
+斗屋	dou wu	1
+斗下	dou xia	1
+斗余	dou yu	1
+独公子	du gong zi	1
+杜古	du gu	1
+渡河村	du he cun	1
+杜家	du jia	1
+杜家冲	du jia chong	1
+杜家村	du jia cun	1
+渡口村	du kou cun	1
+渡口大桥	du kou da qiao	1
+渡口乡	du kou xiang	1
+渡口中学	du kou zhong xue	1
+杜泥	du ni	1
+杜泥村	du ni cun	1
+独石	du shi	1
+独石村	du shi cun	1
+都市华庭	du shi hua ting	1
+都市乡村	du shi xiang cun	1
+独石寨	du shi zhai	1
+独松	du song	1
+渡头村	du tou cun	1
+渡头坪	du tou ping	1
+塅背	duan bei	1
+短顶	duan ding	1
+段古	duan gu	1
+段家	duan jia	1
+段家坝	duan jia ba	1
+段家冲	duan jia chong	1
+段家岭	duan jia ling	1
+段家坪	duan jia ping	1
+段家湾	duan jia wan	1
+塅里	duan li	1
+断桥	duan qiao	1
+段下	duan xia	1
+堆背	dui bei	1
+堆积山	dui ji shan	1
+对江山	dui jiang shan	1
+对门冲	dui men chong	1
+对门洞	dui men dong	1
+对门对	dui men dui	1
+对门江	dui men jiang	1
+对门岭	dui men ling	1
+对门排	dui men pai	1
+对门湾	dui men wan	1
+对门屋	dui men wu	1
+堆上	dui shang	1
+堆上村	dui shang cun	1
+堆头	dui tou	1
+堆头上	dui tou shang	1
+堆下	dui xia	1
+墩背	dun bei	1
+墩丘	dun qiu	1
+趸上	dun shang	1
+墩头	dun tou	1
+多喜爱	duo xi ai	1
+鹅公坪	e gong ping	1
+鹅公塘	e gong tang	1
+鹅公头	e gong tou	1
+鹅公湾	e gong wan	1
+鹅颈	e jing	1
+鹅颈湾	e jing wan	1
+峨眉塘	e mei tang	1
+屙屎岭	e shi ling	1
+鹅头岭	e tou ling	1
+鹅形	e xing	1
+二八村	er ba cun	1
+二都村	er dou cun	1
+二峰	er feng	1
+二甲村	er jia cun	1
+二上	er shang	1
+二十把	er shi ba	1
+二十担	er shi dan	1
+二十五	er shi wu	1
+二塘	er tang	1
+儿童医院	er tong yi yuan	1
+二象	er xiang	1
+二医院	er yi yuan	1
+法勃儿	fa bo er	1
+发冲	fa chong	1
+发果	fa guo	1
+法老王俱乐部	fa lao wang ju le bu	1
+发龙村	fa long cun	1
+法堂村	fa tang cun	1
+发线	fa xian	1
+法云庵	fa yun an	1
+发之源	fa zhi yuan	1
+反背	fan bei	1
+范家	fan jia	1
+樊家	fan jia	1
+范家冲	fan jia chong	1
+范家村	fan jia cun	1
+樊家村	fan jia cun	1
+樊家桥	fan jia qiao	1
+范家山	fan jia shan	1
+范家湾	fan jia wan	1
+范龙村	fan long cun	1
+凡塘	fan tang	1
+方卜	fang bu	1
+方仓	fang cang	1
+方冲	fang chong	1
+方村	fang cun	1
+方洞	fang dong	1
+房家	fang jia	1
+方家铺	fang jia pu	1
+坊岭村	fang ling cun	1
+方门口	fang men kou	1
+方丘	fang qiu	1
+方坵	fang qiu	1
+方石	fang shi	1
+坊塘	fang tang	1
+方塘头	fang tang tou	1
+芳田	fang tian	1
+方田冲	fang tian chong	1
+芳头	fang tou	1
+方屋	fang wu	1
+方元镇	fang yuan zhen	1
+方正证券	fang zheng zheng quan	1
+飞彩	fei cai	1
+飞冲	fei chong	1
+翡翠明珠	fei cui ming zhu	1
+非凡婚纱摄影	fei fan hun sha she ying	1
+飞虹宾馆	fei hong bin guan	1
+飞虹公司	fei hong gong si	1
+飞虹路	fei hong lu	1
+飞机坪	fei ji ping	1
+菲妮迪	fei ni di	1
+飞天山	fei tian shan	1
+飞仙镇	fei xian zhen	1
+飞云台	fei yun tai	1
+飞钟	fei zhong	1
+坟冲	fen chong	1
+粪箕窝	fen ji wo	1
+分界岭	fen jie ling	1
+坟面前	fen mian qian	1
+坟山湾	fen shan wan	1
+坟山下	fen shan xia	1
+坟山园	fen shan yuan	1
+汾市乡	fen shi xiang	1
+分水凹	fen shui ao	1
+分水坳	fen shui ao	1
+分水村	fen shui cun	1
+分水界	fen shui jie	1
+风波庄	feng bo zhuang	1
+风采足浴城	feng cai zu yu cheng	1
+丰城村	feng cheng cun	1
+风吹口	feng chui kou	1
+凤光村	feng guang cun	1
+风海龙	feng hai long	1
+丰豪大酒店	feng hao da jiu dian	1
+凤凰冲	feng huang chong	1
+凤凰岭	feng huang ling	1
+凤凰楼酒店	feng huang lou jiu dian	1
+凤凰山	feng huang shan	1
+凤凰窝	feng huang wo	1
+丰家	feng jia	1
+冯家	feng jia	1
+冯家冲	feng jia chong	1
+丰家岭	feng jia ling	1
+冯家山	feng jia shan	1
+冯家湾	feng jia wan	1
+冯家小区	feng jia xiao qu	1
+枫林	feng lin	1
+丰垅村	feng long cun	1
+风门坳	feng men ao	1
+枫木	feng mu	1
+枫木坳	feng mu ao	1
+枫木冲	feng mu chong	1
+枫木岭	feng mu ling	1
+枫木岭村	feng mu ling cun	1
+枫木坪	feng mu ping	1
+枫木山	feng mu shan	1
+枫木塘村	feng mu tang cun	1
+峰南村	feng nan cun	1
+丰农村	feng nong cun	1
+枫坪	feng ping	1
+枫坪村	feng ping cun	1
+枫桥村	feng qiao cun	1
+丰山	feng shan	1
+枫山	feng shan	1
+枫山村	feng shan cun	1
+枫树坳	feng shu ao	1
+枫树冲	feng shu chong	1
+枫树村	feng shu cun	1
+枫树脚	feng shu jiao	1
+枫树坑	feng shu keng	1
+枫树岭	feng shu ling	1
+枫树垅	feng shu long	1
+枫树排	feng shu pai	1
+枫树坪	feng shu ping	1
+枫树坵	feng shu qiu	1
+枫树山	feng shu shan	1
+枫树塘	feng shu tang	1
+枫树亭	feng shu ting	1
+枫树湾	feng shu wan	1
+枫树屋	feng shu wu	1
+枫树下	feng shu xia	1
+枫树下村	feng shu xia cun	1
+逢塘	feng tang	1
+丰塘村	feng tang cun	1
+枫塘村	feng tang cun	1
+冯田	feng tian	1
+凤尾	feng wei	1
+枫溪	feng xi	1
+枫溪村	feng xi cun	1
+风形	feng xing	1
+凤形	feng xing	1
+凤形山	feng xing shan	1
+凤岩	feng yan	1
+凤岩村	feng yan cun	1
+枫远	feng yuan	1
+丰源宾馆	feng yuan bin guan	1
+佛祖村	fo zu cun	1
+富安娜家纺	fu an na jia fang	1
+福城四件宝	fu cheng si jian bao	1
+附城卫生院	fu cheng wei sheng yuan	1
+附城乡	fu cheng xiang	1
+附城中学	fu cheng zhong xue	1
+扶冲	fu chong	1
+福冲	fu chong	1
+富处	fu chu	1
+富村	fu cun	1
+扶村	fu cun	1
+福地人家	fu di ren jia	1
+富都大酒店	fu dou da jiu dian	1
+富贵鸟	fu gui niao	1
+富贵鸟男装	fu gui niao nan zhuang	1
+复和乡	fu he xiang	1
+付家	fu jia	1
+傅家	fu jia	1
+扶家	fu jia	1
+傅家村	fu jia cun	1
+符家村	fu jia cun	1
+富家洞	fu jia dong	1
+傅家坪	fu jia ping	1
+富家山	fu jia shan	1
+富江	fu jiang	1
+福康大药房	fu kang da yao fang	1
+福康医院	fu kang yi yuan	1
+甫口	fu kou	1
+甫口村	fu kou cun	1
+富乐	fu le	1
+福临宾馆	fu lin bin guan	1
+福隆宾馆	fu long bin guan	1
+福隆村	fu long cun	1
+福满楼	fu man lou	1
+福满园	fu man yuan	1
+福门楼	fu men lou	1
+富民宾馆	fu min bin guan	1
+富民大药房	fu min da yao fang	1
+富民商业城	fu min shang ye cheng	1
+富民市场	fu min shi chang	1
+府桥村	fu qiao cun	1
+富侨足浴	fu qiao zu yu	1
+福泉山庄	fu quan shan zhuang	1
+芙蓉冲	fu rong chong	1
+芙蓉村	fu rong cun	1
+芙蓉大酒店	fu rong da jiu dian	1
+芙蓉家园	fu rong jia yuan	1
+芙蓉江	fu rong jiang	1
+芙蓉塘	fu rong tang	1
+芙蓉学校	fu rong xue xiao	1
+芙蓉寨	fu rong zhai	1
+扶石	fu shi	1
+福水村	fu shui cun	1
+芙塘	fu tang	1
+芙塘村	fu tang cun	1
+扶塘村	fu tang cun	1
+福田庵	fu tian an	1
+斧头岭	fu tou ling	1
+斧头山	fu tou shan	1
+福星村	fu xing cun	1
+福星花园	fu xing hua yuan	1
+福星景苑	fu xing jing yuan	1
+福星楼	fu xing lou	1
+富阳村	fu yang cun	1
+副业场	fu ye chang	1
+妇幼保健院	fu you bao jian yuan	1
+福园酒楼	fu yuan jiu lou	1
+福沅山庄	fu yuan shan zhuang	1
+富源塘	fu yuan tang	1
+福源堂	fu yuan tang	1
+干冲	gan chong	1
+甘冲	gan chong	1
+干洞	gan dong	1
+赶坑	gan keng	1
+干坑	gan keng	1
+甘坑	gan keng	1
+甘坑村	gan keng cun	1
+干里	gan li	1
+甘岭村	gan ling cun	1
+干前	gan qian	1
+干丘	gan qiu	1
+干塘	gan tang	1
+干塘坳	gan tang ao	1
+甘塘坳	gan tang ao	1
+甘塘村	gan tang cun	1
+甘棠村	gan tang cun	1
+甘棠里	gan tang li	1
+干塘湾	gan tang wan	1
+干田	gan tian	1
+甘田	gan tian	1
+干田坳	gan tian ao	1
+甘溪	gan xi	1
+甘溪村	gan xi cun	1
+干竹	gan zhu	1
+甘庄	gan zhuang	1
+柑子冲	gan zi chong	1
+柑子坪	gan zi ping	1
+柑子山	gan zi shan	1
+干子上	gan zi shang	1
+柑子塘	gan zi tang	1
+柑子田	gan zi tian	1
+港华足浴	gang hua zu yu	1
+岗脚乡	gang jiao xiang	1
+岗岭村	gang ling cun	1
+岗山岭	gang shan ling	1
+港头	gang tou	1
+高岸	gao an	1
+高安水	gao an shui	1
+高坳	gao ao	1
+高背	gao bei	1
+高陂村	gao bei cun	1
+高背山	gao bei shan	1
+高壁	gao bi	1
+高比	gao bi	1
+高壁村	gao bi cun	1
+高埠	gao bu	1
+高仓村	gao cang cun	1
+高车	gao che	1
+搞车	gao che	1
+高车头	gao che tou	1
+高城村	gao cheng cun	1
+高冲	gao chong	1
+高冲村	gao chong cun	1
+高村	gao cun	1
+高岱	gao dai	1
+高灯	gao deng	1
+高洞	gao dong	1
+高墩	gao dun	1
+高墩里	gao dun li	1
+高坊	gao fang	1
+高坊村	gao fang cun	1
+高坟	gao fen	1
+高峰庵	gao feng an	1
+高丰村	gao feng cun	1
+高峰村	gao feng cun	1
+高峰洞	gao feng dong	1
+高峰岭	gao feng ling	1
+高峰水库	gao feng shui ku	1
+高峰塘	gao feng tang	1
+高峰头	gao feng tou	1
+高峰小区	gao feng xiao qu	1
+高峰寨	gao feng zhai	1
+高岗里	gao gang li	1
+高荷塘	gao he tang	1
+高级冲	gao ji chong	1
+高家	gao jia	1
+高架	gao jia	1
+高家坳	gao jia ao	1
+高家冲	gao jia chong	1
+高家港	gao jia gang	1
+高家里	gao jia li	1
+高家龙	gao jia long	1
+高家垅	gao jia long	1
+高家坪	gao jia ping	1
+高家铺	gao jia pu	1
+高家湾	gao jia wan	1
+高家屋	gao jia wu	1
+高家巷	gao jia xiang	1
+高枧	gao jian	1
+高枧村	gao jian cun	1
+高脚山	gao jiao shan	1
+高梁山	gao liang shan	1
+高寮	gao liao	1
+高岭	gao ling	1
+高岭村	gao ling cun	1
+高岭脚	gao ling jiao	1
+高岭庙	gao ling miao	1
+高岭山	gao ling shan	1
+高岭上	gao ling shang	1
+高岭下	gao ling xia	1
+高龙	gao long	1
+高龙村	gao long cun	1
+高龙桥村	gao long qiao cun	1
+高楼上	gao lou shang	1
+高路上	gao lu shang	1
+高码乡	gao ma xiang	1
+高门口	gao men kou	1
+高脑子	gao nao zi	1
+高排	gao pai	1
+高坪	gao ping	1
+高坪村	gao ping cun	1
+高坡	gao po	1
+高坡村	gao po cun	1
+高坡头	gao po tou	1
+高桥	gao qiao	1
+高桥坝	gao qiao ba	1
+高桥村	gao qiao cun	1
+高桥铺	gao qiao pu	1
+高桥水	gao qiao shui	1
+高坵	gao qiu	1
+高泉源	gao quan yuan	1
+高山	gao shan	1
+高杉	gao shan	1
+高山村	gao shan cun	1
+高山顶	gao shan ding	1
+高山庙	gao shan miao	1
+高山塘	gao shan tang	1
+高山头	gao shan tou	1
+高山下	gao shan xia	1
+高石	gao shi	1
+高石村	gao shi cun	1
+高石岭	gao shi ling	1
+高石头	gao shi tou	1
+高斯贝尔	gao si bei er	1
+高坦	gao tan	1
+高滩	gao tan	1
+高滩村	gao tan cun	1
+高塘	gao tang	1
+高塘冲	gao tang chong	1
+高塘村	gao tang cun	1
+高塘下	gao tang xia	1
+高田	gao tian	1
+高田村	gao tian cun	1
+高亭乡	gao ting xiang	1
+高头	gao tou	1
+高头里	gao tou li	1
+高头岭	gao tou ling	1
+高湾	gao wan	1
+高湾村	gao wan cun	1
+高屋	gao wu	1
+高屋村	gao wu cun	1
+高溪	gao xi	1
+高仙塘	gao xian tang	1
+高斜	gao xie	1
+高休	gao xiu	1
+高岩上	gao yan shang	1
+高源	gao yuan	1
+高源村	gao yuan cun	1
+高寨	gao zhai	1
+高宅村	gao zhai cun	1
+高障	gao zhang	1
+高圳	gao zhen	1
+高竹山	gao zhu shan	1
+高子	gao zi	1
+葛冲	ge chong	1
+各家	ge jia	1
+硌脚	ge jiao	1
+格蕾丝	ge lei si	1
+歌莉娅	ge li ya	1
+各门口	ge men kou	1
+格瑞特	ge rui te	1
+葛山村	ge shan cun	1
+隔水	ge shui	1
+鸽子山	ge zi shan	1
+艮岩	gen yan	1
+埂背	geng bei	1
+埂上	geng shang	1
+埂头	geng tou	1
+埂下	geng xia	1
+公安干校	gong an gan xiao	1
+公厕	gong ce	1
+公德岭	gong de ling	1
+功德岭村	gong de ling cun	1
+功德山	gong de shan	1
+供电公司	gong dian gong si	1
+公共山	gong gong shan	1
+公管	gong guan	1
+工行城东支行	gong hang cheng dong zhi hang	1
+工行广场支行	gong hang guang chang zhi hang	1
+工行解放路支行	gong hang jie fang lu zhi hang	1
+公和村	gong he cun	1
+共和村	gong he cun	1
+共和收费站	gong he shou fei zhan	1
+工会宾馆	gong hui bin guan	1
+龚家	gong jia	1
+拱坑	gong keng	1
+公路大酒店	gong lu da jiu dian	1
+公路大厦	gong lu da sha	1
+公路加油站	gong lu jia you zhan	1
+公平村	gong ping cun	1
+公平山	gong ping shan	1
+公平圩	gong ping xu	1
+巩桥村	gong qiao cun	1
+拱桥上	gong qiao shang	1
+拱桥头	gong qiao tou	1
+拱上	gong shang	1
+公塘	gong tang	1
+公厅	gong ting	1
+拱头	gong tou	1
+供销大厦	gong xiao da sha	1
+工业园	gong ye yuan	1
+公园幼儿园	gong yuan you er yuan	1
+公子冲	gong zi chong	1
+沟背	gou bei	1
+苟冲	gou chong	1
+沟脚	gou jiao	1
+狗脚	gou jiao	1
+沟坑	gou keng	1
+苟岭	gou ling	1
+沟流下	gou liu xia	1
+狗脑	gou nao	1
+苟塘	gou tang	1
+狗头冲	gou tou chong	1
+狗头岭	gou tou ling	1
+狗头寨	gou tou zhai	1
+狗窝里	gou wo li	1
+沟巷	gou xiang	1
+狗形	gou xing	1
+狗牙洞	gou ya dong	1
+狗子洞	gou zi dong	1
+狗子岭	gou zi ling	1
+狗子脑	gou zi nao	1
+古城	gu cheng	1
+古城村	gu cheng cun	1
+谷冲	gu chong	1
+顾村	gu cun	1
+谷洞	gu dong	1
+谷古	gu gu	1
+谷家	gu jia	1
+鼓家	gu jia	1
+古家	gu jia	1
+故家	gu jia	1
+谷家村	gu jia cun	1
+谷家湾	gu jia wan	1
+古岭村	gu ling cun	1
+古龙湾	gu long wan	1
+古楼	gu lou	1
+古楼冲	gu lou chong	1
+古楼洞	gu lou dong	1
+古楼下	gu lou xia	1
+古楼乡	gu lou xiang	1
+谷蓬	gu peng	1
+谷坪	gu ping	1
+古桥	gu qiao	1
+古桥村	gu qiao cun	1
+古桥小学	gu qiao xiao xue	1
+古桑村	gu sang cun	1
+古塘	gu tang	1
+古塘村	gu tang cun	1
+古塘下	gu tang xia	1
+古塘小学	gu tang xiao xue	1
+谷田	gu tian	1
+谷田村	gu tian cun	1
+古玩城	gu wan cheng	1
+古乐堂	gu yue tang	1
+挂板上	gua ban shang	1
+瓜冲	gua chong	1
+瓜棚下	gua peng xia	1
+观背	guan bei	1
+官陂	guan bei	1
+官陂村	guan bei cun	1
+官仓	guan cang	1
+官厂	guan chang	1
+观冲	guan chong	1
+贯冲	guan chong	1
+官冲	guan chong	1
+关冲村	guan chong cun	1
+关冲头	guan chong tou	1
+管洞	guan dong	1
+官渡	guan du	1
+关海	guan hai	1
+冠军村	guan jun cun	1
+官坑	guan keng	1
+关口村	guan kou cun	1
+贯里	guan li	1
+官里	guan li	1
+管垄	guan long	1
+官路村	guan lu cun	1
+官路下	guan lu xia	1
+观门口	guan men kou	1
+贯前	guan qian	1
+观前村	guan qian cun	1
+官桥	guan qiao	1
+官桥村	guan qiao cun	1
+管山	guan shan	1
+观山村	guan shan cun	1
+观山洞	guan shan dong	1
+官山桥	guan shan qiao	1
+观塘	guan tang	1
+关塘	guan tang	1
+管塘	guan tang	1
+关田	guan tian	1
+官田	guan tian	1
+官田村	guan tian cun	1
+官田新村	guan tian xin cun	1
+关头冲	guan tou chong	1
+关王村	guan wang cun	1
+关王庙	guan wang miao	1
+关王镇	guan wang zhen	1
+关王中学	guan wang zhong xue	1
+官吴	guan wu	1
+官溪村	guan xi cun	1
+关溪乡	guan xi xiang	1
+观下	guan xia	1
+观音坳	guan yin ao	1
+观音打坐	guan yin da zuo	1
+观音地	guan yin di	1
+观音阁	guan yin ge	1
+观音井	guan yin jing	1
+观音岭	guan yin ling	1
+观音脑	guan yin nao	1
+观音坪	guan yin ping	1
+观音桥	guan yin qiao	1
+观音山	guan yin shan	1
+观音石	guan yin shi	1
+观音寺村	guan yin si cun	1
+观音堂	guan yin tang	1
+观音塘	guan yin tang	1
+观音亭	guan yin ting	1
+观音岩	guan yin yan	1
+观音坐莲	guan yin zuo lian	1
+冠珠陶瓷	guan zhu tao ci	1
+官庄	guan zhuang	1
+官庄坪村	guan zhuang ping cun	1
+罐子厂	guan zi chang	1
+罐子坪	guan zi ping	1
+罐子窑	guan zi yao	1
+广安所	guang an suo	1
+光冲	guang chong	1
+广电公寓	guang dian gong yu	1
+广东坪	guang dong ping	1
+广东山	guang dong shan	1
+广发乡	guang fa xiang	1
+光华大药房	guang hua da yao fang	1
+广济医院	guang ji yi yuan	1
+广江村	guang jiang cun	1
+广角头	guang jiao tou	1
+光路村	guang lu cun	1
+光明村	guang ming cun	1
+光明乡	guang ming xiang	1
+光明眼科医院	guang ming yan ke yi yuan	1
+广坪	guang ping	1
+广坪村	guang ping cun	1
+光水	guang shui	1
+广水	guang shui	1
+广塘村	guang tang cun	1
+光田	guang tian	1
+广田	guang tian	1
+光田村	guang tian cun	1
+广湘食品	guang xiang shi pin	1
+广义村	guang yi cun	1
+广宜乡	guang yi xiang	1
+广源宾馆	guang yuan bin guan	1
+广庄	guang zhuang	1
+龟背石	gui bei shi	1
+桂东宾馆	gui dong bin guan	1
+桂东县	gui dong xian	1
+桂东县公安局	gui dong xian gong an ju	1
+桂东县政协	gui dong xian zheng xie	1
+圭岗	gui gang	1
+桂花苑	gui hua yuan	1
+贵泉	gui quan	1
+龟山	gui shan	1
+龟塘	gui tang	1
+桂塘	gui tang	1
+圭田	gui tian	1
+桂溪小学	gui xi xiao xue	1
+龟形	gui xing	1
+桂阳大市场	gui yang da shi chang	1
+桂阳三中	gui yang san zhong	1
+桂阳四中	gui yang si zhong	1
+桂阳县	gui yang xian	1
+桂阳县财政局	gui yang xian cai zheng ju	1
+桂阳县公安局	gui yang xian gong an ju	1
+桂阳县卫生局	gui yang xian wei sheng ju	1
+桂阳县政府	gui yang xian zheng fu	1
+桂阳一中	gui yang yi zhong	1
+贵之步	gui zhi bu	1
+鬼子寨	gui zi zhai	1
+锅厂	guo chang	1
+果冲	guo chong	1
+郭古	guo gu	1
+国光休闲	guo guang xiu xian	1
+国华医院	guo hua yi yuan	1
+国会俱乐部	guo hui ju le bu	1
+国际大酒店	guo ji da jiu dian	1
+国际广场	guo ji guang chang	1
+郭家	guo jia	1
+过家村	guo jia cun	1
+郭家村	guo jia cun	1
+郭家岭	guo jia ling	1
+郭家塘	guo jia tang	1
+郭家湾	guo jia wan	1
+国酒茅台	guo jiu mao tai	1
+国美电器	guo mei dian qi	1
+国庆北路	guo qing bei lu	1
+国庆南路	guo qing nan lu	1
+过水塘	guo shui tang	1
+国泰大楼	guo tai da lou	1
+国泰医院	guo tai yi yuan	1
+锅塘	guo tang	1
+郭屋	guo wu	1
+国兴大酒店	guo xing da jiu dian	1
+锅子里	guo zi li	1
+果子园	guo zi yuan	1
+哈雷纳金狐狸	ha lei na jin hu li	1
+蛤蟆冲	ha ma chong	1
+蛤蟆口	ha ma kou	1
+蛤蟆石	ha ma shi	1
+蛤蟆塘	ha ma tang	1
+蛤蟆湾	ha ma wan	1
+海冲	hai chong	1
+海洞	hai dong	1
+海龙里	hai long li	1
+海螺形	hai luo xing	1
+海南冲	hai nan chong	1
+海脑	hai nao	1
+海泉村	hai quan cun	1
+海山头	hai shan tou	1
+海水	hai shui	1
+海水村	hai shui cun	1
+海塘村	hai tang cun	1
+海棠村	hai tang cun	1
+海天宾馆	hai tian bin guan	1
+海溪	hai xi	1
+海寨	hai zhai	1
+旱冲	han chong	1
+汉冲	han chong	1
+旱洞	han dong	1
+旱禾	han he	1
+韩家	han jia	1
+韩家坪	han jia ping	1
+韩家湾	han jia wan	1
+寒坑	han keng	1
+寒口村	han kou cun	1
+寒口乡	han kou xiang	1
+翰林超市	han lin chao shi	1
+翰门	han men	1
+寒山	han shan	1
+寒水	han shui	1
+旱塘	han tang	1
+汉塘	han tang	1
+旱塘村	han tang cun	1
+汉塘村	han tang cun	1
+韩田村	han tian cun	1
+含田村	han tian cun	1
+汉头	han tou	1
+旱窝	han wo	1
+杭溪村	hang xi cun	1
+好百年家居	hao bai nian jia ju	1
+好而多超市	hao er duo chao shi	1
+郝家	hao jia	1
+豪口	hao kou	1
+毫口	hao kou	1
+豪里	hao li	1
+壕里	hao li	1
+豪里村	hao li cun	1
+豪山	hao shan	1
+壕山	hao shan	1
+毫山	hao shan	1
+豪山村	hao shan cun	1
+豪山乡	hao shan xiang	1
+好生活	hao sheng huo	1
+豪塘	hao tang	1
+浩塘乡	hao tang xiang	1
+豪田村	hao tian cun	1
+壕头	hao tou	1
+濠头村	hao tou cun	1
+濠头乡	hao tou xiang	1
+壕下	hao xia	1
+毫下	hao xia	1
+和安村	he an cun	1
+荷坳村	he ao cun	1
+河坝上	he ba shang	1
+河背	he bei	1
+河背岭	he bei ling	1
+河边	he bian	1
+禾场坪	he chang ping	1
+何池	he chi	1
+荷冲	he chong	1
+贺冲	he chong	1
+何冲	he chong	1
+禾冲	he chong	1
+合村	he cun	1
+河底里	he di li	1
+何洞	he dong	1
+河东村	he dong cun	1
+盒饭大王	he fan da wang	1
+河坊	he fang	1
+河汾	he fen	1
+和福楼	he fu lou	1
+贺古	he gu	1
+何古	he gu	1
+禾花岭	he hua ling	1
+荷花坪	he hua ping	1
+贺家	he jia	1
+何家	he jia	1
+何家坳	he jia ao	1
+贺家冲	he jia chong	1
+何家冲	he jia chong	1
+贺家村	he jia cun	1
+何家村	he jia cun	1
+何家地	he jia di	1
+何家洞	he jia dong	1
+何家井	he jia jing	1
+贺家里	he jia li	1
+何家垄	he jia long	1
+何家垅	he jia long	1
+何家坪	he jia ping	1
+何家山	he jia shan	1
+和家山	he jia shan	1
+何家山村	he jia shan cun	1
+何家山乡	he jia shan xiang	1
+荷家塘	he jia tang	1
+何家田	he jia tian	1
+贺家湾	he jia wan	1
+何家湾	he jia wan	1
+河家湾	he jia wan	1
+何家屋场	he jia wu chang	1
+贺家巷	he jia xiang	1
+何家洲	he jia zhou	1
+合江	he jiang	1
+合江村	he jiang cun	1
+合江口	he jiang kou	1
+河里	he li	1
+和美电器	he mei dian qi	1
+河门	he men	1
+和睦山	he mu shan	1
+和睦塘	he mu tang	1
+禾坪	he ping	1
+和平超市	he ping chao shi	1
+和平村	he ping cun	1
+禾坪村	he ping cun	1
+和平大厦	he ping da sha	1
+和平下	he ping xia	1
+和平信用社	he ping xin yong she	1
+和平镇	he ping zhen	1
+和气田	he qi tian	1
+禾沙坑	he sha keng	1
+合山	he shan	1
+和尚岭	he shang ling	1
+和尚脑	he shang nao	1
+和尚山	he shang shan	1
+和尚石	he shang shi	1
+和上田	he shang tian	1
+和尚田	he shang tian	1
+禾市乡	he shi xiang	1
+荷树坳	he shu ao	1
+荷树村	he shu cun	1
+荷树岭	he shu ling	1
+何树山	he shu shan	1
+何树田	he shu tian	1
+荷树下	he shu xia	1
+合水	he shui	1
+合塘	he tang	1
+禾塘	he tang	1
+荷塘村	he tang cun	1
+禾塘里	he tang li	1
+禾塘岭	he tang ling	1
+河田村	he tian cun	1
+河头	he tou	1
+河头村	he tou cun	1
+河湾	he wan	1
+何屋	he wu	1
+河西村	he xi cun	1
+和谐宾馆	he xie bin guan	1
+合兴村	he xing cun	1
+合星村	he xing cun	1
+荷叶冲	he ye chong	1
+荷叶村	he ye cun	1
+荷叶地	he ye di	1
+荷叶坪	he ye ping	1
+荷叶坪乡	he ye ping xiang	1
+荷叶塘	he ye tang	1
+荷叶塘村	he ye tang cun	1
+荷叶田	he ye tian	1
+荷叶镇	he ye zhen	1
+和由	he you	1
+荷园	he yuan	1
+合元	he yuan	1
+河源	he yuan	1
+河源洞	he yuan dong	1
+合众超市	he zhong chao shi	1
+黑冲	hei chong	1
+黑风洞	hei feng dong	1
+黑角	hei jiao	1
+黑龙门	hei long men	1
+黑骑	hei qi	1
+黑山	hei shan	1
+黑山口	hei shan kou	1
+黑山里	hei shan li	1
+黑山头	hei shan tou	1
+黑山下	hei shan xia	1
+黑石	hei shi	1
+黑水桥	hei shui qiao	1
+黑塘	hei tang	1
+黑屋	hei wu	1
+黑丫的	hei ya de	1
+黑子冲	hei zi chong	1
+黑子窝	hei zi wo	1
+恒安医院	heng an yi yuan	1
+横板桥	heng ban qiao	1
+横板上	heng ban shang	1
+横背	heng bei	1
+横冲	heng chong	1
+横冲里	heng chong li	1
+横村	heng cun	1
+横店	heng dian	1
+横店村	heng dian cun	1
+横店里	heng dian li	1
+横洞	heng dong	1
+横洞村	heng dong cun	1
+横江	heng jiang	1
+横江村	heng jiang cun	1
+横江口	heng jiang kou	1
+横江里	heng jiang li	1
+横坑	heng keng	1
+横坑里	heng keng li	1
+横坑子	heng keng zi	1
+恒魁	heng kui	1
+横里	heng li	1
+横岭	heng ling	1
+横垄	heng long	1
+横垅	heng long	1
+横龙村	heng long cun	1
+横楼	heng lou	1
+横路	heng lu	1
+横路口	heng lu kou	1
+横路岭	heng lu ling	1
+横路上	heng lu shang	1
+横路田	heng lu tian	1
+横路下	heng lu xia	1
+横木桥	heng mu qiao	1
+横排	heng pai	1
+横片	heng pian	1
+横丘	heng qiu	1
+横坵	heng qiu	1
+横山	heng shan	1
+横山村	heng shan cun	1
+横山岭	heng shan ling	1
+恒泰大厦	heng tai da sha	1
+横坦	heng tan	1
+横塘	heng tang	1
+横塘村	heng tang cun	1
+横头岭	heng tou ling	1
+横土岭	heng tu ling	1
+横屋	heng wu	1
+横溪	heng xi	1
+横巷村	heng xiang cun	1
+恒信矿业	heng xin kuang ye	1
+横园	heng yuan	1
+恒源矿业	heng yuan kuang ye	1
+横圳	heng zhen	1
+洪波村	hong bo cun	1
+红茶馆	hong cha guan	1
+宏达大药房	hong da da yao fang	1
+宏达电脑城	hong da dian nao cheng	1
+宏达市场	hong da shi chang	1
+红灯记	hong deng ji	1
+红洞村	hong dong cun	1
+鸿都楼	hong dou lou	1
+洪恩楼	hong en lou	1
+红粉知己	hong fen zhi ji	1
+红姑娘	hong gu niang	1
+红光村	hong guang cun	1
+红光小学	hong guang xiao xue	1
+红花村	hong hua cun	1
+红花岭	hong hua ling	1
+洪家	hong jia	1
+洪家村	hong jia cun	1
+洪家洞	hong jia dong	1
+洪家塘	hong jia tang	1
+红岭	hong ling	1
+洪流村	hong liu cun	1
+红梅园	hong mei yuan	1
+红庙里	hong miao li	1
+红庙岭	hong miao ling	1
+红庙头	hong miao tou	1
+洪坡	hong po	1
+红旗岭	hong qi ling	1
+红旗实验小学	hong qi shi yan xiao xue	1
+红桥	hong qiao	1
+虹桥村	hong qiao cun	1
+红桥村	hong qiao cun	1
+红蜻蜓	hong qing ting	1
+红日超市	hong ri chao shi	1
+洪山庙	hong shan miao	1
+虹盛宾馆	hong sheng bin guan	1
+红石岩	hong shi yan	1
+洪水冲	hong shui chong	1
+洪水江	hong shui jiang	1
+洪水井	hong shui jing	1
+洪水山	hong shui shan	1
+红坦	hong tan	1
+洪塘	hong tang	1
+红塘	hong tang	1
+洪塘冲	hong tang chong	1
+鸿图公司	hong tu gong si	1
+红土岭	hong tu ling	1
+红湾	hong wan	1
+红屋里	hong wu li	1
+洪溪村	hong xi cun	1
+红星村	hong xing cun	1
+红星加油站	hong xing jia you zhan	1
+红星里	hong xing li	1
+红星林场	hong xing lin chang	1
+红岩	hong yan	1
+红岩村	hong yan cun	1
+红阳	hong yang	1
+宏苑宾馆	hong yuan bin guan	1
+鸿运大酒店	hong yun da jiu dian	1
+红专	hong zhuan	1
+后背里	hou bei li	1
+后背垄	hou bei long	1
+后背山	hou bei shan	1
+厚昌	hou chang	1
+后洞	hou dong	1
+后洞村	hou dong cun	1
+侯方	hou fang	1
+后坊	hou fang	1
+侯古	hou gu	1
+候古	hou gu	1
+猴古山	hou gu shan	1
+侯家	hou jia	1
+候家	hou jia	1
+侯家村	hou jia cun	1
+候家湾	hou jia wan	1
+侯岭	hou ling	1
+猴山下	hou shan xia	1
+后坛	hou tan	1
+后塘	hou tang	1
+后头把	hou tou ba	1
+后湾	hou wan	1
+后溪	hou xi	1
+猴形	hou xing	1
+侯寨村	hou zhai cun	1
+猴子冲	hou zi chong	1
+猴子冲村	hou zi chong cun	1
+猴子岭	hou zi ling	1
+猴子头	hou zi tou	1
+虎冲	hu chong	1
+蝴蝶下	hu die xia	1
+湖洞村	hu dong cun	1
+胡古	hu gu	1
+胡家	hu jia	1
+呼家	hu jia	1
+胡家坳	hu jia ao	1
+胡家村	hu jia cun	1
+呼家村	hu jia cun	1
+胡家坊	hu jia fang	1
+胡家岭	hu jia ling	1
+胡家桥	hu jia qiao	1
+胡家山	hu jia shan	1
+胡家湾	hu jia wan	1
+胡家宅	hu jia zhai	1
+胡蒋村	hu jiang cun	1
+虎踞山	hu ju shan	1
+浒口村	hu kou cun	1
+虎口里	hu kou li	1
+湖里	hu li	1
+狐狸冲	hu li chong	1
+狐狸发	hu li fa	1
+狐狸集	hu li ji	1
+狐狸坑	hu li keng	1
+胡岭	hu ling	1
+葫芦背	hu lu bei	1
+葫芦冲	hu lu chong	1
+葫芦丘	hu lu qiu	1
+葫芦坵	hu lu qiu	1
+葫芦土	hu lu tu	1
+葫芦湾	hu lu wan	1
+湖南新华书店	hu nan xin hua shu dian	1
+湖内	hu nei	1
+胡坪山	hu ping shan	1
+虎岐	hu qi	1
+湖桥	hu qiao	1
+虎山	hu shan	1
+虎塘	hu tang	1
+湖塘村	hu tang cun	1
+湖塘头	hu tang tou	1
+湖塘湾	hu tang wan	1
+湖田湾	hu tian wan	1
+湖头	hu tou	1
+虎头石	hu tou shi	1
+虎形	hu xing	1
+虎形坳	hu xing ao	1
+虎形岭	hu xing ling	1
+胡子冲	hu zi chong	1
+花冲	hua chong	1
+滑带	hua dai	1
+华都宾馆	hua du bin guan	1
+花萼村	hua e cun	1
+化工厂	hua gong chang	1
+花菇山	hua gu shan	1
+花果村	hua guo cun	1
+华国酒店	hua guo jiu dian	1
+花果山	hua guo shan	1
+花果庄	hua guo zhuang	1
+化家	hua jia	1
+华家	hua jia	1
+华康医院	hua kang yi yuan	1
+花凉亭	hua liang ting	1
+花林	hua lin	1
+花岭	hua ling	1
+花马	hua ma	1
+花麦村	hua mai cun	1
+花木岭	hua mu ling	1
+花木桥	hua mu qiao	1
+华宁花园	hua ning hua yuan	1
+花坪	hua ping	1
+花坪村	hua ping cun	1
+花桥	hua qiao	1
+华侨宾馆	hua qiao bin guan	1
+华侨酒店	hua qiao jiu dian	1
+花丘	hua qiu	1
+华泉乡	hua quan xiang	1
+花仁	hua ren	1
+华润超市	hua run chao shi	1
+滑山	hua shan	1
+花山里	hua shan li	1
+华山林场	hua shan lin chang	1
+花山岭	hua shan ling	1
+华盛大药房	hua sheng da yao fang	1
+花生园	hua sheng yuan	1
+华石	hua shi	1
+滑石板	hua shi ban	1
+华石村	hua shi cun	1
+滑石岭	hua shi ling	1
+滑石滩	hua shi tan	1
+花树下	hua shu xia	1
+花台村	hua tai cun	1
+花坦	hua tan	1
+花塘	hua tang	1
+滑塘	hua tang	1
+花塘村	hua tang cun	1
+花塘乡	hua tang xiang	1
+华塘镇	hua tang zhen	1
+华天大酒店	hua tian da jiu dian	1
+花土里	hua tu li	1
+华王乡	hua wang xiang	1
+花屋	hua wu	1
+花屋里	hua wu li	1
+花溪	hua xi	1
+华鑫大厦	hua xin da sha	1
+华严寺	hua yan si	1
+花瑶	hua yao	1
+华阴村	hua yin cun	1
+花元	hua yuan	1
+花园堡	hua yuan bao	1
+华园宾馆	hua yuan bin guan	1
+花园村	hua yuan cun	1
+花园酒店	hua yuan jiu dian	1
+花园里	hua yuan li	1
+花园里村	hua yuan li cun	1
+花园岭	hua yuan ling	1
+花园坪	hua yuan ping	1
+花园头	hua yuan tou	1
+花庄	hua zhuang	1
+花子寨	hua zi zhai	1
+槐村	huai cun	1
+槐江村	huai jiang cun	1
+槐树下	huai shu xia	1
+槐塘	huai tang	1
+环城大酒店	huan cheng da jiu dian	1
+环城加油站	huan cheng jia you zhan	1
+环城南路	huan cheng nan lu	1
+欢冲	huan chong	1
+环球加油站	huan qiu jia you zhan	1
+黄板桥	huang ban qiao	1
+黄背	huang bei	1
+黄坌	huang ben	1
+黄草	huang cao	1
+黄草村	huang cao cun	1
+黄草镇	huang cao zhen	1
+黄策	huang ce	1
+黄昌岭	huang chang ling	1
+皇朝宾馆	huang chao bin guan	1
+皇朝家私广场	huang chao jia si guang chang	1
+荒冲	huang chong	1
+黄冲	huang chong	1
+黄洞	huang dong	1
+黄洞村	huang dong cun	1
+黄洞口	huang dong kou	1
+黄东山	huang dong shan	1
+黄洞乡	huang dong xiang	1
+皇风	huang feng	1
+黄古	huang gu	1
+黄瓜冲	huang gua chong	1
+黄瓜田	huang gua tian	1
+黄禾田	huang he tian	1
+黄花村	huang hua cun	1
+黄花岭	huang hua ling	1
+黄花岭村	huang hua ling cun	1
+黄花山	huang hua shan	1
+黄花水	huang hua shui	1
+黄家	huang jia	1
+黄甲	huang jia	1
+黄家坳	huang jia ao	1
+黄家坝	huang jia ba	1
+黄家冲	huang jia chong	1
+黄家村	huang jia cun	1
+黄甲村	huang jia cun	1
+皇家灯饰	huang jia deng shi	1
+黄家洞	huang jia dong	1
+黄家洞村	huang jia dong cun	1
+黄家堆	huang jia dui	1
+黄家风	huang jia feng	1
+黄家老	huang jia lao	1
+黄家练	huang jia lian	1
+黄家亮	huang jia liang	1
+黄家岭	huang jia ling	1
+黄家垄	huang jia long	1
+黄家垅	huang jia long	1
+黄家门	huang jia men	1
+黄家门口	huang jia men kou	1
+黄家排	huang jia pai	1
+黄家畔	huang jia pan	1
+黄家坪	huang jia ping	1
+黄家山	huang jia shan	1
+黄甲山	huang jia shan	1
+黄家坦	huang jia tan	1
+黄家塘	huang jia tang	1
+黄家田	huang jia tian	1
+黄家塆	huang jia wan	1
+黄家湾	huang jia wan	1
+黄家湾村	huang jia wan cun	1
+黄家圩	huang jia wei	1
+黄家窝	huang jia wo	1
+黄家屋	huang jia wu	1
+黄家巷	huang jia xiang	1
+黄家园	huang jia yuan	1
+黄家庄	huang jia zhuang	1
+黄金坳	huang jin ao	1
+黄金村	huang jin cun	1
+黄金山	huang jin shan	1
+黄金塘	huang jin tang	1
+黄坑	huang keng	1
+黄坑口	huang keng kou	1
+黄腊塘	huang la tang	1
+黄老虎	huang lao hu	1
+黄勒	huang le	1
+黄莲村	huang lian cun	1
+黄连桥	huang lian qiao	1
+黄僚	huang liao	1
+黄岭	huang ling	1
+黄垄	huang long	1
+黄龙出洞	huang long chu dong	1
+黄龙湾	huang long wan	1
+黄龙仙	huang long xian	1
+黄毛冲	huang mao chong	1
+黄茅洞	huang mao dong	1
+黄茅岗	huang mao gang	1
+黄毛岗	huang mao gang	1
+黄毛江	huang mao jiang	1
+黄茅岭	huang mao ling	1
+黄毛岭	huang mao ling	1
+黄茅坪	huang mao ping	1
+黄毛坪	huang mao ping	1
+黄梅村	huang mei cun	1
+黄梅江	huang mei jiang	1
+黄泥	huang ni	1
+黄泥坳	huang ni ao	1
+黄泥板	huang ni ban	1
+黄泥塝	huang ni bang	1
+黄泥堡	huang ni bao	1
+黄泥池	huang ni chi	1
+黄泥冲	huang ni chong	1
+黄泥村	huang ni cun	1
+黄泥洞	huang ni dong	1
+黄泥堆	huang ni dui	1
+黄泥墩村	huang ni dun cun	1
+黄泥岗	huang ni gang	1
+黄泥埂	huang ni geng	1
+黄泥湖	huang ni hu	1
+黄泥江	huang ni jiang	1
+黄泥井	huang ni jing	1
+黄泥咀	huang ni ju	1
+黄泥坎	huang ni kan	1
+黄泥坑	huang ni keng	1
+黄泥圹	huang ni kuang	1
+黄泥岭	huang ni ling	1
+黄泥垄	huang ni long	1
+黄泥垅	huang ni long	1
+黄泥排	huang ni pai	1
+黄泥坪	huang ni ping	1
+黄泥坡	huang ni po	1
+黄泥丘	huang ni qiu	1
+黄泥坵	huang ni qiu	1
+黄泥山	huang ni shan	1
+黄泥滩	huang ni tan	1
+黄泥滩村	huang ni tan cun	1
+黄坭塘	huang ni tang	1
+黄泥塘	huang ni tang	1
+黄泥田	huang ni tian	1
+黄泥湾	huang ni wan	1
+黄泥窝	huang ni wo	1
+黄泥乡	huang ni xiang	1
+黄泥中学	huang ni zhong xue	1
+黄牛岭	huang niu ling	1
+黄牛坪	huang niu ping	1
+黄牛山	huang niu shan	1
+黄袍	huang pao	1
+黄皮塘	huang pi tang	1
+黄旗洞村	huang qi dong cun	1
+黄桥村	huang qiao cun	1
+黄沙	huang sha	1
+黄沙埠	huang sha bu	1
+黄沙村	huang sha cun	1
+黄沙坑	huang sha keng	1
+黄沙岭	huang sha ling	1
+黄沙坪	huang sha ping	1
+黄沙坪镇	huang sha ping zhen	1
+黄沙田	huang sha tian	1
+黄沙湾	huang sha wan	1
+黄沙寨	huang sha zhai	1
+黄沙镇	huang sha zhen	1
+黄沙中学	huang sha zhong xue	1
+黄石	huang shi	1
+黄石庵	huang shi an	1
+黄石村	huang shi cun	1
+黄石头	huang shi tou	1
+黄石寨	huang shi zhai	1
+黄水坑	huang shui keng	1
+荒塘	huang tang	1
+荒田	huang tian	1
+黄田	huang tian	1
+荒田冲	huang tian chong	1
+黄田村	huang tian cun	1
+荒田里	huang tian li	1
+黄田铺	huang tian pu	1
+黄土坳	huang tu ao	1
+黄土边	huang tu bian	1
+黄土村	huang tu cun	1
+黄土墩	huang tu dun	1
+黄图岗	huang tu gang	1
+黄土井	huang tu jing	1
+黄土坑	huang tu keng	1
+黄土岭	huang tu ling	1
+黄土岭村	huang tu ling cun	1
+黄土垅	huang tu long	1
+黄土坡	huang tu po	1
+黄土坡村	huang tu po cun	1
+黄土山村	huang tu shan cun	1
+黄土塘	huang tu tang	1
+黄土塘村	huang tu tang cun	1
+黄土湾	huang tu wan	1
+黄土洲	huang tu zhou	1
+黄屋	huang wu	1
+黄屋村	huang wu cun	1
+黄溪村	huang xi cun	1
+璜溪村	huang xi cun	1
+黄斜	huang xie	1
+黄依山	huang yi shan	1
+黄竹坳	huang zhu ao	1
+黄竹村	huang zhu cun	1
+黄竹坑	huang zhu keng	1
+黄竹岭	huang zhu ling	1
+黄竹岐	huang zhu qi	1
+黄竹山	huang zhu shan	1
+黄竹塘	huang zhu tang	1
+黄竹园	huang zhu yuan	1
+黄庄	huang zhuang	1
+灰冲	hui chong	1
+会冲村	hui chong cun	1
+回春大药房	hui chun da yao fang	1
+回斗	hui dou	1
+汇丰购物广场	hui feng gou wu guang chang	1
+汇丰加油站	hui feng jia you zhan	1
+灰口	hui kou	1
+回龙庵	hui long an	1
+回龙村	hui long cun	1
+回龙山	hui long shan	1
+回龙湾	hui long wan	1
+回龙仙	hui long xian	1
+惠民宾馆	hui min bin guan	1
+汇泉宾馆	hui quan bin guan	1
+汇泉大酒店	hui quan da jiu dian	1
+灰山村	hui shan cun	1
+回田村	hui tian cun	1
+灰头	hui tou	1
+回头岭	hui tou ling	1
+回头湾	hui tou wan	1
+火柴厂	huo chai chang	1
+火车站	huo che zhan	1
+火冲	huo chong	1
+火渡	huo du	1
+火坑里	huo keng li	1
+火岭	huo ling	1
+火烧冲	huo shao chong	1
+火烧寮	huo shao liao	1
+火烧坪	huo shao ping	1
+火烧桥	huo shao qiao	1
+火石滩	huo shi tan	1
+火田村	huo tian cun	1
+火砖屋	huo zhuan wu	1
+鸡冲	ji chong	1
+吉冲	ji chong	1
+吉冲村	ji chong cun	1
+集村	ji cun	1
+鸡公咀	ji gong ju	1
+鸡公岭	ji gong ling	1
+鸡公山	ji gong shan	1
+鸡公石	ji gong shi	1
+鸡公头	ji gong tou	1
+鸡公窝	ji gong wo	1
+鸡公嘴	ji gong zui	1
+鸡冠咀	ji guan ju	1
+鸡冠石	ji guan shi	1
+鸡冠寨	ji guan zhai	1
+季候风	ji hou feng	1
+鸡脚山	ji jiao shan	1
+极乐村	ji le cun	1
+吉利村	ji li cun	1
+吉利汽车	ji li qi che	1
+集龙村	ji long cun	1
+集龙乡	ji long xiang	1
+鸡坪	ji ping	1
+鸡婆店	ji po dian	1
+鸡婆窝	ji po wo	1
+济仁堂药店	ji ren tang yao dian	1
+集石	ji shi	1
+积水塘	ji shui tang	1
+鸡塘	ji tang	1
+鸡头岭	ji tou ling	1
+吉祥宾馆	ji xiang bin guan	1
+鲫鱼塘	ji yu tang	1
+鸡子窝	ji zi wo	1
+佳富村	jia fu cun	1
+加禾	jia he	1
+嘉禾大市场	jia he da shi chang	1
+嘉禾县	jia he xian	1
+嘉禾县人民医院	jia he xian ren min yi yuan	1
+嘉禾县政府	jia he xian zheng fu	1
+嘉禾县中医院	jia he xian zhong yi yuan	1
+嘉华医院	jia hua yi yuan	1
+佳惠超市	jia hui chao shi	1
+家家乐便利店	jia jia le bian li dian	1
+家家乐超市	jia jia le chao shi	1
+家俱厂	jia ju chang	1
+甲坑	jia keng	1
+佳乐超市	jia le chao shi	1
+家乐电器	jia le dian qi	1
+家美装饰	jia mei zhuang shi	1
+假日饭店	jia ri fan dian	1
+家润多	jia run duo	1
+夹山	jia shan	1
+甲山	jia shan	1
+加油站	jia you zhan	1
+加油中心	jia you zhong xin	1
+家园宾馆	jia yuan bin guan	1
+建材招待所	jian cai zhao dai suo	1
+枧冲	jian chong	1
+建大轮胎	jian da lun tai	1
+尖峰	jian feng	1
+尖峰顶	jian feng ding	1
+尖峰岭	jian feng ling	1
+尖岗岭	jian gang ling	1
+建行	jian hang	1
+建行铁道支行	jian hang tie dao zhi hang	1
+建行住宅区	jian hang zhu zhai qu	1
+鉴湖中学	jian hu zhong xue	1
+简家	jian jia	1
+尖咀石	jian ju shi	1
+健康大药房	jian kang da yao fang	1
+健康路	jian kang lu	1
+健康路口	jian kang lu kou	1
+枧坑	jian keng	1
+健力体育	jian li ti yu	1
+建林村	jian lin cun	1
+健民大药房	jian min da yao fang	1
+箭牌卫浴	jian pai wei yu	1
+简山	jian shan	1
+尖山嘴	jian shan zui	1
+建设村	jian she cun	1
+建设大厦	jian she da sha	1
+尖石岭	jian shi ling	1
+笕水	jian shui	1
+见塘	jian tang	1
+鉴塘	jian tang	1
+枧田	jian tian	1
+捡田螺	jian tian luo	1
+枧头	jian tou	1
+笕头	jian tou	1
+枧下	jian xia	1
+建新村	jian xin cun	1
+尖嘴岭	jian zui ling	1
+姜坳	jiang ao	1
+江背	jiang bei	1
+江背村	jiang bei cun	1
+江背垅	jiang bei long	1
+江背山	jiang bei shan	1
+江边	jiang bian	1
+江边上	jiang bian shang	1
+江滨小区	jiang bin xiao qu	1
+蒋埠	jiang bu	1
+江冲	jiang chong	1
+姜冲村	jiang chong cun	1
+江村	jiang cun	1
+江底下	jiang di xia	1
+江渡	jiang du	1
+江坊	jiang fang	1
+江古	jiang gu	1
+江厚	jiang hou	1
+江厚村	jiang hou cun	1
+江华村	jiang hua cun	1
+蒋家	jiang jia	1
+姜家	jiang jia	1
+江家	jiang jia	1
+江家坳	jiang jia ao	1
+江家边	jiang jia bian	1
+蒋家冲	jiang jia chong	1
+江家冲	jiang jia chong	1
+蒋家村	jiang jia cun	1
+江家村	jiang jia cun	1
+蒋家洞	jiang jia dong	1
+蒋家洞村	jiang jia dong cun	1
+蒋家坟	jiang jia fen	1
+江家岭	jiang jia ling	1
+蒋家垄	jiang jia long	1
+蒋家垅	jiang jia long	1
+蒋家坪	jiang jia ping	1
+蒋家山	jiang jia shan	1
+江家山	jiang jia shan	1
+蒋家塘	jiang jia tang	1
+姜家塘	jiang jia tang	1
+蒋家田	jiang jia tian	1
+蒋家庄	jiang jia zhuang	1
+江角	jiang jiao	1
+将军顶	jiang jun ding	1
+将军岭	jiang jun ling	1
+将军庙	jiang jun miao	1
+将军坪	jiang jun ping	1
+将军石	jiang jun shi	1
+将军寨	jiang jun zhai	1
+将坑	jiang keng	1
+江坑	jiang keng	1
+江口	jiang kou	1
+江口村	jiang kou cun	1
+江口里	jiang kou li	1
+江口上	jiang kou shang	1
+江口乡	jiang kou xiang	1
+江口小学	jiang kou xiao xue	1
+江里	jiang li	1
+江里村	jiang li cun	1
+江南村	jiang nan cun	1
+江南学校	jiang nan xue xiao	1
+江桑	jiang sang	1
+江山村	jiang shan cun	1
+江山下	jiang shan xia	1
+浆水村	jiang shui cun	1
+浆水乡	jiang shui xiang	1
+浆水中学	jiang shui zhong xue	1
+江添	jiang tian	1
+江天大酒店	jiang tian da jiu dian	1
+江头	jiang tou	1
+江头村	jiang tou cun	1
+江头河	jiang tou he	1
+江湾	jiang wan	1
+江湾村	jiang wan cun	1
+江湾加油站	jiang wan jia you zhan	1
+江溪村	jiang xi cun	1
+江下	jiang xia	1
+江贤	jiang xian	1
+江形	jiang xing	1
+姜阳	jiang yang	1
+江友村	jiang you cun	1
+江源	jiang yuan	1
+蕉冲	jiao chong	1
+角冲	jiao chong	1
+焦家	jiao jia	1
+焦家楼	jiao jia lou	1
+交界岭	jiao jie ling	1
+蕉坑	jiao keng	1
+蕉岭	jiao ling	1
+蛟龙村	jiao long cun	1
+蛟龙潭	jiao long tan	1
+蛟龙塘	jiao long tang	1
+蕉坪	jiao ping	1
+蕉坪村	jiao ping cun	1
+焦坪村	jiao ping cun	1
+焦山头	jiao shan tou	1
+教师村	jiao shi cun	1
+脚踏水	jiao ta shui	1
+焦塘	jiao tang	1
+焦塘村	jiao tang cun	1
+交通大酒店	jiao tong da jiu dian	1
+交头	jiao tou	1
+蕉溪	jiao xi	1
+蕉溪村	jiao xi cun	1
+焦下	jiao xia	1
+教学门	jiao xue men	1
+蕉源	jiao yuan	1
+蕉源村	jiao yuan cun	1
+界把	jie ba	1
+界背	jie bei	1
+界顶	jie ding	1
+解放村	jie fang cun	1
+解放路	jie fang lu	1
+揭家	jie jia	1
+接龙桥	jie long qiao	1
+接龙乡	jie long xiang	1
+捷路运动	jie lu yun dong	1
+界排	jie pai	1
+界牌	jie pai	1
+界牌村	jie pai cun	1
+界牌岭	jie pai ling	1
+界牌山	jie pai shan	1
+界牌湾	jie pai wan	1
+街上	jie shang	1
+接水带	jie shui dai	1
+节松	jie song	1
+界头	jie tou	1
+界头村	jie tou cun	1
+界下	jie xia	1
+解玉堂	jie yu tang	1
+界子山	jie zi shan	1
+劲霸	jin ba	1
+金宝村	jin bao cun	1
+金宝仙	jin bao xian	1
+金宝圩	jin bao xu	1
+金伯利钻石	jin bo li zuan shi	1
+金城宾馆	jin cheng bin guan	1
+近城村	jin cheng cun	1
+金城村	jin cheng cun	1
+金冲	jin chong	1
+锦冲	jin chong	1
+金洞村	jin dong cun	1
+金都宾馆	jin du bin guan	1
+金粉世界	jin fen shi jie	1
+金凤山	jin feng shan	1
+金福源	jin fu yuan	1
+锦福园	jin fu yuan	1
+金钩塆	jin gou wan	1
+金钩湾	jin gou wan	1
+金龟村	jin gui cun	1
+金龟山	jin gui shan	1
+金贵银业	jin gui yin ye	1
+金桂园	jin gui yuan	1
+金龟镇	jin gui zhen	1
+锦湖村	jin hu cun	1
+金花村	jin hua cun	1
+金华村	jin hua cun	1
+金花仙	jin hua xian	1
+金鸡	jin ji	1
+金鸡冲	jin ji chong	1
+金鸡渡	jin ji du	1
+金鸡岭	jin ji ling	1
+金鸡石	jin ji shi	1
+金鸡亭	jin ji ting	1
+金鸡窝	jin ji wo	1
+金鸡寨	jin ji zhai	1
+金家	jin jia	1
+金家岭	jin jia ling	1
+金家塘	jin jia tang	1
+津江村	jin jiang cun	1
+锦江大酒店	jin jiang da jiu dian	1
+金江镇	jin jiang zhen	1
+金康大药房	jin kang da yao fang	1
+金克拉钻石	jin ke la zuan shi	1
+金兰村	jin lan cun	1
+锦里村	jin li cun	1
+金利来	jin li lai	1
+金岭	jin ling	1
+锦龙宾馆	jin long bin guan	1
+金木冲	jin mu chong	1
+金欧雅陶瓷	jin ou ya tao ci	1
+金盆村	jin pen cun	1
+金盆形	jin pen xing	1
+金鹏陶瓷	jin peng tao ci	1
+金坪	jin ping	1
+金坪村	jin ping cun	1
+金钱坑	jin qian keng	1
+金泉村	jin quan cun	1
+金沙元	jin sha yuan	1
+金山	jin shan	1
+金山村	jin shan cun	1
+金山加油站	jin shan jia you zhan	1
+金山陵园	jin shan ling yuan	1
+金山寺	jin shan si	1
+锦山中学	jin shan zhong xue	1
+金市	jin shi	1
+进水	jin shui	1
+金水塘	jin shui tang	1
+金穗大厦	jin sui da sha	1
+金泰大酒店	jin tai da jiu dian	1
+金太阳幼儿园	jin tai yang you er yuan	1
+金滩	jin tan	1
+金堂	jin tang	1
+金塘	jin tang	1
+金塘村	jin tang cun	1
+锦堂村	jin tang cun	1
+金塘岭	jin tang ling	1
+金田	jin tian	1
+金田村	jin tian cun	1
+锦田村	jin tian cun	1
+金头岭	jin tou ling	1
+金娃娃幼儿园	jin wa wa you er yuan	1
+金仙寺	jin xian si	1
+金仙寨	jin xian zhai	1
+锦湘百货	jin xiang bai huo	1
+锦湘花园	jin xiang hua yuan	1
+金鑫超市	jin xin chao shi	1
+金星宾馆	jin xing bin guan	1
+金星村	jin xing cun	1
+金星湾	jin xing wan	1
+锦绣嘉园	jin xiu jia yuan	1
+金羊	jin yang	1
+金阳大酒店	jin yang da jiu dian	1
+金叶大酒店	jin ye da jiu dian	1
+金叶大厦	jin ye da sha	1
+金叶加油站	jin ye jia you zhan	1
+金银寨	jin yin zhai	1
+金鹰电玩	jin ying dian wan	1
+金鹰幼儿园	jin ying you er yuan	1
+金鱼山	jin yu shan	1
+金苑宾馆	jin yuan bin guan	1
+金源加油站	jin yuan jia you zhan	1
+金竹	jin zhu	1
+金竹坳	jin zhu ao	1
+金竹冲	jin zhu chong	1
+金竹村	jin zhu cun	1
+金竹岭	jin zhu ling	1
+金竹排	jin zhu pai	1
+金竹坪	jin zhu ping	1
+金竹山	jin zhu shan	1
+金竹塘	jin zhu tang	1
+金竹湾	jin zhu wan	1
+金子岭	jin zi ling	1
+金紫岭	jin zi ling	1
+金子坪	jin zi ping	1
+金子铺	jin zi pu	1
+金子桥	jin zi qiao	1
+金子山	jin zi shan	1
+金子塘	jin zi tang	1
+金紫仙	jin zi xian	1
+井岸	jing an	1
+井边	jing bian	1
+镜冲	jing chong	1
+井冲	jing chong	1
+井冲村	jing chong cun	1
+京都酒店	jing du jiu dian	1
+井岗村	jing gang cun	1
+精功眼镜	jing gong yan jing	1
+京华宾馆	jing hua bin guan	1
+晶晶幼儿园	jing jing you er yuan	1
+景坑	jing keng	1
+井口	jing kou	1
+径口	jing kou	1
+迳口村	jing kou cun	1
+京口村	jing kou cun	1
+径口村	jing kou cun	1
+荆林村	jing lin cun	1
+井垅	jing long	1
+井门口	jing men kou	1
+井坡乡	jing po xiang	1
+井前	jing qian	1
+荆山	jing shan	1
+井山	jing shan	1
+井上	jing shang	1
+井水冲	jing shui chong	1
+井水湾	jing shui wan	1
+镜塘	jing tang	1
+井塘	jing tang	1
+井塘村	jing tang cun	1
+井塘湾	jing tang wan	1
+井头	jing tou	1
+井头村	jing tou cun	1
+井头上	jing tou shang	1
+井头湾	jing tou wan	1
+净土庵	jing tu an	1
+井湾	jing wan	1
+井下	jing xia	1
+井下村	jing xia cun	1
+井形	jing xing	1
+景星村	jing xing cun	1
+静修寺	jing xiu si	1
+酒吧俱乐部	jiu ba ju le bu	1
+韭菜冲	jiu cai chong	1
+韭菜岭	jiu cai ling	1
+久长村	jiu chang cun	1
+九冲	jiu chong	1
+九川置业	jiu chuan zhi ye	1
+九甲	jiu jia	1
+九家坳	jiu jia ao	1
+救苦难	jiu ku nan	1
+九里洞	jiu li dong	1
+九岭	jiu ling	1
+九岭村	jiu ling cun	1
+九龙庵	jiu long an	1
+九龙关	jiu long guan	1
+九龙江	jiu long jiang	1
+九亩里	jiu mu li	1
+九牧王男装	jiu mu wang nan zhuang	1
+九牛岭	jiu niu ling	1
+九女仙	jiu nv xian	1
+九曲岭	jiu qu ling	1
+九如村	jiu ru cun	1
+九山	jiu shan	1
+九塘冲	jiu tang chong	1
+九团村	jiu tuan cun	1
+九王庙	jiu wang miao	1
+九仙庙	jiu xian miao	1
+九羊	jiu yang	1
+九子仙	jiu zi xian	1
+九子香辣蟹	jiu zi xiang la xie	1
+九子岩	jiu zi yan	1
+聚福楼	ju fu lou	1
+咀上	ju shang	1
+局上	ju shang	1
+聚仙庵	ju xian an	1
+聚闲庄	ju xian zhuang	1
+觉山村	jue shan cun	1
+军堡	jun bao	1
+骏马亭	jun ma ting	1
+君球	jun qiu	1
+军山	jun shan	1
+军山村	jun shan cun	1
+军山乡	jun shan xiang	1
+军山中学	jun shan zhong xue	1
+君泰大酒店	jun tai da jiu dian	1
+君塘	jun tang	1
+均塘	jun tang	1
+均田	jun tian	1
+军营头	jun ying tou	1
+筠竹园	jun zhu yuan	1
+君子岭	jun zi ling	1
+君子塘	jun zi tang	1
+卡宾服饰	ka bin fu shi	1
+卡丹路	ka dan lu	1
+卡尔丹顿	ka er dan dun	1
+开发区	kai fa qu	1
+开口冲	kai kou chong	1
+开龙	kai long	1
+凯萨	kai sa	1
+开山村	kai shan cun	1
+开山寺	kai shan si	1
+开心大药房	kai xin da yao fang	1
+开心汤姆	kai xin tang mu	1
+开元山	kai yuan shan	1
+凯悦宾馆	kai yue bin guan	1
+侃大	kan da	1
+侃大村	kan da cun	1
+坎上	kan shang	1
+墈上	kan shang	1
+坎塘	kan tang	1
+墈头	kan tou	1
+坎下	kan xia	1
+墈下	kan xia	1
+康安大药房	kang an da yao fang	1
+康家	kang jia	1
+康里	kang li	1
+康宁诊所	kang ning zhen suo	1
+康威	kang wei	1
+康威体育	kang wei ti yu	1
+康馨大药房	kang xin da yao fang	1
+康源大药房	kang yuan da yao fang	1
+克明	ke ming	1
+坑背	keng bei	1
+坑口	keng kou	1
+坑头	keng tou	1
+坑尾	keng wei	1
+坑尾头	keng wei tou	1
+坑子口	keng zi kou	1
+孔家	kong jia	1
+孔家洞	kong jia dong	1
+孔塘	kong tang	1
+口泉村	kou quan cun	1
+苦茶	ku cha	1
+苦竹村	ku zhu cun	1
+苦竹岭	ku zhu ling	1
+苦竹排	ku zhu pai	1
+苦竹坪	ku zhu ping	1
+苦竹山	ku zhu shan	1
+苦竹园	ku zhu yuan	1
+快捷便利	kuai jie bian li	1
+快乐村	kuai le cun	1
+宽冲	kuan chong	1
+宽洞	kuan dong	1
+宽塘	kuan tang	1
+邝家	kuang jia	1
+匡家	kuang jia	1
+邝家村	kuang jia cun	1
+匡家村	kuang jia cun	1
+匡家岭	kuang jia ling	1
+匡家湾	kuang jia wan	1
+匡威	kuang wei	1
+矿冶厂	kuang ye chang	1
+昆村	kun cun	1
+阔里	kuo li	1
+阔头	kuo tou	1
+腊脚	la jiao	1
+腊岭	la ling	1
+腊岭村	la ling cun	1
+拉山	la shan	1
+腊石	la shi	1
+腊树脚	la shu jiao	1
+腊树塘	la shu tang	1
+腊树湾	la shu wan	1
+腊树下	la shu xia	1
+腊水村	la shui cun	1
+腊元	la yuan	1
+腊园村	la yuan cun	1
+赖村	lai cun	1
+莱家	lai jia	1
+赖家	lai jia	1
+赖家山	lai jia shan	1
+赖岭	lai ling	1
+赖山	lai shan	1
+兰洞	lan dong	1
+烂洞	lan dong	1
+兰洞村	lan dong cun	1
+兰湖里	lan hu li	1
+兰花坪	lan hua ping	1
+蓝家	lan jia	1
+兰家	lan jia	1
+蓝家门	lan jia men	1
+兰家山	lan jia shan	1
+兰江	lan jiang	1
+蓝岭	lan ling	1
+兰岭	lan ling	1
+烂泥冲	lan ni chong	1
+烂泥湖	lan ni hu	1
+烂泥坑	lan ni keng	1
+烂泥垄	lan ni long	1
+烂泥垅	lan ni long	1
+烂泥塘	lan ni tang	1
+烂泥田	lan ni tian	1
+烂泥下	lan ni xia	1
+烂棚	lan peng	1
+兰坪	lan ping	1
+栏平	lan ping	1
+烂铺子	lan pu zi	1
+岚桥镇	lan qiao zhen	1
+兰山	lan shan	1
+兰山村	lan shan cun	1
+兰市乡	lan shi xiang	1
+兰水	lan shui	1
+兰塘	lan tang	1
+兰田	lan tian	1
+兰田村	lan tian cun	1
+蓝天艺术幼儿园	lan tian yi shu you er yuan	1
+烂亭子	lan ting zi	1
+兰头	lan tou	1
+烂屋	lan wu	1
+烂屋里	lan wu li	1
+兰溪	lan xi	1
+岚下	lan xia	1
+兰园	lan yuan	1
+浪江	lang jiang	1
+郎酒专卖店	lang jiu zhuan mai dian	1
+浪漫一身	lang man yi shen	1
+榔木	lang mu	1
+廊木村	lang mu cun	1
+浪普	lang pu	1
+朗山	lang shan	1
+浪上	lang shang	1
+浪石村	lang shi cun	1
+浪塘	lang tang	1
+老爱山	lao ai shan	1
+老庵	lao an	1
+老庵堂	lao an tang	1
+老百姓超市	lao bai xing chao shi	1
+老百姓大药房	lao bai xing da yao fang	1
+老包家	lao bao jia	1
+老茶亭	lao cha ting	1
+老茶园	lao cha yuan	1
+老厂里	lao chang li	1
+老陈家	lao chen jia	1
+老村	lao cun	1
+老店子	lao dian zi	1
+劳动广场	lao dong guang chang	1
+老渡口	lao du kou	1
+老贺家	lao he jia	1
+老何山	lao he shan	1
+老禾塘	lao he tang	1
+老虎坳	lao hu ao	1
+老虎扒	lao hu ba	1
+老虎冲	lao hu chong	1
+老虎带	lao hu dai	1
+老虎洞	lao hu dong	1
+老虎坑	lao hu keng	1
+老虎龙	lao hu long	1
+老虎垅	lao hu long	1
+老虎脑	lao hu nao	1
+老虎坪	lao hu ping	1
+老虎山	lao hu shan	1
+老虎滩	lao hu tan	1
+老虎塘	lao hu tang	1
+老虎头	lao hu tou	1
+老虎窝	lao hu wo	1
+老虎岩	lao hu yan	1
+老虎造	lao hu zao	1
+老虎寨	lao hu zhai	1
+老华家	lao hua jia	1
+老黄家	lao huang jia	1
+老家门	lao jia men	1
+老街上	lao jie shang	1
+老井头	lao jing tou	1
+老居	lao ju	1
+老康家	lao kang jia	1
+老李家	lao li jia	1
+老凉亭	lao liang ting	1
+老寮	lao liao	1
+老寮场	lao liao chang	1
+老六合	lao liu he	1
+老路里	lao lu li	1
+老路下	lao lu xia	1
+老罗家	lao luo jia	1
+老麻地	lao ma di	1
+老马田	lao ma tian	1
+老门口	lao men kou	1
+老庙湾	lao miao wan	1
+老农家	lao nong jia	1
+老女	lao nv	1
+老女桥	lao nv qiao	1
+老欧家	lao ou jia	1
+老婆山	lao po shan	1
+老铺村	lao pu cun	1
+老铺里	lao pu li	1
+老铺子	lao pu zi	1
+老青山	lao qing shan	1
+老邱家	lao qiu jia	1
+老三都	lao san dou	1
+老山里	lao shan li	1
+老山坪	lao shan ping	1
+老山水	lao shan shui	1
+老沈家	lao shen jia	1
+老鼠切	lao shu qie	1
+老水车	lao shui che	1
+老坦	lao tan	1
+老谭家	lao tan jia	1
+老塘村	lao tang cun	1
+老塘山	lao tang shan	1
+老塘下	lao tang xia	1
+老亭子	lao ting zi	1
+老塆	lao wan	1
+老湾	lao wan	1
+老湾里	lao wan li	1
+老湾塘	lao wan tang	1
+老王庙	lao wang miao	1
+老王山	lao wang shan	1
+老屋	lao wu	1
+老屋背	lao wu bei	1
+老屋边	lao wu bian	1
+老屋厂	lao wu chang	1
+老屋场	lao wu chang	1
+老五超市	lao wu chao shi	1
+老屋冲	lao wu chong	1
+老屋村	lao wu cun	1
+老屋地	lao wu di	1
+老屋里	lao wu li	1
+老屋门口	lao wu men kou	1
+老屋坪	lao wu ping	1
+老屋前	lao wu qian	1
+老屋山	lao wu shan	1
+老屋上	lao wu shang	1
+劳武水库	lao wu shui ku	1
+老屋塘	lao wu tang	1
+老屋头	lao wu tou	1
+老屋湾	lao wu wan	1
+老屋子	lao wu zi	1
+老肖家	lao xiao jia	1
+老圩	lao xu	1
+老鸦冲	lao ya chong	1
+老鸦洞	lao ya dong	1
+老鸦口	lao ya kou	1
+老鸦岭	lao ya ling	1
+老鸦山	lao ya shan	1
+老鸦石	lao ya shi	1
+老鸭塘	lao ya tang	1
+老鸦窝	lao ya wo	1
+老爷场	lao ye chang	1
+老爷车	lao ye che	1
+老鹰窝	lao ying wo	1
+老鹰岩	lao ying yan	1
+老袁家	lao yuan jia	1
+老院里	lao yuan li	1
+老曾家	lao zeng jia	1
+老寨村	lao zhai cun	1
+老张家	lao zhang jia	1
+老猪冲	lao zhu chong	1
+老邹家	lao zou jia	1
+乐安村	le an cun	1
+乐背	le bei	1
+乐巢酒吧	le chao jiu ba	1
+乐洞	le dong	1
+乐购便利店	le gou bian li dian	1
+乐家桥	le jia qiao	1
+乐家塘	le jia tang	1
+乐江村	le jiang cun	1
+乐康大药房	le kang da yao fang	1
+勒里	le li	1
+乐岭村	le ling cun	1
+乐满地	le man di	1
+乐农家	le nong jia	1
+乐桥村	le qiao cun	1
+乐善桥	le shan qiao	1
+乐堂	le tang	1
+乐塘村	le tang cun	1
+勒下	le xia	1
+乐仙山庄	le xian shan zhuang	1
+乐源村	le yuan cun	1
+雷打断	lei da duan	1
+雷打坑	lei da keng	1
+雷大桥	lei da qiao	1
+雷大桥村	lei da qiao cun	1
+雷打石	lei da shi	1
+雷公坳	lei gong ao	1
+雷公车	lei gong che	1
+雷公坑	lei gong keng	1
+雷公岭	lei gong ling	1
+雷公山	lei gong shan	1
+雷公石	lei gong shi	1
+雷公塘	lei gong tang	1
+雷公下	lei gong xia	1
+雷公仙	lei gong xian	1
+擂鼓岭	lei gu ling	1
+雷家	lei jia	1
+雷家坳	lei jia ao	1
+雷家冲	lei jia chong	1
+雷家村	lei jia cun	1
+雷家洞	lei jia dong	1
+雷家岭	lei jia ling	1
+雷家垅	lei jia long	1
+雷家坪	lei jia ping	1
+雷家山	lei jia shan	1
+雷家湾	lei jia wan	1
+雷井	lei jing	1
+雷坪乡	lei ping xiang	1
+耒水	lei shui	1
+雷塘	lei tang	1
+雷塘村	lei tang cun	1
+耒头	lei tou	1
+雷震	lei zhen	1
+冷水冲	leng shui chong	1
+冷水村	leng shui cun	1
+冷水井	leng shui jing	1
+冷水坑	leng shui keng	1
+冷水塘	leng shui tang	1
+冷水湾	leng shui wan	1
+冷水溪	leng shui xi	1
+冷水源	leng shui yuan	1
+李白村	li bai cun	1
+栗背	li bei	1
+离背	li bei	1
+立常	li chang	1
+栗冲	li chong	1
+梨冲	li chong	1
+立冲	li chong	1
+里地村	li di cun	1
+里洞	li dong	1
+丽都大酒店	li du da jiu dian	1
+李岗寨	li gang zhai	1
+黎古	li gu	1
+利古	li gu	1
+李古	li gu	1
+利华家具	li hua jia ju	1
+李花开	li hua kai	1
+立回	li hui	1
+里家	li jia	1
+黎家	li jia	1
+李家	li jia	1
+栗家	li jia	1
+李家坳	li jia ao	1
+李家边	li jia bian	1
+李家冲	li jia chong	1
+李家祠	li jia ci	1
+李家村	li jia cun	1
+李家地	li jia di	1
+李家定	li jia ding	1
+李家洞	li jia dong	1
+礼家洞村	li jia dong cun	1
+李家坊	li jia fang	1
+李家咀	li jia ju	1
+李家坑	li jia keng	1
+李家里	li jia li	1
+李家岭	li jia ling	1
+李家垄	li jia long	1
+李家垅	li jia long	1
+李家门	li jia men	1
+李家坪	li jia ping	1
+李家桥	li jia qiao	1
+黎家山	li jia shan	1
+李家山	li jia shan	1
+李家塘	li jia tang	1
+李家田	li jia tian	1
+李家图	li jia tu	1
+李家塆	li jia wan	1
+李家湾	li jia wan	1
+李家湾村	li jia wan cun	1
+李家屋	li jia wu	1
+李家下	li jia xia	1
+黎家庄	li jia zhuang	1
+李家庄	li jia zhuang	1
+栗江	li jiang	1
+栗脚村	li jiao cun	1
+李金田	li jin tian	1
+利郎男装	li lang nan zhuang	1
+栗岭	li ling	1
+李罗村	li luo cun	1
+梨面	li mian	1
+里面江	li mian jiang	1
+利民	li min	1
+黎明村	li ming cun	1
+栗木	li mu	1
+栗木村	li mu cun	1
+里南山	li nan shan	1
+李宁	li ning	1
+栗坪	li ping	1
+梨坪	li ping	1
+黎坪村	li ping cun	1
+栗坪村	li ping cun	1
+礼泉	li quan	1
+栗山	li shan	1
+犁山	li shan	1
+李山冲	li shan chong	1
+里山村	li shan cun	1
+栗山村	li shan cun	1
+立山头	li shan tou	1
+梨树村	li shu cun	1
+梨树坪	li shu ping	1
+梨树山	li shu shan	1
+梨树山村	li shu shan cun	1
+梨树湾	li shu wan	1
+李树下	li shu xia	1
+栎树下	li shu xia	1
+栗树下	li shu xia	1
+梨树下	li shu xia	1
+梨树下村	li shu xia cun	1
+鲤塘	li tang	1
+栗塘	li tang	1
+梨塘	li tang	1
+犁塘	li tang	1
+里田	li tian	1
+栗田村	li tian cun	1
+里田乡	li tian xiang	1
+犁头咀	li tou ju	1
+犁头山	li tou shan	1
+犁头嘴	li tou zui	1
+李湾	li wan	1
+李屋村	li wu cun	1
+李屋小学	li wu xiao xue	1
+里溪	li xi	1
+立新村	li xin cun	1
+立新大队	li xin da dui	1
+理瑶	li yao	1
+鲤鱼	li yu	1
+鲤鱼村	li yu cun	1
+鲤鱼江镇	li yu jiang zhen	1
+鲤鱼塘	li yu tang	1
+鲤鱼塘镇	li yu tang zhen	1
+鲤鱼田	li yu tian	1
+鲤鱼形	li yu xing	1
+鲤鱼寨	li yu zhai	1
+梨园村	li yuan cun	1
+栗源镇	li yuan zhen	1
+里竹山	li zhu shan	1
+梨子坳	li zi ao	1
+李子冲	li zi chong	1
+李子坪	li zi ping	1
+李子山	li zi shan	1
+梨子山	li zi shan	1
+李子田	li zi tian	1
+联村	lian cun	1
+联达超市	lian da chao shi	1
+镰刀湾	lian dao wan	1
+联洞村	lian dong cun	1
+联发超市	lian fa chao shi	1
+连坊	lian fang	1
+联丰村	lian feng cun	1
+联富村	lian fu cun	1
+联合村	lian he cun	1
+联和村	lian he cun	1
+莲荷村	lian he cun	1
+莲荷塘	lian he tang	1
+莲荷乡	lian he xiang	1
+联合学校	lian he xue xiao	1
+莲花庵	lian hua an	1
+莲花村	lian hua cun	1
+莲花洞	lian hua dong	1
+莲花井	lian hua jing	1
+莲花水	lian hua shui	1
+莲花塘	lian hua tang	1
+联江村	lian jiang cun	1
+连口	lian kou	1
+联扩村	lian kuo cun	1
+连连冲	lian lian chong	1
+连刘	lian liu	1
+联盟村	lian meng cun	1
+练上	lian shang	1
+莲塘	lian tang	1
+连塘	lian tang	1
+莲塘村	lian tang cun	1
+连塘村	lian tang cun	1
+莲塘坪	lian tang ping	1
+莲塘水库	lian tang shui ku	1
+莲塘湾	lian tang wan	1
+莲塘下	lian tang xia	1
+莲塘学校	lian tang xue xiao	1
+莲塘镇	lian tang zhen	1
+莲塘镇政府	lian tang zhen zheng fu	1
+练图	lian tu	1
+连溪	lian xi	1
+濂溪	lian xi	1
+莲溪村	lian xi cun	1
+濂溪村	lian xi cun	1
+濂溪书院	lian xi shu yuan	1
+联想专卖店	lian xiang zhuan mai dian	1
+连心	lian xin	1
+联心村	lian xin cun	1
+联星村	lian xing cun	1
+鲢鱼村	lian yu cun	1
+连鱼带	lian yu dai	1
+鲢鱼塘	lian yu tang	1
+莲子洞	lian zi dong	1
+连子山	lian zi shan	1
+良洞	liang dong	1
+梁家	liang jia	1
+梁家冲	liang jia chong	1
+梁家岭	liang jia ling	1
+梁家湾	liang jia wan	1
+两江口	liang jiang kou	1
+两脚下	liang jiao xia	1
+两口塘	liang kou tang	1
+两路村	liang lu cun	1
+两路口	liang lu kou	1
+两路口村	liang lu kou cun	1
+凉桥	liang qiao	1
+梁山寨	liang shan zhai	1
+凉树湾	liang shu wan	1
+凉树下	liang shu xia	1
+两水口	liang shui kou	1
+凉塘	liang tang	1
+良田村	liang tian cun	1
+良田服务区	liang tian fu wu qu	1
+良田站	liang tian zhan	1
+良田镇	liang tian zhen	1
+凉亭坳	liang ting ao	1
+凉亭下	liang ting xia	1
+两头塘	liang tou tang	1
+两湾村	liang wan cun	1
+凉溪	liang xi	1
+凉源	liang yuan	1
+良子足浴	liang zi zu yu	1
+辽背	liao bei	1
+廖冲	liao chong	1
+廖古	liao gu	1
+廖家	liao jia	1
+料家	liao jia	1
+廖家冲	liao jia chong	1
+廖家村	liao jia cun	1
+廖家洞	liao jia dong	1
+廖家岭	liao jia ling	1
+廖家山	liao jia shan	1
+廖家湾	liao jia wan	1
+廖家湾村	liao jia wan cun	1
+廖家湾乡	liao jia wan xiang	1
+廖家元	liao jia yuan	1
+廖家园	liao jia yuan	1
+蓼江镇	liao jiang zhen	1
+辽前	liao qian	1
+寮上	liao shang	1
+料塘	liao tang	1
+廖湾	liao wan	1
+廖王坪乡	liao wang ping xiang	1
+寮下	liao xia	1
+烈士公园	lie shi gong yuan	1
+烈士陵园	lie shi ling yuan	1
+劣塘	lie tang	1
+林海城	lin hai cheng	1
+林家	lin jia	1
+林家冲	lin jia chong	1
+林家村	lin jia cun	1
+林家湾	lin jia wan	1
+林家园	lin jia yuan	1
+林家庄	lin jia zhuang	1
+林里	lin li	1
+林里村	lin li cun	1
+林木水	lin mu shui	1
+林泉村	lin quan cun	1
+林森村	lin sen cun	1
+林水	lin shui	1
+临武二中	lin wu er zhong	1
+临武县	lin wu xian	1
+临武县政府	lin wu xian zheng fu	1
+临武县中医院	lin wu xian zhong yi yuan	1
+林溪村	lin xi cun	1
+岭背	ling bei	1
+岭背村	ling bei cun	1
+岭背塘	ling bei tang	1
+岭顶上	ling ding shang	1
+灵官镇	ling guan zhen	1
+岭湖	ling hu	1
+凌家	ling jia	1
+岭脚	ling jiao	1
+岭脚村	ling jiao cun	1
+岭脚下	ling jiao xia	1
+岭脑	ling nao	1
+灵山寺	ling shan si	1
+岭上	ling shang	1
+菱塘	ling tang	1
+岭塘村	ling tang cun	1
+岭头	ling tou	1
+岭头村	ling tou cun	1
+岭头上	ling tou shang	1
+岭下	ling xia	1
+凌云村	ling yun cun	1
+凌云桥	ling yun qiao	1
+凌云寨	ling yun zhai	1
+岭子头	ling zi tou	1
+柳冲	liu chong	1
+流洞	liu dong	1
+刘方村	liu fang cun	1
+流峰镇	liu feng zhen	1
+留富	liu fu	1
+六福珠宝	liu fu zhu bao	1
+刘公山	liu gong shan	1
+刘古	liu gu	1
+刘家	liu jia	1
+柳家	liu jia	1
+刘家坳	liu jia ao	1
+刘家厂	liu jia chang	1
+刘家冲	liu jia chong	1
+刘家村	liu jia cun	1
+刘家洞	liu jia dong	1
+刘家渡	liu jia du	1
+刘家坊	liu jia fang	1
+刘家坑	liu jia keng	1
+刘家岭	liu jia ling	1
+刘家岭村	liu jia ling cun	1
+刘家垄	liu jia long	1
+刘家垅	liu jia long	1
+刘家排	liu jia pai	1
+刘家坪	liu jia ping	1
+刘家塘	liu jia tang	1
+六家湾	liu jia wan	1
+刘家塆	liu jia wan	1
+刘家湾	liu jia wan	1
+刘家屋	liu jia wu	1
+刘家下	liu jia xia	1
+刘家巷	liu jia xiang	1
+刘家寨	liu jia zhai	1
+刘家庄	liu jia zhuang	1
+流坑	liu keng	1
+六排	liu pai	1
+柳坪	liu ping	1
+刘铺	liu pu	1
+流清水	liu qing shui	1
+柳泉	liu quan	1
+流泉	liu quan	1
+柳山	liu shan	1
+留上	liu shang	1
+六十担	liu shi dan	1
+柳树塘	liu shu tang	1
+柳树湾	liu shu wan	1
+柳树下	liu shu xia	1
+流水唐	liu shui tang	1
+柳塘	liu tang	1
+柳塘村	liu tang cun	1
+留田	liu tian	1
+六万	liu wan	1
+柳湾	liu wan	1
+流溪	liu xi	1
+流溪村	liu xi cun	1
+柳下	liu xia	1
+流源	liu yuan	1
+流源乡	liu yuan xiang	1
+柳子冲	liu zi chong	1
+龙边	long bian	1
+龙船头	long chuan tou	1
+龙村	long cun	1
+龙渡	long du	1
+龙渡村	long du cun	1
+龙凤洞	long feng dong	1
+龙凤仙	long feng xian	1
+龙古	long gu	1
+龙海小学	long hai xiao xue	1
+龙海镇	long hai zhen	1
+龙虎村	long hu cun	1
+龙虎口	long hu kou	1
+龙虎岭	long hu ling	1
+龙湖山庄	long hu shan zhuang	1
+龙虎学校	long hu xue xiao	1
+龙华山	long hua shan	1
+龙会洲	long hui zhou	1
+龙家	long jia	1
+龙家冲	long jia chong	1
+龙家村	long jia cun	1
+龙家洞	long jia dong	1
+龙家里	long jia li	1
+龙家坪	long jia ping	1
+垄家坪	long jia ping	1
+龙家塘	long jia tang	1
+龙家田	long jia tian	1
+龙家湾	long jia wan	1
+龙江	long jiang	1
+龙江口	long jiang kou	1
+龙江下	long jiang xia	1
+龙角	long jiao	1
+龙角山	long jiao shan	1
+龙角塘	long jiao tang	1
+龙角头	long jiao tou	1
+龙颈	long jing	1
+垄井	long jing	1
+龙井村	long jing cun	1
+龙井里	long jing li	1
+龙井上	long jing shang	1
+龙咀	long ju	1
+龙君岭	long jun ling	1
+龙坑	long keng	1
+垅坑	long keng	1
+龙口	long kou	1
+垄口	long kou	1
+龙口村	long kou cun	1
+龙口里	long kou li	1
+龙口山	long kou shan	1
+龙口上	long kou shang	1
+龙困	long kun	1
+龙里	long li	1
+垄里	long li	1
+垅里	long li	1
+龙里村	long li cun	1
+龙门池村	long men chi cun	1
+龙门口	long men kou	1
+龙门世家	long men shi jia	1
+龙门湾	long men wan	1
+龙脑	long nao	1
+龙内	long nei	1
+龙女温泉	long nv wen quan	1
+龙坪村	long ping cun	1
+龙桥村	long qiao cun	1
+龙泉庵	long quan an	1
+龙泉村	long quan cun	1
+龙泉洞	long quan dong	1
+龙泉湖	long quan hu	1
+龙泉花园	long quan hua yuan	1
+龙泉林场	long quan lin chang	1
+龙泉路	long quan lu	1
+龙泉湾	long quan wan	1
+龙润普洱	long run pu er	1
+垅山	long shan	1
+龙山大酒店	long shan da jiu dian	1
+龙山洞	long shan dong	1
+龙山里	long shan li	1
+垄上	long shang	1
+垅上	long shang	1
+垄上村	long shang cun	1
+龙市乡	long shi xiang	1
+拢水	long shui	1
+龙水村	long shui cun	1
+龙水江	long shui jiang	1
+龙潭	long tan	1
+龙潭超市	long tan chao shi	1
+龙潭村	long tan cun	1
+龙潭大药房	long tan da yao fang	1
+龙潭加油站	long tan jia you zhan	1
+龙潭里	long tan li	1
+龙潭桥村	long tan qiao cun	1
+龙潭水库	long tan shui ku	1
+龙潭新村	long tan xin cun	1
+龙潭学校	long tan xue xiao	1
+龙潭镇	long tan zhen	1
+龙潭镇政府	long tan zhen zheng fu	1
+龙潭中心小学	long tan zhong xin xiao xue	1
+龙潭中学	long tan zhong xue	1
+龙塘	long tang	1
+垅塘	long tang	1
+龙塘冲	long tang chong	1
+龙塘村	long tang cun	1
+龙塘口	long tang kou	1
+龙塘湾	long tang wan	1
+龙塘下	long tang xia	1
+龙腾广场	long teng guang chang	1
+龙田村	long tian cun	1
+龙庭	long ting	1
+垄头	long tou	1
+垅头	long tou	1
+龙头村	long tou cun	1
+龙头江	long tou jiang	1
+龙头脑	long tou nao	1
+龙头桥	long tou qiao	1
+龙头山	long tou shan	1
+龙头湾	long tou wan	1
+龙头下	long tou xia	1
+龙湾	long wan	1
+龙湾村	long wan cun	1
+龙湾里	long wan li	1
+龙王坝	long wang ba	1
+龙王冲	long wang chong	1
+龙王殿	long wang dian	1
+龙王井	long wang jing	1
+龙王岭	long wang ling	1
+龙王庙	long wang miao	1
+龙王潭	long wang tan	1
+龙尾	long wei	1
+垄尾	long wei	1
+垅尾	long wei	1
+龙窝里	long wo li	1
+龙溪	long xi	1
+龙溪村	long xi cun	1
+龙溪乡	long xi xiang	1
+陇下	long xia	1
+龙下	long xia	1
+垄下	long xia	1
+垅下	long xia	1
+笼下	long xia	1
+龙下头	long xia tou	1
+龙形	long xing	1
+垄形	long xing	1
+隆兴村	long xing cun	1
+龙兴村	long xing cun	1
+龙形山	long xing shan	1
+龙形市乡	long xing shi xiang	1
+龙眼塘	long yan tang	1
+龙源村	long yuan cun	1
+龙珠	long zhu	1
+龙竹村	long zhu cun	1
+楼江村	lou jiang cun	1
+楼上	lou shang	1
+楼梯岭	lou ti ling	1
+楼屋	lou wu	1
+楼下	lou xia	1
+楼下村	lou xia cun	1
+楼下洞	lou xia dong	1
+楼下山	lou xia shan	1
+楼下塘	lou xia tang	1
+楼子	lou zi	1
+卢背	lu bei	1
+鲁冲	lu chong	1
+芦村	lu cun	1
+鹿东村	lu dong cun	1
+鲁海	lu hai	1
+六合村	lu he cun	1
+六合乡	lu he xiang	1
+六合圩	lu he xu	1
+六合中学	lu he zhong xue	1
+鹿湖	lu hu	1
+芦家	lu jia	1
+陆家	lu jia	1
+卢家	lu jia	1
+卢家圩	lu jia xu	1
+鹿角冲	lu jiao chong	1
+鹿角形	lu jiao xing	1
+鹿鸣村	lu ming cun	1
+鹿鸣桥	lu ming qiao	1
+路坪	lu ping	1
+路前	lu qian	1
+鹿桥村	lu qiao cun	1
+鲁塘	lu tang	1
+鲁塘坳	lu tang ao	1
+鲁塘村	lu tang cun	1
+鲁塘镇	lu tang zhen	1
+芦头	lu tou	1
+路头村	lu tou cun	1
+卢屋	lu wu	1
+路下	lu xia	1
+炉下	lu xia	1
+陆羽茶行	lu yu cha xing	1
+鹿住	lu zhu	1
+峦山	luan shan	1
+乱石窖	luan shi jiao	1
+仑下	lun xia	1
+罗岸	luo an	1
+萝卜冲	luo bo chong	1
+萝卜坑	luo bo keng	1
+萝卜山	luo bo shan	1
+萝卜王	luo bo wang	1
+萝卜园	luo bo yuan	1
+萝卜洲	luo bo zhou	1
+落城	luo cheng	1
+落村	luo cun	1
+罗村	luo cun	1
+罗古	luo gu	1
+锣鼓坪	luo gu ping	1
+锣鼓山	luo gu shan	1
+锣鼓堂	luo gu tang	1
+罗汉洞	luo han dong	1
+罗汉岭	luo han ling	1
+罗华冲	luo hua chong	1
+罗花山	luo hua shan	1
+骆家	luo jia	1
+罗家	luo jia	1
+罗家坳	luo jia ao	1
+罗家坝	luo jia ba	1
+罗家边	luo jia bian	1
+罗家厂	luo jia chang	1
+罗家冲	luo jia chong	1
+罗家祠	luo jia ci	1
+罗家祠堂	luo jia ci tang	1
+罗家村	luo jia cun	1
+罗家洞	luo jia dong	1
+罗家灌	luo jia guan	1
+罗家井	luo jia jing	1
+罗家岭	luo jia ling	1
+罗家垅	luo jia long	1
+罗家门	luo jia men	1
+落家坪	luo jia ping	1
+罗家桥	luo jia qiao	1
+落家山	luo jia shan	1
+罗家山	luo jia shan	1
+罗家山村	luo jia shan cun	1
+落家塘	luo jia tang	1
+罗家塘	luo jia tang	1
+罗家塘村	luo jia tang cun	1
+骆家湾	luo jia wan	1
+罗家塆	luo jia wan	1
+罗家湾	luo jia wan	1
+罗家窝	luo jia wo	1
+罗家屋	luo jia wu	1
+罗家屋场	luo jia wu chang	1
+罗家园	luo jia yuan	1
+罗家寨	luo jia zhai	1
+罗家庄	luo jia zhuang	1
+罗莱家纺	luo lai jia fang	1
+罗岭	luo ling	1
+罗马大帝	luo ma da di	1
+落坪	luo ping	1
+罗坪	luo ping	1
+罗泉村	luo quan cun	1
+罗山	luo shan	1
+罗山村	luo shan cun	1
+螺丝岭	luo si ling	1
+洛塘	luo tang	1
+罗塘	luo tang	1
+罗塘村	luo tang cun	1
+骆驼寨	luo tuo zhai	1
+罗湾	luo wan	1
+罗围	luo wei	1
+罗尾村	luo wei cun	1
+罗伍	luo wu	1
+骆仙岭	luo xian ling	1
+骆仙铺	luo xian pu	1
+罗霄山脉	luo xiao shan mai	1
+罗斜	luo xie	1
+落业	luo ye	1
+罗轸村	luo zhen cun	1
+罗洲村	luo zhou cun	1
+吕古	lv gu	1
+吕家	lv jia	1
+绿色农家	lv se nong jia	1
+驴山	lv shan	1
+旅游停车场	lv you ting che chang	1
+绿园酒店	lv yuan jiu dian	1
+马鞍岭	ma an ling	1
+马鞍坪	ma an ping	1
+马鞍山	ma an shan	1
+马安山	ma an shan	1
+马鞍石	ma an shi	1
+马安石	ma an shi	1
+马鞍塘	ma an tang	1
+马鞍腰	ma an yao	1
+马鞍寨	ma an zhai	1
+马坳	ma ao	1
+马背上	ma bei shang	1
+马卜	ma bu	1
+麻布村	ma bu cun	1
+马草湾	ma cao wan	1
+麻池塘	ma chi tang	1
+马冲	ma chong	1
+麻冲	ma chong	1
+麻冲村	ma chong cun	1
+马道里	ma dao li	1
+麻地村	ma di cun	1
+马渡村	ma du cun	1
+马坊	ma fang	1
+马房	ma fang	1
+麻纺厂	ma fang chang	1
+马坊村	ma fang cun	1
+马峰村	ma feng cun	1
+麻疯村	ma feng cun	1
+马古	ma gu	1
+马古岭	ma gu ling	1
+马古塘	ma gu tang	1
+蚂蝗塘	ma huang tang	1
+马迹岭	ma ji ling	1
+马家	ma jia	1
+马家坳	ma jia ao	1
+马家冲	ma jia chong	1
+马家洞	ma jia dong	1
+马家里	ma jia li	1
+马家垄	ma jia long	1
+马家垅	ma jia long	1
+马家坪	ma jia ping	1
+马家坪村	ma jia ping cun	1
+马家坪市场	ma jia ping shi chang	1
+马家山	ma jia shan	1
+马家塘	ma jia tang	1
+马家塆	ma jia wan	1
+马家窝	ma jia wo	1
+马家园	ma jia yuan	1
+马家洲	ma jia zhou	1
+马江	ma jiang	1
+马脚塘	ma jiao tang	1
+马井山	ma jing shan	1
+马可波罗磁砖	ma ke bo luo ci zhuan	1
+马克华菲	ma ke hua fei	1
+马口上	ma kou shang	1
+麻良	ma liang	1
+马岭	ma ling	1
+马岭下	ma ling xia	1
+麻柳塘	ma liu tang	1
+麻垅	ma long	1
+马路塘	ma lu tang	1
+马路头	ma lu tou	1
+马落塘	ma luo tang	1
+玛瑙山	ma nao shan	1
+玛瑙山矿	ma nao shan kuang	1
+马畔	ma pan	1
+马屁股	ma pi gu	1
+麻坪	ma ping	1
+马前里	ma qian li	1
+马桥	ma qiao	1
+骂桥	ma qiao	1
+马桥村	ma qiao cun	1
+马桥乡	ma qiao xiang	1
+马坵	ma qiu	1
+麻沙	ma sha	1
+麻山	ma shan	1
+马山冲	ma shan chong	1
+麻山头	ma shan tou	1
+麻石岭	ma shi ling	1
+麻石桥	ma shi qiao	1
+马塘	ma tang	1
+麻塘	ma tang	1
+马蹄下	ma ti xia	1
+麻田	ma tian	1
+麻田村	ma tian cun	1
+马田三中	ma tian san zhong	1
+马田收费站	ma tian shou fei zhan	1
+马田镇	ma tian zhen	1
+麻田镇	ma tian zhen	1
+马田中学	ma tian zhong xue	1
+麻田中学	ma tian zhong xue	1
+马桶上	ma tong shang	1
+马头	ma tou	1
+麻头	ma tou	1
+马头冲	ma tou chong	1
+马头村	ma tou cun	1
+马头金	ma tou jin	1
+马头岭	ma tou ling	1
+马头岭乡	ma tou ling xiang	1
+马头上	ma tou shang	1
+马头寨	ma tou zhai	1
+马王庙	ma wang miao	1
+马尾冲	ma wei chong	1
+马尾村	ma wei cun	1
+马尾岭	ma wei ling	1
+麻窝	ma wo	1
+马下	ma xia	1
+麻下	ma xia	1
+马巷	ma xiang	1
+麻斜	ma xie	1
+马形	ma xing	1
+蚂蚁坑	ma yi keng	1
+马园	ma yuan	1
+麻榨	ma zha	1
+麻竹坪	ma zhu ping	1
+麻竹园	ma zhu yuan	1
+马子冲	ma zi chong	1
+麻子冲	ma zi chong	1
+麻子坪	ma zi ping	1
+马子桥	ma zi qiao	1
+麻子塘	ma zi tang	1
+马子窝	ma zi wo	1
+麦冲	mai chong	1
+买马	mai ma	1
+麦市乡	mai shi xiang	1
+麦田村	mai tian cun	1
+麦子冲	mai zi chong	1
+麦子地	mai zi di	1
+麦子坪	mai zi ping	1
+满池塘	man chi tang	1
+满公园	man gong yuan	1
+满家	man jia	1
+满泉	man quan	1
+满塘	man tang	1
+满堂村	man tang cun	1
+满塘村	man tang cun	1
+满天星	man tian xing	1
+馒头岭	man tou ling	1
+莽山	mang shan	1
+莽山大酒店	mang shan da jiu dian	1
+莽山森林公园	mang shan sen lin gong yuan	1
+芒洲	mang zhou	1
+毛背	mao bei	1
+猫捕鼠	mao bu shu	1
+茅冲	mao chong	1
+毛冲	mao chong	1
+毛冲村	mao chong cun	1
+茅店	mao dian	1
+毛点	mao dian	1
+毛洞	mao dong	1
+猫儿坪	mao er ping	1
+猫儿寨	mao er zhai	1
+毛归	mao gui	1
+毛家	mao jia	1
+毛家冲	mao jia chong	1
+毛家村	mao jia cun	1
+毛家洞	mao jia dong	1
+毛家岭	mao jia ling	1
+毛家桥	mao jia qiao	1
+毛家塘	mao jia tang	1
+毛家田	mao jia tian	1
+毛家湾	mao jia wan	1
+毛家屋	mao jia wu	1
+毛家寨	mao jia zhai	1
+猫居	mao ju	1
+茂林村	mao lin cun	1
+茅岭	mao ling	1
+帽岭	mao ling	1
+毛岭	mao ling	1
+茅坪	mao ping	1
+毛坪	mao ping	1
+茅坪村	mao ping cun	1
+毛坪村	mao ping cun	1
+茅坪里	mao ping li	1
+毛坪里	mao ping li	1
+茅坪山	mao ping shan	1
+毛坪头	mao ping tou	1
+茅坪小学	mao ping xiao xue	1
+毛坪小学	mao ping xiao xue	1
+毛铺	mao pu	1
+茅铺村	mao pu cun	1
+猫山	mao shan	1
+茅山塘	mao shan tang	1
+毛塘	mao tang	1
+毛塘村	mao tang cun	1
+茅窝	mao wo	1
+茅屋冲	mao wu chong	1
+茅屋村	mao wu cun	1
+茅屋里	mao wu li	1
+毛屋里	mao wu li	1
+茅屋头	mao wu tou	1
+茅屋湾	mao wu wan	1
+猫形	mao xing	1
+毛秀	mao xiu	1
+茂源宾馆	mao yuan bin guan	1
+毛寨	mao zhai	1
+茅庄	mao zhuang	1
+猫子冲	mao zi chong	1
+帽子岭	mao zi ling	1
+猫子下	mao zi xia	1
+梅冲	mei chong	1
+梅花坳	mei hua ao	1
+梅花村	mei hua cun	1
+梅花地	mei hua di	1
+梅花垄	mei hua long	1
+梅花落地	mei hua luo di	1
+梅花庄	mei hua zhuang	1
+梅家	mei jia	1
+煤家	mei jia	1
+梅家冲	mei jia chong	1
+梅家村	mei jia cun	1
+梅家田	mei jia tian	1
+梅江	mei jiang	1
+美克	mei ke	1
+梅坑	mei keng	1
+梅里	mei li	1
+美丽村	mei li cun	1
+魅力女人	mei li nv ren	1
+美丽一身	mei li yi shen	1
+梅岭	mei ling	1
+梅垄	mei long	1
+梅木	mei mu	1
+梅木村	mei mu cun	1
+美女照镜	mei nv zhao jing	1
+煤气大楼	mei qi da lou	1
+湄桥	mei qiao	1
+梅树坑	mei shu keng	1
+梅树下	mei shu xia	1
+湄潭	mei tan	1
+梅塘村	mei tang cun	1
+梅田村	mei tian cun	1
+梅田镇	mei tian zhen	1
+梅湾	mei wan	1
+梅湾村	mei wan cun	1
+梅溪	mei xi	1
+梅洲	mei zhou	1
+梅子坝	mei zi ba	1
+梅子冲	mei zi chong	1
+梅子村	mei zi cun	1
+梅子坪	mei zi ping	1
+梅子山	mei zi shan	1
+梅子窝	mei zi wo	1
+门口岭	men kou ling	1
+门楼下	men lou xia	1
+门前	men qian	1
+门头村	men tou cun	1
+蒙鼓冲	meng gu chong	1
+孟家村	meng jia cun	1
+梦洁家纺	meng jie jia fang	1
+梦里故乡	meng li gu xiang	1
+萌芽幼儿园	meng ya you er yuan	1
+米城	mi cheng	1
+米兰春天	mi lan chun tian	1
+米岭	mi ling	1
+米箩咖啡	mi luo ka fei	1
+棉花坳	mian hua ao	1
+棉花冲	mian hua chong	1
+棉花地	mian hua di	1
+棉花岭	mian hua ling	1
+棉花坪	mian hua ping	1
+棉花塘	mian hua tang	1
+棉花田	mian hua tian	1
+棉花土	mian hua tu	1
+棉花窝	mian hua wo	1
+庙背	miao bei	1
+庙边	miao bian	1
+庙冲	miao chong	1
+庙埂	miao geng	1
+庙脚	miao jiao	1
+庙咀	miao ju	1
+庙廊下	miao lang xia	1
+庙里	miao li	1
+庙门口	miao men kou	1
+庙前	miao qian	1
+庙前村	miao qian cun	1
+庙山	miao shan	1
+庙山里	miao shan li	1
+庙山上	miao shan shang	1
+庙山下	miao shan xia	1
+庙上	miao shang	1
+庙头	miao tou	1
+庙头上	miao tou shang	1
+庙湾	miao wan	1
+庙湾里	miao wan li	1
+庙下	miao xia	1
+庙下村	miao xia cun	1
+庙下洞	miao xia dong	1
+庙下湾	miao xia wan	1
+苗元村	miao yuan cun	1
+苗竹山	miao zhu shan	1
+民康大药房	min kang da yao fang	1
+民生大药房	min sheng da yao fang	1
+民心大药房	min xin da yao fang	1
+民族村	min zu cun	1
+明德小学	ming de xiao xue	1
+明桂园	ming gui yuan	1
+名豪大酒店	ming hao da jiu dian	1
+明华医院	ming hua yi yuan	1
+鸣九山庄	ming jiu shan zhuang	1
+明塘	ming tang	1
+明星村	ming xing cun	1
+明星桥	ming xing qiao	1
+明阳中学	ming yang zhong xue	1
+明月江	ming yue jiang	1
+明珠广场	ming zhu guang chang	1
+明珠酒店	ming zhu jiu dian	1
+磨城	mo cheng	1
+墨冲	mo chong	1
+磨刀村	mo dao cun	1
+磨刀坑	mo dao keng	1
+磨刀石	mo dao shi	1
+磨刀水	mo dao shui	1
+莫家	mo jia	1
+莫家塘	mo jia tang	1
+沫江	mo jiang	1
+墨坑	mo keng	1
+磨盘形	mo pan xing	1
+磨石山	mo shi shan	1
+摩天岭	mo tian ling	1
+磨心塘	mo xin tang	1
+磨形	mo xing	1
+木坝	mu ba	1
+母冲	mu chong	1
+木冲村	mu chong cun	1
+木洞	mu dong	1
+木瓜冲	mu gua chong	1
+木坑	mu keng	1
+母老	mu lao	1
+母老村	mu lao cun	1
+木凉亭	mu liang ting	1
+木林上	mu lin shang	1
+木岭	mu ling	1
+木岭村	mu ling cun	1
+木垄	mu long	1
+木楼	mu lou	1
+木坪	mu ping	1
+木丘	mu qiu	1
+沐塘	mu tang	1
+木湾	mu wan	1
+木仙	mu xian	1
+木叶山	mu ye shan	1
+木鱼岭	mu yu ling	1
+木鱼山	mu yu shan	1
+木鱼形	mu yu xing	1
+母竹	mu zhu	1
+木子坳	mu zi ao	1
+木子山	mu zi shan	1
+木子塘	mu zi tang	1
+娜尔思	na er si	1
+纳帕佳	na pa jia	1
+奈何山	nai he shan	1
+耐克	nai ke	1
+奶子岭	nai zi ling	1
+南岸	nan an	1
+南岸村	nan an cun	1
+南坳	nan ao	1
+南冲	nan chong	1
+楠冲	nan chong	1
+南冲村	nan chong cun	1
+南冲塘	nan chong tang	1
+南洞	nan dong	1
+南洞乡	nan dong xiang	1
+南方冲	nan fang chong	1
+南凤	nan feng	1
+南风坳	nan feng ao	1
+南风面	nan feng mian	1
+南风寨	nan feng zhai	1
+南福村	nan fu cun	1
+南贡	nan gong	1
+南瓜冲	nan gua chong	1
+南海	nan hai	1
+南湖村	nan hu cun	1
+南华	nan hua	1
+南家	nan jia	1
+南家坪	nan jia ping	1
+南家塘	nan jia tang	1
+南街	nan jie	1
+南京洞	nan jing dong	1
+南京口	nan jing kou	1
+南卡	nan ka	1
+南坑	nan keng	1
+南坑小学	nan keng xiao xue	1
+南立村	nan li cun	1
+南岭	nan ling	1
+南岭村	nan ling cun	1
+南岭酒店	nan ling jiu dian	1
+南岭林场	nan ling lin chang	1
+南岭山	nan ling shan	1
+南楼	nan lou	1
+南楼村	nan lou cun	1
+南门	nan men	1
+南门头	nan men tou	1
+南门庄	nan men zhuang	1
+南庙	nan miao	1
+南木	nan mu	1
+楠木坳	nan mu ao	1
+楠木冲	nan mu chong	1
+楠木村	nan mu cun	1
+南木坑	nan mu keng	1
+楠木坪	nan mu ping	1
+南木山	nan mu shan	1
+楠木山	nan mu shan	1
+南木塘	nan mu tang	1
+楠木塘	nan mu tang	1
+南木屯	nan mu tun	1
+南坪村	nan ping cun	1
+南坪市	nan ping shi	1
+南强乡	nan qiang xiang	1
+南山	nan shan	1
+南山岭	nan shan ling	1
+南山下	nan shan xia	1
+南蛇洞	nan she dong	1
+南石头	nan shi tou	1
+南水村	nan shui cun	1
+南水塘	nan shui tang	1
+南塔大药房	nan ta da yao fang	1
+南塔公园	nan ta gong yuan	1
+南塔加油站	nan ta jia you zhan	1
+南塔岭	nan ta ling	1
+南塔路	nan ta lu	1
+南塔市场	nan ta shi chang	1
+南塘	nan tang	1
+南塘边	nan tang bian	1
+南塘村	nan tang cun	1
+南天宾馆	nan tian bin guan	1
+南天门	nan tian men	1
+南托	nan tuo	1
+南湾	nan wan	1
+南湾村	nan wan cun	1
+南溪	nan xi	1
+南溪村	nan xi cun	1
+南溪乡	nan xi xiang	1
+南香村	nan xiang cun	1
+南衙村	nan ya cun	1
+南阳大酒店	nan yang da jiu dian	1
+南苑	nan yuan	1
+南源村	nan yuan cun	1
+南园里	nan yuan li	1
+南园岭	nan yuan ling	1
+南岳	nan yue	1
+南寨	nan zhai	1
+内冲	nei chong	1
+内垄	nei long	1
+泥背	ni bei	1
+泥冲	ni chong	1
+泥湖村	ni hu cun	1
+倪家	ni jia	1
+泥鳅塘	ni qiu tang	1
+泥鳅窝	ni qiu wo	1
+泥塘村	ni tang cun	1
+泥坞	ni wu	1
+泥周	ni zhou	1
+年丰村	nian feng cun	1
+年塘	nian tang	1
+鸟岭	niao ling	1
+茑萝	niao luo	1
+鸟塘	niao tang	1
+宁家湾	ning jia wan	1
+牛背石	niu bei shi	1
+牛鼻头	niu bi tou	1
+牛埠	niu bu	1
+牛场	niu chang	1
+牛冲	niu chong	1
+牛洞	niu dong	1
+牛轭岭	niu e ling	1
+牛岗	niu gang	1
+牛牯坪	niu gu ping	1
+牛牯山	niu gu shan	1
+牛湖	niu hu	1
+牛家	niu jia	1
+牛家坪	niu jia ping	1
+牛江村	niu jiang cun	1
+牛角冲	niu jiao chong	1
+牛角井	niu jiao jing	1
+牛角岭	niu jiao ling	1
+牛角龙	niu jiao long	1
+牛角垅	niu jiao long	1
+牛角丘	niu jiao qiu	1
+牛角上	niu jiao shang	1
+牛角塘	niu jiao tang	1
+牛角湾	niu jiao wan	1
+牛角下	niu jiao xia	1
+牛角嘴	niu jiao zui	1
+牛栏冲	niu lan chong	1
+牛栏坑	niu lan keng	1
+牛栏坪	niu lan ping	1
+牛栏头	niu lan tou	1
+牛栏湾	niu lan wan	1
+牛栏窝	niu lan wo	1
+牛岭	niu ling	1
+牛岭下	niu ling xia	1
+牛路	niu lu	1
+牛路岭	niu lu ling	1
+牛路水	niu lu shui	1
+牛毛岭	niu mao ling	1
+牛奶场	niu nai chang	1
+牛棚上	niu peng shang	1
+牛皮坳	niu pi ao	1
+牛皮冲	niu pi chong	1
+牛皮塘	niu pi tang	1
+牛坪	niu ping	1
+牛坪村	niu ping cun	1
+牛前	niu qian	1
+牛屎塘	niu shi tang	1
+牛塘	niu tang	1
+牛塘的	niu tang de	1
+牛田	niu tian	1
+牛头	niu tou	1
+牛头村	niu tou cun	1
+牛头坑	niu tou keng	1
+牛头岭	niu tou ling	1
+牛头山	niu tou shan	1
+牛头窝	niu tou wo	1
+牛尾岭	niu wei ling	1
+牛巷口村	niu xiang kou cun	1
+牛心头	niu xin tou	1
+牛形	niu xing	1
+牛形岭	niu xing ling	1
+牛远	niu yuan	1
+牛杂王	niu za wang	1
+牛寨	niu zhai	1
+牛爪	niu zhao	1
+农丰村	nong feng cun	1
+农行城关分理处	nong hang cheng guan fen li chu	1
+农行解放路支行	nong hang jie fang lu zhi hang	1
+农机加油站	nong ji jia you zhan	1
+农家坊	nong jia fang	1
+农家井	nong jia jing	1
+农科村	nong ke cun	1
+农林村	nong lin cun	1
+暖桥	nuan qiao	1
+暖水	nuan shui	1
+暖水塘	nuan shui tang	1
+暖水镇	nuan shui zhen	1
+暖园	nuan yuan	1
+糯粉	nuo fen	1
+诺基亚专卖店	nuo ji ya zhuan mai dian	1
+女人香	nv ren xiang	1
+欧背	ou bei	1
+沤菜	ou cai	1
+欧菜坪	ou cai ping	1
+欧冲	ou chong	1
+欧村	ou cun	1
+欧家	ou jia	1
+欧家冲	ou jia chong	1
+欧家村	ou jia cun	1
+欧家岭	ou jia ling	1
+欧家坪	ou jia ping	1
+欧家山	ou jia shan	1
+欧家湾	ou jia wan	1
+欧家寨	ou jia zhai	1
+欧家庄	ou jia zhuang	1
+沤江	ou jiang	1
+藕塘	ou tang	1
+藕塘冲	ou tang chong	1
+欧亚灯饰	ou ya deng shi	1
+欧阳海村	ou yang hai cun	1
+欧阳海灌区	ou yang hai guan qu	1
+欧阳海广场	ou yang hai guang chang	1
+欧阳海乡	ou yang hai xiang	1
+欧洲花园	ou zhou hua yuan	1
+琶湾	pa wan	1
+排倒	pai dao	1
+牌坊脚	pai fang jiao	1
+牌坊下	pai fang xia	1
+排后	pai hou	1
+排家	pai jia	1
+派乐汉堡	pai le han bao	1
+排里	pai li	1
+排岭	pai ling	1
+排楼	pai lou	1
+排楼村	pai lou cun	1
+牌楼村	pai lou cun	1
+牌楼卫生院	pai lou wei sheng yuan	1
+排楼下	pai lou xia	1
+牌楼下	pai lou xia	1
+牌楼乡	pai lou xiang	1
+排脑	pai nao	1
+排内	pai nei	1
+排泉村	pai quan cun	1
+排山	pai shan	1
+排山村	pai shan cun	1
+排山乡	pai shan xiang	1
+排上	pai shang	1
+排塘	pai tang	1
+排塘村	pai tang cun	1
+排下	pai xia	1
+派下	pai xia	1
+排形	pai xing	1
+排子	pai zi	1
+畔边	pan bian	1
+畔冲	pan chong	1
+盘冲	pan chong	1
+盘洞	pan dong	1
+盘富	pan fu	1
+盘古庙	pan gu miao	1
+盘古山	pan gu shan	1
+盘古仙	pan gu xian	1
+盘海	pan hai	1
+畔湖	pan hu	1
+潘家	pan jia	1
+盘家	pan jia	1
+潘家村	pan jia cun	1
+潘家庙	pan jia miao	1
+潘家山	pan jia shan	1
+潘家湾	pan jia wan	1
+潘家庄	pan jia zhuang	1
+盘江水库	pan jiang shui ku	1
+盘江乡	pan jiang xiang	1
+盘坑	pan keng	1
+畔里	pan li	1
+盘龙湾	pan long wan	1
+盼盼幼儿园	pan pan you er yuan	1
+潘山	pan shan	1
+盘上	pan shang	1
+泮塘	pan tang	1
+畔塘	pan tang	1
+盘塘	pan tang	1
+泮塘村	pan tang cun	1
+畔塘村	pan tang cun	1
+畔田	pan tian	1
+泮头	pan tou	1
+泮头乡	pan tou xiang	1
+盘形	pan xing	1
+旁边江	pang bian jiang	1
+旁边水	pang bian shui	1
+庞家	pang jia	1
+旁上	pang shang	1
+螃蟹行	pang xie xing	1
+螃蟹形	pang xie xing	1
+泡冲	pao chong	1
+泡金山	pao jin shan	1
+泡水	pao shui	1
+炮台上	pao tai shang	1
+培冲	pei chong	1
+裴家	pei jia	1
+盆洞村	pen dong cun	1
+盆形	pen xing	1
+彭古	peng gu	1
+彭古湾	peng gu wan	1
+彭家	peng jia	1
+彭家坳	peng jia ao	1
+彭家村	peng jia cun	1
+彭家山	peng jia shan	1
+彭家田	peng jia tian	1
+彭家屋	peng jia wu	1
+彭坑	peng keng	1
+棚里	peng li	1
+棚上	peng shang	1
+彭市乡	peng shi xiang	1
+蓬塘村	peng tang cun	1
+碰田村	peng tian cun	1
+棚头	peng tou	1
+棚下	peng xia	1
+彭源村	peng yuan cun	1
+棚子里	peng zi li	1
+匹克运动	pi ke yun dong	1
+皮里村	pi li cun	1
+枇杷冲	pi pa chong	1
+枇杷树下	pi pa shu xia	1
+琵琶形	pi pa xing	1
+皮石乡	pi shi xiang	1
+批头上	pi tou shang	1
+偏上	pian shang	1
+片石场	pian shi chang	1
+偏塘	pian tang	1
+平安加油站	ping an jia you zhan	1
+平背乡	ping bei xiang	1
+坪冲	ping chong	1
+平冲	ping chong	1
+坪的	ping de	1
+坪洞	ping dong	1
+坪洞村	ping dong cun	1
+平都	ping dou	1
+平都村	ping dou cun	1
+坪风	ping feng	1
+平峰村	ping feng cun	1
+坪岗	ping gang	1
+平岗岭	ping gang ling	1
+平光村	ping guang cun	1
+平和村	ping he cun	1
+平和洞	ping he dong	1
+平和乡	ping he xiang	1
+坪家	ping jia	1
+坪界	ping jie	1
+坪坑	ping keng	1
+坪坑村	ping keng cun	1
+坪口	ping kou	1
+坪兰	ping lan	1
+平乐村	ping le cun	1
+坪里	ping li	1
+坪岭	ping ling	1
+坪垅	ping long	1
+平南村	ping nan cun	1
+坪山	ping shan	1
+平山	ping shan	1
+坪山村	ping shan cun	1
+平山村	ping shan cun	1
+坪上	ping shang	1
+平上	ping shang	1
+坪上村	ping shang cun	1
+坪上乡	ping shang xiang	1
+坪上中学	ping shang zhong xue	1
+坪石村	ping shi cun	1
+坪石乡	ping shi xiang	1
+平水	ping shui	1
+坪水村	ping shui cun	1
+坪塘	ping tang	1
+平堂	ping tang	1
+坪塘村	ping tang cun	1
+平塘村	ping tang cun	1
+坪田	ping tian	1
+平田	ping tian	1
+坪田村	ping tian cun	1
+平田村	ping tian cun	1
+平田岭	ping tian ling	1
+坪头	ping tou	1
+坪头岭	ping tou ling	1
+平头岭	ping tou ling	1
+坪头山	ping tou shan	1
+平头山	ping tou shan	1
+平头寨	ping tou zhai	1
+坪湾村	ping wan cun	1
+坪溪村	ping xi cun	1
+坪下	ping xia	1
+坪乡	ping xiang	1
+平元	ping yuan	1
+平原村	ping yuan cun	1
+平源村	ping yuan cun	1
+坪子	ping zi	1
+坪子村	ping zi cun	1
+婆江	po jiang	1
+坡面上	po mian shang	1
+婆婆山	po po shan	1
+婆婆崖	po po ya	1
+婆塘	po tang	1
+破塘	po tang	1
+破塘村	po tang cun	1
+坡头	po tou	1
+坡头下	po tou xia	1
+坡下	po xia	1
+破寨	po zhai	1
+铺背	pu bei	1
+蒲公英幼儿园	pu gong ying you er yuan	1
+普济寺	pu ji si	1
+普乐村	pu le cun	1
+普乐乡	pu le xiang	1
+铺里	pu li	1
+普利司通轮胎店	pu li si tong lun tai dian	1
+普满乡	pu man xiang	1
+铺前	pu qian	1
+铺上	pu shang	1
+铺台	pu tai	1
+蒲塘	pu tang	1
+朴塘	pu tang	1
+铺下	pu xia	1
+铺下村	pu xia cun	1
+铺子里	pu zi li	1
+铺子上	pu zi shang	1
+铺子湾	pu zi wan	1
+七宝村	qi bao cun	1
+七宝山	qi bao shan	1
+七波辉	qi bo hui	1
+七步村	qi bu cun	1
+汽车总站	qi che zong zhan	1
+起洞	qi dong	1
+七斗米	qi dou mi	1
+栖凤渡镇	qi feng du zhen	1
+奇峰岭	qi feng ling	1
+七甲	qi jia	1
+七甲村	qi jia cun	1
+七甲乡	qi jia xiang	1
+淇江	qi jiang	1
+崎坑	qi keng	1
+七郎	qi lang	1
+七郎村	qi lang cun	1
+七里	qi li	1
+七里村	qi li cun	1
+七里洞	qi li dong	1
+七里洞村	qi li dong cun	1
+七里坑	qi li keng	1
+七里坪	qi li ping	1
+七里桥	qi li qiao	1
+七里山	qi li shan	1
+七里镇	qi li zhen	1
+七里中学	qi li zhong xue	1
+七连	qi lian	1
+麒麟大酒店	qi lin da jiu dian	1
+麒麟头	qi lin tou	1
+七岭	qi ling	1
+崎岭	qi ling	1
+杞木村	qi mu cun	1
+淇南村	qi nan cun	1
+七排	qi pai	1
+柒牌男装	qi pai nan zhuang	1
+七匹狼	qi pi lang	1
+七丘田	qi qiu tian	1
+旗山下	qi shan xia	1
+起石	qi shi	1
+奇石世界	qi shi shi jie	1
+齐塘	qi tang	1
+骑田岭	qi tian ling	1
+气头	qi tou	1
+七仙姑	qi xian gu	1
+旗形	qi xing	1
+七星大酒店	qi xing da jiu dian	1
+七星大市场	qi xing da shi chang	1
+七星洞	qi xing dong	1
+七星加油站	qi xing jia you zhan	1
+七洲村	qi zhou cun	1
+卡子上	qia zi shang	1
+前程村	qian cheng cun	1
+千冲乡	qian chong xiang	1
+前洞	qian dong	1
+千佛塔	qian fo ta	1
+钱河村	qian he cun	1
+千家坪	qian jia ping	1
+千家湾	qian jia wan	1
+迁江	qian jiang	1
+千江	qian jiang	1
+前进村	qian jin cun	1
+千秋村	qian qiu cun	1
+千秋桥	qian qiu qiao	1
+千山	qian shan	1
+前山村	qian shan cun	1
+浅石	qian shi	1
+前塘	qian tang	1
+浅塘	qian tang	1
+浅田	qian tian	1
+前途村	qian tu cun	1
+前湾	qian wan	1
+墙背	qiang bei	1
+桥背	qiao bei	1
+桥边	qiao bian	1
+桥边下	qiao bian xia	1
+桥冲	qiao chong	1
+乔丹中国专卖	qiao dan zhong guo zhuan mai	1
+桥口	qiao kou	1
+桥口站	qiao kou zhan	1
+硚口镇	qiao kou zhen	1
+桥老头	qiao lao tou	1
+桥南	qiao nan	1
+桥南村	qiao nan cun	1
+桥南加油站	qiao nan jia you zhan	1
+桥市乡	qiao shi xiang	1
+桥市中学	qiao shi zhong xue	1
+桥田村	qiao tian cun	1
+桥头板	qiao tou ban	1
+桥头冲	qiao tou chong	1
+桥头村	qiao tou cun	1
+桥头江	qiao tou jiang	1
+桥头庙	qiao tou miao	1
+桥头上	qiao tou shang	1
+桥头溪	qiao tou xi	1
+桥头下	qiao tou xia	1
+桥头乡	qiao tou xiang	1
+桥溪	qiao xi	1
+桥下	qiao xia	1
+桥下山	qiao xia shan	1
+桥子头	qiao zi tou	1
+芹菜村	qin cai cun	1
+芹菜塘	qin cai tang	1
+亲和力旅游	qin he li lv you	1
+勤家	qin jia	1
+秦家	qin jia	1
+勤俭村	qin jian cun	1
+琴山村	qin shan cun	1
+芹塘	qin tang	1
+芹溪村	qin xi cun	1
+沁园山庄	qin yuan shan zhuang	1
+青菜冲	qing cai chong	1
+青草冲	qing cao chong	1
+青草村	qing cao cun	1
+青草湖	qing cao hu	1
+青草坪	qing cao ping	1
+青草塘	qing cao tang	1
+青洞村	qing dong cun	1
+清东村	qing dong cun	1
+青管	qing guan	1
+青龟	qing gui	1
+清和乡	qing he xiang	1
+青华村	qing hua cun	1
+清江村	qing jiang cun	1
+清江山	qing jiang shan	1
+清江乡	qing jiang xiang	1
+青界山	qing jie shan	1
+青口村	qing kou cun	1
+青兰村	qing lan cun	1
+青兰乡	qing lan xiang	1
+青联村	qing lian cun	1
+青林村	qing lin cun	1
+青岭村	qing ling cun	1
+青龙村	qing long cun	1
+青龙寨	qing long zhai	1
+青路	qing lu	1
+清明山	qing ming shan	1
+清明田	qing ming tian	1
+青木三色	qing mu san se	1
+青牛村	qing niu cun	1
+青坪	qing ping	1
+青坪村	qing ping cun	1
+青旗	qing qi	1
+青丘	qing qiu	1
+清泉村	qing quan cun	1
+清泉学校	qing quan xue xiao	1
+清泉镇	qing quan zhen	1
+清泉镇卫生院	qing quan zhen wei sheng yuan	1
+青山	qing shan	1
+青山凹	qing shan ao	1
+青山坳	qing shan ao	1
+青山背	qing shan bei	1
+青山村	qing shan cun	1
+青山公	qing shan gong	1
+青山加油站	qing shan jia you zhan	1
+青山里	qing shan li	1
+青山林场	qing shan lin chang	1
+青山岭	qing shan ling	1
+青山垅	qing shan long	1
+青山排	qing shan pai	1
+青山坡	qing shan po	1
+青山水	qing shan shui	1
+青山头	qing shan tou	1
+青山湾	qing shan wan	1
+青山尾	qing shan wei	1
+青山窝	qing shan wo	1
+青山下	qing shan xia	1
+青山乡	qing shan xiang	1
+青石	qing shi	1
+青石岭	qing shi ling	1
+青石下	qing shi xia	1
+清水	qing shui	1
+清水村	qing shui cun	1
+清水洞	qing shui dong	1
+清水江	qing shui jiang	1
+清水坪	qing shui ping	1
+清水塘	qing shui tang	1
+青松村	qing song cun	1
+青塘	qing tang	1
+清塘村	qing tang cun	1
+清塘小学	qing tang xiao xue	1
+清溪	qing xi	1
+清西村	qing xi cun	1
+清溪村	qing xi cun	1
+清溪山	qing xi shan	1
+清溪湾	qing xi wan	1
+清溪镇	qing xi zhen	1
+清溪中学	qing xi zhong xue	1
+青烟洞	qing yan dong	1
+青腰镇	qing yao zhen	1
+青鱼塘	qing yu tang	1
+青云山	qing yun shan	1
+青竹村	qing zhu cun	1
+青竹园	qing zhu yuan	1
+邱家	qiu jia	1
+邱家冲	qiu jia chong	1
+邱家村	qiu jia cun	1
+邱家山	qiu jia shan	1
+邱家湾	qiu jia wan	1
+丘坑	qiu keng	1
+秋里	qiu li	1
+秋里村	qiu li cun	1
+秋木村	qiu mu cun	1
+秋坪	qiu ping	1
+秋坪村	qiu ping cun	1
+秋千儿	qiu qian er	1
+秋田	qiu tian	1
+秋田村	qiu tian cun	1
+邱屋	qiu wu	1
+秋溪村	qiu xi cun	1
+求雨岭	qiu yu ling	1
+丘园	qiu yuan	1
+秋寨	qiu zhai	1
+曲尺塘	qu chi tang	1
+曲冲	qu chong	1
+渠管所	qu guan suo	1
+曲江	qu jiang	1
+曲龙村	qu long cun	1
+泉冲	quan chong	1
+泉河	quan he	1
+犬眠	quan mian	1
+泉山	quan shan	1
+泉水冲	quan shui chong	1
+泉水村	quan shui cun	1
+泉水洞	quan shui dong	1
+泉水井	quan shui jing	1
+泉水岭	quan shui ling	1
+泉水垅	quan shui long	1
+泉水塘	quan shui tang	1
+泉水头	quan shui tou	1
+泉水小学	quan shui xiao xue	1
+泉滩	quan tan	1
+泉塘	quan tang	1
+泉塘冲	quan tang chong	1
+泉塘村	quan tang cun	1
+泉塘湾	quan tang wan	1
+泉田	quan tian	1
+拳头岭	quan tou ling	1
+全溪	quan xi	1
+泉溪	quan xi	1
+全溪村	quan xi cun	1
+泉溪村	quan xi cun	1
+全义村	quan yi cun	1
+泉源村	quan yuan cun	1
+群康大药房	qun kang da yao fang	1
+群益村	qun yi cun	1
+染头	ran tou	1
+饶家	rao jia	1
+饶家村	rao jia cun	1
+饶家山	rao jia shan	1
+饶坪	rao ping	1
+热洞	re dong	1
+热水漂流	re shui piao liu	1
+热水塘	re shui tang	1
+热水镇	re shui zhen	1
+热田	re tian	1
+任背	ren bei	1
+仁洞	ren dong	1
+仁洞村	ren dong cun	1
+仁峰村	ren feng cun	1
+仁和村	ren he cun	1
+人和圩	ren he xu	1
+仁里	ren li	1
+仁里村	ren li cun	1
+人垄	ren long	1
+人民村	ren min cun	1
+人民大药房	ren min da yao fang	1
+人民电影院	ren min dian ying yuan	1
+人民东路	ren min dong lu	1
+人民公园	ren min gong yuan	1
+人民西路	ren min xi lu	1
+人民医院	ren min yi yuan	1
+人民中路	ren min zhong lu	1
+人心窝	ren xin wo	1
+人形	ren xing	1
+仁形	ren xing	1
+人形里	ren xing li	1
+仁义镇	ren yi zhen	1
+仁义中学	ren yi zhong xue	1
+仁忠村	ren zhong cun	1
+人字路	ren zi lu	1
+日新村	ri xin cun	1
+日月大酒店	ri yue da jiu dian	1
+蓉城医院	rong cheng yi yuan	1
+蓉峰	rong feng	1
+融和园	rong he yuan	1
+荣华大酒店	rong hua da jiu dian	1
+荣京	rong jing	1
+榕树下	rong shu xia	1
+溶水	rong shui	1
+肉石	rou shi	1
+汝城大酒店	ru cheng da jiu dian	1
+汝城二中	ru cheng er zhong	1
+汝城钨矿	ru cheng wu kuang	1
+汝城县	ru cheng xian	1
+汝城县公安局	ru cheng xian gong an ju	1
+汝城县人民医院	ru cheng xian ren min yi yuan	1
+汝城一中	ru cheng yi zhong	1
+茹冲	ru chong	1
+儒林村	ru lin cun	1
+如意坊	ru yi fang	1
+软坳	ruan ao	1
+阮家	ruan jia	1
+瑞丰村	rui feng cun	1
+瑞禾	rui he	1
+瑞金村	rui jin cun	1
+瑞坑	rui keng	1
+瑞溪村	rui xi cun	1
+萨米特陶瓷	sa mi te tao ci	1
+赛格车圣	sai ge che sheng	1
+赛琪	sai qi	1
+三百担	san bai dan	1
+三板桥	san ban qiao	1
+三宝村	san bao cun	1
+三步桥	san bu qiao	1
+三村	san cun	1
+三洞村	san dong cun	1
+三洞乡	san dong xiang	1
+三斗	san dou	1
+三都村	san du cun	1
+三渡水	san du shui	1
+三都站	san du zhan	1
+三都镇	san du zhen	1
+三多	san duo	1
+三峰村	san feng cun	1
+三公庙	san gong miao	1
+三光村	san guang cun	1
+三合村	san he cun	1
+三合乡	san he xiang	1
+三环	san huan	1
+三黄村	san huang cun	1
+三家店	san jia dian	1
+三家寨	san jia zhai	1
+三江	san jiang	1
+三江村	san jiang cun	1
+三将军	san jiang jun	1
+三江口	san jiang kou	1
+三江口村	san jiang kou cun	1
+三江口镇	san jiang kou zhen	1
+三江水	san jiang shui	1
+三角洞	san jiao dong	1
+三角井	san jiao jing	1
+三角垅	san jiao long	1
+三角轮	san jiao lun	1
+三角坪	san jiao ping	1
+三角铺	san jiao pu	1
+三角丘	san jiao qiu	1
+三角山	san jiao shan	1
+三角塘	san jiao tang	1
+三角头	san jiao tou	1
+三角湾	san jiao wan	1
+三角云	san jiao yun	1
+三角寨	san jiao zhai	1
+三斤七两	san jin qi liang	1
+三口洞	san kou dong	1
+三口上	san kou shang	1
+三口塘	san kou tang	1
+三郎下	san lang xia	1
+三乐村	san le cun	1
+三里冲	san li chong	1
+三里田村	san li tian cun	1
+三连冲	san lian chong	1
+三联村	san lian cun	1
+三龙山	san long shan	1
+三亩田	san mu tian	1
+三排	san pai	1
+伞铺	san pu	1
+三人将	san ren jiang	1
+三十担	san shi dan	1
+三十六湾	san shi liu wan	1
+三十石	san shi shi	1
+三台岭	san tai ling	1
+三塘	san tang	1
+三塘冲	san tang chong	1
+三塘村	san tang cun	1
+三塘乡	san tang xiang	1
+三湾村	san wan cun	1
+三完小	san wan xiao	1
+三维装饰	san wei zhuang shi	1
+三溪口	san xi kou	1
+伞下	san xia	1
+三星村	san xing cun	1
+三星工业区	san xing gong ye qu	1
+三星里	san xing li	1
+三星堂	san xing tang	1
+三星镇	san xing zhen	1
+三丫塘	san ya tang	1
+三眼塘	san yan tang	1
+三阳村	san yang cun	1
+三鱼塘	san yu tang	1
+三元村	san yuan cun	1
+三元洞	san yuan dong	1
+三祝	san zhu	1
+三祝村	san zhu cun	1
+三姊妹	san zi mei	1
+桑冲	sang chong	1
+桑坪村	sang ping cun	1
+桑树坪	sang shu ping	1
+桑树下	sang shu xia	1
+桑下	sang xia	1
+桑元	sang yuan	1
+扫村	sao cun	1
+色木	se mu	1
+森林冲	sen lin chong	1
+森马	sen ma	1
+沙坝	sha ba	1
+沙坝里	sha ba li	1
+沙弛	sha chi	1
+沙冲	sha chong	1
+沙洞	sha dong	1
+沙堆	sha dui	1
+沙坊	sha fang	1
+沙汾	sha fen	1
+沙湖里	sha hu li	1
+沙湖岭	sha hu ling	1
+沙江村	sha jiang cun	1
+沙脚	sha jiao	1
+沙坑	sha keng	1
+沙坑村	sha keng cun	1
+砂坑村	sha keng cun	1
+沙里	sha li	1
+杉林	sha lin	1
+沙岭村	sha ling cun	1
+沙岭上	sha ling shang	1
+沙垄	sha long	1
+沙落	sha luo	1
+沙帽岭	sha mao ling	1
+纱帽岭	sha mao ling	1
+杉木冲	sha mu chong	1
+杉木岭	sha mu ling	1
+杉木桥	sha mu qiao	1
+杉木桥村	sha mu qiao cun	1
+杉木山	sha mu shan	1
+杉木台	sha mu tai	1
+杉木塘	sha mu tang	1
+杉木园	sha mu yuan	1
+沙坪	sha ping	1
+沙坪村	sha ping cun	1
+沙坪里	sha ping li	1
+沙坪乡	sha ping xiang	1
+沙前	sha qian	1
+沙桥村	sha qiao cun	1
+沙泉村	sha quan cun	1
+沙仁村	sha ren cun	1
+杉山	sha shan	1
+杉山里	sha shan li	1
+沙山里	sha shan li	1
+杉山窝	sha shan wo	1
+沙市	sha shi	1
+沙石	sha shi	1
+沙市村	sha shi cun	1
+沙石村	sha shi cun	1
+沙塘	sha tang	1
+沙田村	sha tian cun	1
+沙田镇	sha tian zhen	1
+沙田镇政府	sha tian zhen zheng fu	1
+沙田中学	sha tian zhong xue	1
+沙头	sha tou	1
+沙湾	sha wan	1
+沙湾村	sha wan cun	1
+沙湾里	sha wan li	1
+沙窝村	sha wo cun	1
+沙窝里	sha wo li	1
+沙窝岭	sha wo ling	1
+沙溪村	sha xi cun	1
+沙溪桥	sha xi qiao	1
+沙垚	sha yao	1
+沙园	sha yuan	1
+沙洲村	sha zhou cun	1
+沙洲坪	sha zhou ping	1
+沙洲上	sha zhou shang	1
+沙洲湾	sha zhou wan	1
+沙洲小学	sha zhou xiao xue	1
+沙子坳	sha zi ao	1
+沙子洞	sha zi dong	1
+沙子岗	sha zi gang	1
+沙子江	sha zi jiang	1
+沙子岭	sha zi ling	1
+沙子坪	sha zi ping	1
+沙子窝	sha zi wo	1
+晒谷石	shai gu shi	1
+晒头	shai tou	1
+山坳上	shan ao shang	1
+山背	shan bei	1
+山背冲	shan bei chong	1
+山背村	shan bei cun	1
+山背岭	shan bei ling	1
+山边	shan bian	1
+山草坪	shan cao ping	1
+山城大酒店	shan cheng da jiu dian	1
+山冲	shan chong	1
+山冲村	shan chong cun	1
+山店江	shan dian jiang	1
+山顶	shan ding	1
+山堆	shan dui	1
+山海村	shan hai cun	1
+山河村	shan he cun	1
+山河小学	shan he xiao xue	1
+山猴	shan hou	1
+山角山	shan jiao shan	1
+山脚下	shan jiao xia	1
+山坑	shan keng	1
+山坑村	shan keng cun	1
+山口村	shan kou cun	1
+山口洞	shan kou dong	1
+山口里	shan kou li	1
+山口林场	shan kou lin chang	1
+山赖	shan lai	1
+山联村	shan lian cun	1
+山莲花	shan lian hua	1
+山门村	shan men cun	1
+山门口	shan men kou	1
+山脑	shan nao	1
+杉排	shan pai	1
+山奇石	shan qi shi	1
+山青村	shan qing cun	1
+杉杉女装	shan shan nv zhuang	1
+山上	shan shang	1
+山上村	shan shang cun	1
+杉树坳	shan shu ao	1
+杉树坝	shan shu ba	1
+杉树脚	shan shu jiao	1
+杉树坑	shan shu keng	1
+杉树里	shan shu li	1
+杉树排	shan shu pai	1
+杉树坪	shan shu ping	1
+杉树湾	shan shu wan	1
+杉树窝	shan shu wo	1
+杉树下	shan shu xia	1
+杉树园	shan shu yuan	1
+山水洞	shan shui dong	1
+山水塘	shan shui tang	1
+山塘	shan tang	1
+山塘背	shan tang bei	1
+山塘村	shan tang cun	1
+山塘里	shan tang li	1
+山塘窝	shan tang wo	1
+山田	shan tian	1
+山田冲	shan tian chong	1
+山田村	shan tian cun	1
+山头冲	shan tou chong	1
+山湾	shan wan	1
+山湾里	shan wan li	1
+山尾	shan wei	1
+山下	shan xia	1
+山下边	shan xia bian	1
+山下冲	shan xia chong	1
+山下村	shan xia cun	1
+山下里	shan xia li	1
+山下铺	shan xia pu	1
+山下桥	shan xia qiao	1
+山下窝	shan xia wo	1
+山下学校	shan xia xue xiao	1
+山心	shan xin	1
+山心里	shan xin li	1
+山羊坳	shan yang ao	1
+山羊冲	shan yang chong	1
+山鱼塘	shan yu tang	1
+山子头	shan zi tou	1
+上安	shang an	1
+上坳	shang ao	1
+上垇	shang ao	1
+上坳村	shang ao cun	1
+上坝	shang ba	1
+上白水	shang bai shui	1
+上板桥	shang ban qiao	1
+上半山	shang ban shan	1
+上邦	shang bang	1
+上榜	shang bang	1
+上保	shang bao	1
+上堡	shang bao	1
+上堡村	shang bao cun	1
+上背	shang bei	1
+上笔架山	shang bi jia shan	1
+上边冲	shang bian chong	1
+上埠	shang bu	1
+上菜园	shang cai yuan	1
+上苍村	shang cang cun	1
+上草	shang cao	1
+上曹	shang cao	1
+上槽村	shang cao cun	1
+上曹家	shang cao jia	1
+上茶园	shang cha yuan	1
+上厂	shang chang	1
+上长塘	shang chang tang	1
+上车	shang che	1
+上车田	shang che tian	1
+上陈	shang chen	1
+上陈家	shang chen jia	1
+上城	shang cheng	1
+商城停车场	shang cheng ting che chang	1
+上冲	shang chong	1
+上冲村	shang chong cun	1
+上冲口	shang chong kou	1
+上村	shang cun	1
+上大冲	shang da chong	1
+上大村	shang da cun	1
+上大洞	shang da dong	1
+上大火	shang da huo	1
+上大岭	shang da ling	1
+上大垄	shang da long	1
+上大坪	shang da ping	1
+上大水	shang da shui	1
+上大塘	shang da tang	1
+上大湾	shang da wan	1
+上道洞	shang dao dong	1
+上邓	shang deng	1
+上邓村	shang deng cun	1
+上地坪	shang di ping	1
+上店	shang dian	1
+上顶	shang ding	1
+上洞	shang dong	1
+上东边	shang dong bian	1
+上东村	shang dong cun	1
+上洞村	shang dong cun	1
+上东坑	shang dong keng	1
+上洞里	shang dong li	1
+上东岭	shang dong ling	1
+上东塘	shang dong tang	1
+上洞子	shang dong zi	1
+上渡村	shang du cun	1
+上肚脐	shang du qi	1
+上塅	shang duan	1
+上段	shang duan	1
+上碓	shang dui	1
+上鹅	shang e	1
+上坊	shang fang	1
+上汾	shang fen	1
+上芬村	shang fen cun	1
+上峰村	shang feng cun	1
+上富	shang fu	1
+上福	shang fu	1
+上富村	shang fu cun	1
+上岗村	shang gang cun	1
+上高岭	shang gao ling	1
+上高坪	shang gao ping	1
+尚高卫浴	shang gao wei yu	1
+上埂	shang geng	1
+上埂村	shang geng cun	1
+上贯	shang guan	1
+上官庄村	shang guan zhuang cun	1
+上豪	shang hao	1
+上浩	shang hao	1
+上何	shang he	1
+上河村	shang he cun	1
+上禾塘	shang he tang	1
+上河源	shang he yuan	1
+上黑角	shang hei jiao	1
+上横坑	shang heng keng	1
+上侯家	shang hou jia	1
+上猴子石	shang hou zi shi	1
+上胡	shang hu	1
+上户	shang hu	1
+上湖	shang hu	1
+上胡家	shang hu jia	1
+上黄	shang huang	1
+上黄家	shang huang jia	1
+上黄沙	shang huang sha	1
+上火坑	shang huo keng	1
+上集	shang ji	1
+上蒋	shang jiang	1
+上蕉村	shang jiao cun	1
+上界头	shang jie tou	1
+上进村	shang jin cun	1
+上迳	shang jing	1
+上井	shang jing	1
+上井村	shang jing cun	1
+上井岗	shang jing gang	1
+上坑	shang keng	1
+上坑头	shang keng tou	1
+上邝	shang kuang	1
+上栏	shang lan	1
+上老田	shang lao tian	1
+上老屋	shang lao wu	1
+上乐	shang le	1
+上雷	shang lei	1
+上李	shang li	1
+上里村	shang li cun	1
+上李家	shang li jia	1
+上联村	shang lian cun	1
+上凉亭	shang liang ting	1
+上寮	shang liao	1
+上寮村	shang liao cun	1
+上廖家	shang liao jia	1
+上流村	shang liu cun	1
+上留村	shang liu cun	1
+上刘家	shang liu jia	1
+上龙	shang long	1
+上垄	shang long	1
+上垅	shang long	1
+上龙村	shang long cun	1
+上垅村	shang long cun	1
+上龙泉	shang long quan	1
+上龙水	shang long shui	1
+上龙穴	shang long xue	1
+上楼	shang lou	1
+上落村	shang luo cun	1
+上罗村	shang luo cun	1
+上罗山	shang luo shan	1
+上马凳	shang ma deng	1
+上马岭	shang ma ling	1
+上马石	shang ma shi	1
+上茅屋	shang mao wu	1
+上庙上	shang miao shang	1
+上南桥	shang nan qiao	1
+上南湾	shang nan wan	1
+上泥坑	shang ni keng	1
+上牛塘	shang niu tang	1
+上牛田	shang niu tian	1
+上欧	shang ou	1
+上排	shang pai	1
+上牌	shang pai	1
+上潘家	shang pan jia	1
+上泮塘	shang pan tang	1
+上棚	shang peng	1
+上坪	shang ping	1
+上坪村	shang ping cun	1
+上坪子	shang ping zi	1
+上铺	shang pu	1
+上铺上	shang pu shang	1
+上千里	shang qian li	1
+上墙背	shang qiang bei	1
+上桥	shang qiao	1
+上桥村	shang qiao cun	1
+上桥南	shang qiao nan	1
+上青村	shang qing cun	1
+上清江	shang qing jiang	1
+上青石	shang qing shi	1
+上秋	shang qiu	1
+上泉村	shang quan cun	1
+上染坊	shang ran fang	1
+上人工	shang ren gong	1
+上沙坪	shang sha ping	1
+尚山	shang shan	1
+上山洞	shang shan dong	1
+上山口	shang shan kou	1
+上山寮	shang shan liao	1
+上山排	shang shan pai	1
+上山田	shang shan tian	1
+上深度	shang shen du	1
+上神头	shang shen tou	1
+上石	shang shi	1
+上史家	shang shi jia	1
+上石门	shang shi men	1
+上石塘	shang shi tang	1
+上石湾	shang shi wan	1
+上水头	shang shui tou	1
+上孙家	shang sun jia	1
+上坛	shang tan	1
+上谭家	shang tan jia	1
+上塘	shang tang	1
+上塘村	shang tang cun	1
+上唐家	shang tang jia	1
+上塘头	shang tang tou	1
+上塘下	shang tang xia	1
+上田冲	shang tian chong	1
+上田村	shang tian cun	1
+上田心	shang tian xin	1
+上铁山	shang tie shan	1
+上同心	shang tong xin	1
+上头冲	shang tou chong	1
+上头角	shang tou jiao	1
+上团	shang tuan	1
+上腿	shang tui	1
+上塆	shang wan	1
+上湾	shang wan	1
+上湾里	shang wan li	1
+上湾田	shang wan tian	1
+上王家	shang wang jia	1
+上窝	shang wo	1
+上屋	shang wu	1
+上屋场	shang wu chang	1
+上屋里	shang wu li	1
+上西冲	shang xi chong	1
+上西坑	shang xi keng	1
+上仙	shang xian	1
+商校	shang xiao	1
+上肖家	shang xiao jia	1
+上小坑	shang xiao keng	1
+上小铺	shang xiao pu	1
+上斜	shang xie	1
+上新塘	shang xin tang	1
+上新屋	shang xin wu	1
+上新寨	shang xin zhai	1
+上兴村	shang xing cun	1
+上徐家	shang xu jia	1
+上薛家	shang xue jia	1
+上岩	shang yan	1
+上阳村	shang yang cun	1
+上杨家	shang yang jia	1
+上阳山	shang yang shan	1
+商业大厦	shang ye da sha	1
+上义	shang yi	1
+尚义	shang yi	1
+尚义村	shang yi cun	1
+上应	shang ying	1
+上应村	shang ying cun	1
+上游村	shang you cun	1
+上宇	shang yu	1
+上玉	shang yu	1
+上园	shang yuan	1
+上元冲	shang yuan chong	1
+上袁村	shang yuan cun	1
+上源村	shang yuan cun	1
+上源头	shang yuan tou	1
+上源头村	shang yuan tou cun	1
+上寨	shang zhai	1
+上宅村	shang zhai cun	1
+上漳	shang zhang	1
+上章	shang zhang	1
+上章村	shang zhang cun	1
+上张家	shang zhang jia	1
+上镇	shang zhen	1
+上圳	shang zhen	1
+上中山	shang zhong shan	1
+上周	shang zhou	1
+上珠	shang zhu	1
+上祝村	shang zhu cun	1
+上庄	shang zhuang	1
+上庄村	shang zhuang cun	1
+上庄桥	shang zhuang qiao	1
+上庄头	shang zhuang tou	1
+上祖山	shang zu shan	1
+少湖	shao hu	1
+筲箕窝	shao ji wo	1
+邵家	shao jia	1
+烧腊馆	shao la guan	1
+哨上	shao shang	1
+哨上村	shao shang cun	1
+舍背	she bei	1
+社背	she bei	1
+社背岭	she bei ling	1
+蛇冲	she chong	1
+社公背	she gong bei	1
+蛇江	she jiang	1
+社里	she li	1
+社门村	she men cun	1
+社坪	she ping	1
+社塘	she tang	1
+社塘村	she tang cun	1
+社头村	she tou cun	1
+社湾	she wan	1
+蛇尾	she wei	1
+社溪	she xi	1
+社溪村	she xi cun	1
+社下	she xia	1
+社下村	she xia cun	1
+蛇形	she xing	1
+蛇形上	she xing shang	1
+社元	she yuan	1
+深坳	shen ao	1
+深坳村	shen ao cun	1
+深坳里	shen ao li	1
+神背	shen bei	1
+深冲	shen chong	1
+神冲	shen chong	1
+深村	shen cun	1
+神村	shen cun	1
+深洞	shen dong	1
+深洞村	shen dong cun	1
+神渡村	shen du cun	1
+沈家	shen jia	1
+沈家冲	shen jia chong	1
+沈家里	shen jia li	1
+沈家岭	shen jia ling	1
+深江	shen jiang	1
+深坑	shen keng	1
+深坑里	shen keng li	1
+神岭	shen ling	1
+申明亭村	shen ming ting cun	1
+神农殿	shen nong dian	1
+神农园	shen nong yuan	1
+神前	shen qian	1
+参茸大药房	shen rong da yao fang	1
+神山背	shen shan bei	1
+深山村	shen shan cun	1
+神山村	shen shan cun	1
+神山下	shen shan xia	1
+深塘	shen tang	1
+神堂	shen tang	1
+神塘	shen tang	1
+深塘村	shen tang cun	1
+神堂湾	shen tang wan	1
+深塘下	shen tang xia	1
+神田	shen tian	1
+神头	shen tou	1
+神头岭	shen tou ling	1
+深窝里	shen wo li	1
+深溪	shen xi	1
+沈溪村	shen xi cun	1
+神下	shen xia	1
+神下村	shen xia cun	1
+神仙坳	shen xian ao	1
+神仙冲	shen xian chong	1
+神仙洞	shen xian dong	1
+神仙堆	shen xian dui	1
+神仙岭	shen xian ling	1
+神仙坪	shen xian ping	1
+神仙寨	shen xian zhai	1
+圣得西	sheng de xi	1
+圣帝罗阑	sheng di luo lan	1
+圣公庙	sheng gong miao	1
+生坑	sheng keng	1
+胜利村	sheng li cun	1
+胜利井	sheng li jing	1
+胜利完小	sheng li wan xiao	1
+圣女美颜	sheng nv mei yan	1
+升平路	sheng ping lu	1
+省四建	sheng si jian	1
+圣象地板	sheng xiang di ban	1
+生源百货	sheng yuan bai huo	1
+生源大酒店	sheng yuan da jiu dian	1
+石坳	shi ao	1
+石坳村	shi ao cun	1
+石坝	shi ba	1
+十八冲	shi ba chong	1
+十八担	shi ba dan	1
+十八横	shi ba heng	1
+十八里	shi ba li	1
+石坝里	shi ba li	1
+十八亩	shi ba mu	1
+十八湾	shi ba wan	1
+石板冲	shi ban chong	1
+石板岭	shi ban ling	1
+石板上	shi ban shang	1
+石板塘	shi ban tang	1
+石板头	shi ban tou	1
+石宝村	shi bao cun	1
+石宝岭	shi bao ling	1
+石背	shi bei	1
+石陂	shi bei	1
+石碑	shi bei	1
+石陂村	shi bei cun	1
+石碑村	shi bei cun	1
+石碑岭	shi bei ling	1
+石壁	shi bi	1
+石鼻村	shi bi cun	1
+石壁村	shi bi cun	1
+石壁坑	shi bi keng	1
+石壁岭	shi bi ling	1
+石壁垅	shi bi long	1
+石壁山	shi bi shan	1
+石壁上	shi bi shang	1
+石壁头	shi bi tou	1
+石壁下	shi bi xia	1
+石城村	shi cheng cun	1
+石池村	shi chi cun	1
+狮冲	shi chong	1
+石冲	shi chong	1
+石冲村	shi chong cun	1
+石冲口	shi chong kou	1
+市传染病医院	shi chuan ran bing yi yuan	1
+市瓷厂	shi ci chang	1
+石洞	shi dong	1
+石东坑	shi dong keng	1
+十多年	shi duo nian	1
+市二中	shi er zhong	1
+市纺织厂	shi fang zhi chang	1
+石盖塘	shi gai tang	1
+石盖塘镇	shi gai tang zhen	1
+石岗岭	shi gang ling	1
+石高山	shi gao shan	1
+石羔乡	shi gao xiang	1
+石羔中学	shi gao zhong xue	1
+石埂	shi geng	1
+石拱村	shi gong cun	1
+市公汽公司	shi gong qi gong si	1
+石鼓	shi gu	1
+石鼓村	shi gu cun	1
+石鼓头	shi gu tou	1
+石古元	shi gu yuan	1
+世光堂	shi guang tang	1
+市国税局	shi guo shui ju	1
+石壕	shi hao	1
+石毫	shi hao	1
+石禾场	shi he chang	1
+石河村	shi he cun	1
+石禾村	shi he cun	1
+石禾塘	shi he tang	1
+十横	shi heng	1
+石虎村	shi hu cun	1
+石湖塘	shi hu tang	1
+石黄	shi huang	1
+石回	shi hui	1
+石灰坳	shi hui ao	1
+石灰场	shi hui chang	1
+石灰冲	shi hui chong	1
+石灰岭	shi hui ling	1
+石灰塘	shi hui tang	1
+石灰头	shi hui tou	1
+石灰岩	shi hui yan	1
+石灰窑	shi hui yao	1
+石灰窑上	shi hui yao shang	1
+世纪新娘	shi ji xin niang	1
+史家	shi jia	1
+石家	shi jia	1
+史家坳	shi jia ao	1
+史家冲	shi jia chong	1
+石家岭	shi jia ling	1
+史家桥	shi jia qiao	1
+史家桥村	shi jia qiao cun	1
+石家田	shi jia tian	1
+石枧	shi jian	1
+石枧村	shi jian cun	1
+石箭头	shi jian tou	1
+石江村	shi jiang cun	1
+石脚	shi jiao	1
+石角	shi jiao	1
+石脚村	shi jiao cun	1
+市交警支队	shi jiao jing zhi dui	1
+石角里	shi jiao li	1
+石角山	shi jiao shan	1
+市交通局	shi jiao tong ju	1
+石角头	shi jiao tou	1
+市郊乡	shi jiao xiang	1
+石街	shi jie	1
+石井	shi jing	1
+市精神病院	shi jing shen bing yuan	1
+石井头	shi jing tou	1
+市九中	shi jiu zhong	1
+石咀头	shi ju tou	1
+石窠	shi ke	1
+石坑	shi keng	1
+石坑里	shi keng li	1
+石坑岭	shi keng ling	1
+石口	shi kou	1
+石兰村	shi lan cun	1
+石廊	shi lang	1
+市劳动局	shi lao dong ju	1
+石里	shi li	1
+十里冲	shi li chong	1
+十里村	shi li cun	1
+石里村	shi li cun	1
+十里洞	shi li dong	1
+十里山	shi li shan	1
+市立医院	shi li yi yuan	1
+十联村	shi lian cun	1
+石凉亭	shi liang ting	1
+石辽	shi liao	1
+石岭	shi ling	1
+石岭村	shi ling cun	1
+石岭上	shi ling shang	1
+石岭下	shi ling xia	1
+石榴花	shi liu hua	1
+石流水	shi liu shui	1
+石榴湾大桥	shi liu wan da qiao	1
+石榴下	shi liu xia	1
+市六中	shi liu zhong	1
+石龙	shi long	1
+石龙庵	shi long an	1
+石龙村	shi long cun	1
+石龙口	shi long kou	1
+石龙庙	shi long miao	1
+石龙头	shi long tou	1
+石罗	shi luo	1
+石马	shi ma	1
+石马村	shi ma cun	1
+石马岭	shi ma ling	1
+石马塘	shi ma tang	1
+石马寨	shi ma zhai	1
+石美	shi mei	1
+石门	shi men	1
+石门庵	shi men an	1
+石门冲	shi men chong	1
+石门村	shi men cun	1
+石门口	shi men kou	1
+石门岭	shi men ling	1
+石门楼	shi men lou	1
+石门山	shi men shan	1
+石门头	shi men tou	1
+石门下	shi men xia	1
+石门学校	shi men xue xiao	1
+石面坦	shi mian tan	1
+石庙	shi miao	1
+市民政局	shi min zheng ju	1
+石牛山	shi niu shan	1
+石牛塘	shi niu tang	1
+石牛寨	shi niu zhai	1
+市农科所	shi nong ke suo	1
+十排	shi pai	1
+石盘	shi pan	1
+石盘村	shi pan cun	1
+石坪	shi ping	1
+石屏村	shi ping cun	1
+石坡	shi po	1
+石坡头村	shi po tou cun	1
+石铺	shi pu	1
+石崎	shi qi	1
+石桥	shi qiao	1
+石桥冲	shi qiao chong	1
+石桥村	shi qiao cun	1
+石桥铺	shi qiao pu	1
+石桥市场	shi qiao shi chang	1
+石桥头	shi qiao tou	1
+石桥镇	shi qiao zhen	1
+石丘村	shi qiu cun	1
+石泉	shi quan	1
+石泉山	shi quan shan	1
+饰全饰美	shi quan shi mei	1
+石人村	shi ren cun	1
+石人坑	shi ren keng	1
+石人寨	shi ren zhai	1
+市肉联厂	shi rou lian chang	1
+十三户	shi san hu	1
+十三户村	shi san hu cun	1
+市三人民医院	shi san ren min yi yuan	1
+石山	shi shan	1
+石山背	shi shan bei	1
+石山村	shi shan cun	1
+石山脚	shi shan jiao	1
+石山里	shi shan li	1
+石山亭	shi shan ting	1
+石山头	shi shan tou	1
+石山头村	shi shan tou cun	1
+石山下	shi shan xia	1
+市四中	shi si zhong	1
+师坦	shi tan	1
+狮塘	shi tang	1
+石塘	shi tang	1
+石塘庵	shi tang an	1
+石塘村	shi tang cun	1
+石塘湾的	shi tang wan de	1
+石田村	shi tian cun	1
+石厅	shi ting	1
+石亭子	shi ting zi	1
+石头坳	shi tou ao	1
+石头坝	shi tou ba	1
+石头背	shi tou bei	1
+石头冲	shi tou chong	1
+石头堆	shi tou dui	1
+石头埂	shi tou geng	1
+石头古	shi tou gu	1
+石头胡	shi tou hu	1
+石头记	shi tou ji	1
+石头咀	shi tou ju	1
+石头坑	shi tou keng	1
+石头岭	shi tou ling	1
+石头垅	shi tou long	1
+石头桥村	shi tou qiao cun	1
+石头山	shi tou shan	1
+石头上	shi tou shang	1
+石头塘	shi tou tang	1
+石头湾	shi tou wan	1
+石头窝	shi tou wo	1
+石头下	shi tou xia	1
+石头仙	shi tou xian	1
+石头寨村	shi tou zhai cun	1
+石湾	shi wan	1
+市委	shi wei	1
+市委党校	shi wei dang xiao	1
+石窝	shi wo	1
+石窝里	shi wo li	1
+十五把	shi wu ba	1
+石屋冲	shi wu chong	1
+石屋塘	shi wu tang	1
+石屋头	shi wu tou	1
+石屋下	shi wu xia	1
+市五中	shi wu zhong	1
+石溪	shi xi	1
+石溪村	shi xi cun	1
+石溪头	shi xi tou	1
+石下	shi xia	1
+石下山	shi xia shan	1
+石仙村	shi xian cun	1
+狮象坪	shi xiang ping	1
+市消防支队	shi xiao fang zhi dui	1
+狮形	shi xing	1
+狮形村	shi xing cun	1
+狮形岭	shi xing ling	1
+市行政学院	shi xing zheng xue yuan	1
+石砚	shi yan	1
+石岩村	shi yan cun	1
+石燕村	shi yan cun	1
+石岩口	shi yan kou	1
+石岩上	shi yan shang	1
+石岩下	shi yan xia	1
+石阳村	shi yang cun	1
+石爻	shi yao	1
+石野	shi ye	1
+市冶炼厂	shi ye lian chang	1
+市一中	shi yi zhong	1
+石油宾馆	shi you bin guan	1
+石油公司	shi you gong si	1
+石玉村	shi yu cun	1
+石园	shi yuan	1
+石云村	shi yun cun	1
+市政府	shi zheng fu	1
+市中医院	shi zhong yi yuan	1
+石猪头	shi zhu tou	1
+柿竹园	shi zhu yuan	1
+石庄	shi zhuang	1
+狮子庵	shi zi an	1
+石子坳	shi zi ao	1
+狮子场	shi zi chang	1
+狮子江	shi zi jiang	1
+狮子口	shi zi kou	1
+狮子岭	shi zi ling	1
+石子岭	shi zi ling	1
+十字路	shi zi lu	1
+狮子脑	shi zi nao	1
+石子坪	shi zi ping	1
+狮子山	shi zi shan	1
+狮子塘	shi zi tang	1
+石子头	shi zi tou	1
+狮子湾	shi zi wan	1
+狮子下	shi zi xia	1
+石子下	shi zi xia	1
+狮子仙	shi zi xian	1
+十字乡	shi zi xiang	1
+狮子岩	shi zi yan	1
+狮子腰	shi zi yao	1
+狮子寨	shi zi zhai	1
+石嘴上	shi zui shang	1
+寿福村	shou fu cun	1
+首家	shou jia	1
+寿州	shou zhou	1
+书安	shu an	1
+蔬菜村	shu cai cun	1
+舒家	shu jia	1
+书楼村	shu lou cun	1
+淑女名店	shu nv ming dian	1
+淑女屋	shu nv wu	1
+树山	shu shan	1
+树头村	shu tou cun	1
+树头下	shu tou xia	1
+树下	shu xia	1
+书园	shu yuan	1
+帅家村	shuai jia cun	1
+双洞村	shuang dong cun	1
+双合村	shuang he cun	1
+双华医院	shuang hua yi yuan	1
+双江	shuang jiang	1
+双江村	shuang jiang cun	1
+双江口	shuang jiang kou	1
+双坑村	shuang keng cun	1
+双里	shuang li	1
+双联村	shuang lian cun	1
+双莲村	shuang lian cun	1
+双凉亭	shuang liang ting	1
+双林村	shuang lin cun	1
+双岭村	shuang ling cun	1
+双流	shuang liu	1
+双龙加油站	shuang long jia you zhan	1
+双龙湾	shuang long wan	1
+双罗村	shuang luo cun	1
+双排山	shuang pai shan	1
+双坪	shuang ping	1
+双桥	shuang qiao	1
+双桥村	shuang qiao cun	1
+双泉村	shuang quan cun	1
+双山	shuang shan	1
+双石山	shuang shi shan	1
+双树坪	shuang shu ping	1
+双水源	shuang shui yuan	1
+双塘	shuang tang	1
+双塘村	shuang tang cun	1
+双塘湾	shuang tang wan	1
+双窝	shuang wo	1
+双溪村	shuang xi cun	1
+双溪乡	shuang xi xiang	1
+双下	shuang xia	1
+双秀亭	shuang xiu ting	1
+双元	shuang yuan	1
+双园	shuang yuan	1
+双源村	shuang yuan cun	1
+双园里	shuang yuan li	1
+双洲	shuang zhou	1
+双珠村	shuang zhu cun	1
+水北岸村	shui bei an cun	1
+水边	shui bian	1
+水边村	shui bian cun	1
+水槽头	shui cao tou	1
+水车洞村	shui che dong cun	1
+水冲	shui chong	1
+水冲村	shui chong cun	1
+水冲头	shui chong tou	1
+水带	shui dai	1
+水电宾馆	shui dian bin guan	1
+水电加油站	shui dian jia you zhan	1
+水东	shui dong	1
+水洞	shui dong	1
+水东乡	shui dong xiang	1
+水东中学	shui dong zhong xue	1
+水浸坪	shui jin ping	1
+水井冲	shui jing chong	1
+水井坊专卖店	shui jing fang zhuan mai dian	1
+水井门	shui jing men	1
+水井排	shui jing pai	1
+水井前	shui jing qian	1
+水井塘	shui jing tang	1
+水井亭	shui jing ting	1
+水井头	shui jing tou	1
+水坑里	shui keng li	1
+水口	shui kou	1
+水口村	shui kou cun	1
+水口洞	shui kou dong	1
+水口里	shui kou li	1
+水口庙	shui kou miao	1
+水口山	shui kou shan	1
+水口上	shui kou shang	1
+水口石	shui kou shi	1
+水库管理所	shui ku guan li suo	1
+水里冲	shui li chong	1
+水里头	shui li tou	1
+水垄	shui long	1
+水龙村	shui long cun	1
+水湄	shui mei	1
+水门塘	shui men tang	1
+水南	shui nan	1
+水南村	shui nan cun	1
+水南坪	shui nan ping	1
+水南小学	shui nan xiao xue	1
+水脑	shui nao	1
+水牛冲	shui niu chong	1
+水牛山	shui niu shan	1
+水牛塘	shui niu tang	1
+水盘村	shui pan cun	1
+水坪	shui ping	1
+水平里	shui ping li	1
+水桥头	shui qiao tou	1
+水上	shui shang	1
+水上人家	shui shang ren jia	1
+水塘村	shui tang cun	1
+水头村	shui tou cun	1
+水头学校	shui tou xue xiao	1
+水托	shui tuo	1
+水湾村	shui wan cun	1
+水湾小学	shui wan xiao xue	1
+水尾	shui wei	1
+水尾村	shui wei cun	1
+水溪	shui xi	1
+水斜	shui xie	1
+水心坝	shui xin ba	1
+水星村	shui xing cun	1
+水星家纺	shui xing jia fang	1
+水源冲	shui yuan chong	1
+水源村	shui yuan cun	1
+水源洞	shui yuan dong	1
+水源坑	shui yuan keng	1
+水源坪	shui yuan ping	1
+水源山	shui yuan shan	1
+水源头	shui yuan tou	1
+水竹坪	shui zhu ping	1
+水竹山	shui zhu shan	1
+水庄	shui zhuang	1
+水庄村	shui zhuang cun	1
+顺达加油站	shun da jia you zhan	1
+顺发加油站	shun fa jia you zhan	1
+顺华超市	shun hua chao shi	1
+顺利加油站	shun li jia you zhan	1
+顺启	shun qi	1
+顺兴花园	shun xing hua yuan	1
+顺义村	shun yi cun	1
+四板桥	si ban qiao	1
+司背	si bei	1
+四冲	si chong	1
+寺冲	si chong	1
+寺冲村	si chong cun	1
+四村	si cun	1
+斯得雅	si de ya	1
+四栋公寓	si dong gong yu	1
+四都乡	si dou xiang	1
+四段	si duan	1
+四方宾馆	si fang bin guan	1
+四方厂	si fang chang	1
+四方井	si fang jing	1
+四方凉亭	si fang liang ting	1
+四方坪	si fang ping	1
+四方丘	si fang qiu	1
+四房湾	si fang wan	1
+四方寨	si fang zhai	1
+四凤山	si feng shan	1
+四拱桥	si gong qiao	1
+四合村	si he cun	1
+四甲	si jia	1
+四家村	si jia cun	1
+四甲村	si jia cun	1
+泗江村	si jiang cun	1
+四角顶	si jiao ding	1
+四角塘	si jiao tang	1
+四境村	si jing cun	1
+四里乡	si li xiang	1
+四里小学	si li xiao xue	1
+四联村	si lian cun	1
+司马光	si ma guang	1
+司马江	si ma jiang	1
+司马龙	si ma long	1
+丝茅冲	si mao chong	1
+丝茅坪	si mao ping	1
+寺门村	si men cun	1
+寺门前	si men qian	1
+四亩地	si mu di	1
+四亩田	si mu tian	1
+四坪	si ping	1
+寺前	si qian	1
+四清湖	si qing hu	1
+四清水库	si qing shui ku	1
+四丘田	si qiu tian	1
+四十担	si shi dan	1
+四台上	si tai shang	1
+思田	si tian	1
+思田村	si tian cun	1
+寺湾村	si wan cun	1
+泗溪村	si xi cun	1
+寺下	si xia	1
+四一四	si yi si	1
+四友村	si you cun	1
+泗洲乡	si zhou xiang	1
+泗洲中学	si zhou zhong xue	1
+四庄村	si zhuang cun	1
+松柏	song bai	1
+松柏村	song bai cun	1
+松柏园	song bai yuan	1
+松冲	song chong	1
+松村	song cun	1
+松地	song di	1
+送福楼	song fu lou	1
+松岗	song gang	1
+松岗村	song gang cun	1
+宋家	song jia	1
+宋家冲	song jia chong	1
+宋家村	song jia cun	1
+松家村	song jia cun	1
+宋家地	song jia di	1
+宋家塘	song jia tang	1
+松坑	song keng	1
+松里	song li	1
+松林	song lin	1
+松林村	song lin cun	1
+松林寺	song lin si	1
+松岭	song ling	1
+松木	song mu	1
+松木村	song mu cun	1
+松木墩	song mu dun	1
+松木山	song mu shan	1
+松木塘	song mu tang	1
+松坪	song ping	1
+松山	song shan	1
+松山背	song shan bei	1
+松山村	song shan cun	1
+松山里	song shan li	1
+松山排	song shan pai	1
+松山下	song shan xia	1
+松山小学	song shan xiao xue	1
+松市村	song shi cun	1
+松树	song shu	1
+松树坳	song shu ao	1
+松树板	song shu ban	1
+松树脚	song shu jiao	1
+松树岭	song shu ling	1
+松树排	song shu pai	1
+松树桥	song shu qiao	1
+松树湾	song shu wan	1
+松树窝	song shu wo	1
+松树下	song shu xia	1
+松树园	song shu yuan	1
+松西村	song xi cun	1
+松溪村	song xi cun	1
+松下	song xia	1
+松园	song yuan	1
+松园湾	song yuan wan	1
+松脂厂	song zhi chang	1
+松竹	song zhu	1
+苏古	su gu	1
+苏家	su jia	1
+苏家塘	su jia tang	1
+苏家庄	su jia zhuang	1
+苏木头	su mu tou	1
+苏宁电器	su ning dian qi	1
+苏石花园	su shi hua yuan	1
+苏仙宾馆	su xian bin guan	1
+苏仙岭	su xian ling	1
+苏仙南路	su xian nan lu	1
+苏仙桥	su xian qiao	1
+苏仙桥头	su xian qiao tou	1
+苏仙区	su xian qu	1
+苏仙区政府	su xian qu zheng fu	1
+苏仙影剧院	su xian ying ju yuan	1
+苏园宾馆	su yuan bin guan	1
+苏园路	su yuan lu	1
+苏苑小区	su yuan xiao qu	1
+苏洲湾	su zhou wan	1
+算背	suan bei	1
+酸枣坪	suan zao ping	1
+随嫁	sui jia	1
+孙古	sun gu	1
+孙家	sun jia	1
+孙家村	sun jia cun	1
+孙家洞	sun jia dong	1
+孙家庄	sun jia zhuang	1
+孙南村	sun nan cun	1
+笋塘	sun tang	1
+锁石村	suo shi cun	1
+锁石路	suo shi lu	1
+锁石桥	suo shi qiao	1
+锁石桥村	suo shi qiao cun	1
+蓑衣塘	suo yi tang	1
+塔背	ta bei	1
+塔脚	ta jiao	1
+塔岭	ta ling	1
+塔坪	ta ping	1
+塔桥村	ta qiao cun	1
+塔水村	ta shui cun	1
+塔塘村	ta tang cun	1
+塔下	ta xia	1
+塔下山	ta xia shan	1
+塔院	ta yuan	1
+塔子岭	ta zi ling	1
+台背	tai bei	1
+台冲	tai chong	1
+台岗村	tai gang cun	1
+太和村	tai he cun	1
+泰和堂药店	tai he tang yao dian	1
+太和卫生院	tai he wei sheng yuan	1
+太和乡	tai he xiang	1
+太和乡政府	tai he xiang zheng fu	1
+太和圩	tai he xu	1
+太和镇	tai he zhen	1
+太和镇政府	tai he zhen zheng fu	1
+泰康医院	tai kang yi yuan	1
+台岭	tai ling	1
+台门前	tai men qian	1
+太坪	tai ping	1
+太平庵	tai ping an	1
+太坪村	tai ping cun	1
+太平村	tai ping cun	1
+太平洞	tai ping dong	1
+太平坊	tai ping fang	1
+太平里	tai ping li	1
+太平里乡	tai ping li xiang	1
+太平林场	tai ping lin chang	1
+太平桥	tai ping qiao	1
+太坪山	tai ping shan	1
+太平山	tai ping shan	1
+太平山村	tai ping shan cun	1
+太平塘	tai ping tang	1
+太平乡	tai ping xiang	1
+太平圩	tai ping xu	1
+太平洋服饰超市	tai ping yang fu shi chao shi	1
+太平洋服饰广场	tai ping yang fu shi guang chang	1
+太平营	tai ping ying	1
+太平庄	tai ping zhuang	1
+台前	tai qian	1
+台前村	tai qian cun	1
+太山	tai shan	1
+台上	tai shang	1
+台头	tai tou	1
+台下	tai xia	1
+太阳厂	tai yang chang	1
+太阳冲	tai yang chong	1
+太阳村	tai yang cun	1
+太子酒店	tai zi jiu dian	1
+太子龙	tai zi long	1
+台子上	tai zi shang	1
+太子足浴	tai zi zu yu	1
+坦背	tan bei	1
+滩边	tan bian	1
+潭边	tan bian	1
+谭冲	tan chong	1
+坛冲	tan chong	1
+坦冲	tan chong	1
+滩冲	tan chong	1
+坛斗	tan dou	1
+谭古	tan gu	1
+潭湖	tan hu	1
+潭湖村	tan hu cun	1
+谭家	tan jia	1
+坦家	tan jia	1
+探家	tan jia	1
+滩家	tan jia	1
+潭家	tan jia	1
+谭家冲	tan jia chong	1
+谭家村	tan jia cun	1
+谭家垅	tan jia long	1
+谭家坪	tan jia ping	1
+谭家铺	tan jia pu	1
+谭家山	tan jia shan	1
+谭家头	tan jia tou	1
+谭家湾	tan jia wan	1
+谭家园	tan jia yuan	1
+谭家洲	tan jia zhou	1
+坦岭	tan ling	1
+坦门	tan men	1
+坦门口	tan men kou	1
+坦坪乡	tan ping xiang	1
+坦前	tan qian	1
+潭前	tan qian	1
+潭沙村	tan sha cun	1
+坦山	tan shan	1
+檀山	tan shan	1
+坦山村	tan shan cun	1
+檀山村	tan shan cun	1
+檀上	tan shang	1
+潭市村	tan shi cun	1
+檀树下	tan shu xia	1
+坦水	tan shui	1
+炭素厂	tan su chang	1
+坦塘村	tan tang cun	1
+坦头	tan tou	1
+坦头村	tan tou cun	1
+滩头村	tan tou cun	1
+滩头上	tan tou shang	1
+谭湾	tan wan	1
+潭湾村	tan wan cun	1
+谭屋	tan wu	1
+潭屋	tan wu	1
+谭屋村	tan wu cun	1
+谭溪村	tan xi cun	1
+坛下	tan xia	1
+坦下	tan xia	1
+坦下村	tan xia cun	1
+檀元	tan yuan	1
+炭灶	tan zao	1
+坛子岭	tan zi ling	1
+塘坳	tang ao	1
+塘宝	tang bao	1
+塘背	tang bei	1
+塘背村	tang bei cun	1
+塘背岭	tang bei ling	1
+塘边	tang bian	1
+塘边村	tang bian cun	1
+塘昌村	tang chang cun	1
+塘池村	tang chi cun	1
+唐冲	tang chong	1
+堂冲	tang chong	1
+塘冲	tang chong	1
+塘冲湾	tang chong wan	1
+塘村	tang cun	1
+塘村镇	tang cun zhen	1
+唐洞	tang dong	1
+塘洞	tang dong	1
+塘坊	tang fang	1
+塘坊村	tang fang cun	1
+塘丰村	tang feng cun	1
+唐公村	tang gong cun	1
+唐古	tang gu	1
+塘喉	tang hou	1
+堂皇家纺	tang huang jia fang	1
+塘基上	tang ji shang	1
+塘基头	tang ji tou	1
+唐家	tang jia	1
+塘家	tang jia	1
+汤家	tang jia	1
+唐家坳	tang jia ao	1
+唐家冲	tang jia chong	1
+塘家冲	tang jia chong	1
+唐家村	tang jia cun	1
+唐家坊	tang jia fang	1
+汤家岭	tang jia ling	1
+唐家山	tang jia shan	1
+塘家山	tang jia shan	1
+汤家山	tang jia shan	1
+唐家湾	tang jia wan	1
+塘家湾	tang jia wan	1
+塘脚	tang jiao	1
+塘角头	tang jiao tou	1
+塘脚下	tang jiao xia	1
+塘境	tang jing	1
+塘坑	tang keng	1
+塘坑村	tang keng cun	1
+堂口	tang kou	1
+塘口	tang kou	1
+汤口	tang kou	1
+塘里	tang li	1
+塘里村	tang li cun	1
+唐辽	tang liao	1
+塘岭	tang ling	1
+塘岭村	tang ling cun	1
+塘门村	tang men cun	1
+塘门口镇	tang men kou zhen	1
+塘面	tang mian	1
+塘木	tang mu	1
+塘前	tang qian	1
+塘前村	tang qian cun	1
+塘丘	tang qiu	1
+塘沙	tang sha	1
+塘山	tang shan	1
+汤市乡	tang shi xiang	1
+塘市小学	tang shi xiao xue	1
+塘市镇	tang shi zhen	1
+塘水村	tang shui cun	1
+塘田	tang tian	1
+塘田村	tang tian cun	1
+塘头	tang tou	1
+塘头村	tang tou cun	1
+塘头坪	tang tou ping	1
+塘头上	tang tou shang	1
+塘头湾	tang tou wan	1
+塘湾	tang wan	1
+塘湾村	tang wan cun	1
+塘湾里	tang wan li	1
+塘湾头	tang wan tou	1
+塘尾	tang wei	1
+塘尾巴	tang wei ba	1
+塘尾村	tang wei cun	1
+塘窝	tang wo	1
+塘窝里	tang wo li	1
+唐屋	tang wu	1
+塘伍	tang wu	1
+塘溪	tang xi	1
+塘溪村	tang xi cun	1
+塘溪乡	tang xi xiang	1
+塘下	tang xia	1
+堂下村	tang xia cun	1
+塘下村	tang xia cun	1
+塘下山	tang xia shan	1
+塘沿	tang yan	1
+唐永会	tang yong hui	1
+塘元	tang yuan	1
+塘园	tang yuan	1
+塘园村	tang yuan cun	1
+塘源村	tang yuan cun	1
+塘子口	tang zi kou	1
+桃冲	tao chong	1
+桃洞	tao dong	1
+桃花冲	tao hua chong	1
+桃花岭	tao hua ling	1
+桃花庙	tao hua miao	1
+桃花源酒店	tao hua yuan jiu dian	1
+陶家	tao jia	1
+陶家村	tao jia cun	1
+桃家园	tao jia yuan	1
+桃金洞	tao jin dong	1
+桃李冲	tao li chong	1
+桃李树下	tao li shu xia	1
+桃林	tao lin	1
+桃林村	tao lin cun	1
+桃岭	tao ling	1
+陶岭村	tao ling cun	1
+桃坪	tao ping	1
+桃坪村	tao ping cun	1
+桃树坝	tao shu ba	1
+桃树冲	tao shu chong	1
+桃树坪	tao shu ping	1
+桃树湾	tao shu wan	1
+桃树窝	tao shu wo	1
+桃树下	tao shu xia	1
+桃阳村	tao yang cun	1
+桃园	tao yuan	1
+桃沅	tao yuan	1
+桃源村	tao yuan cun	1
+桃园岭	tao yuan ling	1
+桃源小学	tao yuan xiao xue	1
+桃竹	tao zhu	1
+桃竹村	tao zhu cun	1
+桃竹山	tao zhu shan	1
+桃子冲	tao zi chong	1
+桃子坪	tao zi ping	1
+桃子山	tao zi shan	1
+特步	te bu	1
+藤冲	teng chong	1
+腾里	teng li	1
+腾龙科技	teng long ke ji	1
+腾龙苑	teng long yuan	1
+藤山	teng shan	1
+藤树下	teng shu xia	1
+腾头村	teng tou cun	1
+体仁	ti ren	1
+梯山	ti shan	1
+体育路	ti yu lu	1
+梯子岭	ti zi ling	1
+天背	tian bei	1
+天成公司	tian cheng gong si	1
+田冲	tian chong	1
+天地坪	tian di ping	1
+天地实业	tian di shi ye	1
+田洞	tian dong	1
+天鹅顶	tian e ding	1
+天鹅湖宾馆	tian e hu bin guan	1
+天鹅岭	tian e ling	1
+天鹅塘	tian e tang	1
+天方夜谈	tian fang ye tan	1
+天福茶楼	tian fu cha lou	1
+田埂里	tian geng li	1
+天河村	tian he cun	1
+天和大酒店	tian he da jiu dian	1
+天湖宾馆	tian hu bin guan	1
+天湖大酒店	tian hu da jiu dian	1
+天湖花园	tian hu hua yuan	1
+天华大厦	tian hua da sha	1
+天花山	tian hua shan	1
+天华商场	tian hua shang chang	1
+田家湾	tian jia wan	1
+田家湾村	tian jia wan cun	1
+天井排	tian jing pai	1
+田坎下	tian kan xia	1
+田里	tian li	1
+田寮	tian liao	1
+天林村	tian lin cun	1
+天岭	tian ling	1
+田岭	tian ling	1
+田龙	tian long	1
+田垅	tian long	1
+天隆超市	tian long chao shi	1
+天龙站	tian long zhan	1
+田楼	tian lou	1
+田螺长	tian luo chang	1
+田螺冲	tian luo chong	1
+田螺就	tian luo jiu	1
+田螺山	tian luo shan	1
+田螺塘	tian luo tang	1
+田螺湾	tian luo wan	1
+田螺形	tian luo xing	1
+天马岭	tian ma ling	1
+天马寨	tian ma zhai	1
+天门岭	tian men ling	1
+田木村	tian mu cun	1
+田坪	tian ping	1
+田坪村	tian ping cun	1
+天坪岭	tian ping ling	1
+天坪山	tian ping shan	1
+田舍村	tian she cun	1
+天坛家具城	tian tan jia ju cheng	1
+天塘	tian tang	1
+天堂村	tian tang cun	1
+天塘村	tian tang cun	1
+天堂大酒店	tian tang da jiu dian	1
+天堂岭	tian tang ling	1
+天堂湾	tian tang wan	1
+天塘乡	tian tang xiang	1
+天堂学校	tian tang xue xiao	1
+天天大酒店	tian tian da jiu dian	1
+天天干洗店	tian tian gan xi dian	1
+田头	tian tou	1
+田头村	tian tou cun	1
+田腿	tian tui	1
+田湾	tian wan	1
+田湾村	tian wan cun	1
+田湾里	tian wan li	1
+天王岭	tian wang ling	1
+田尾	tian wei	1
+田尾头	tian wei tou	1
+田屋	tian wu	1
+天禧大酒店	tian xi da jiu dian	1
+田下	tian xia	1
+天下无二	tian xia wu er	1
+天香茶楼	tian xiang cha lou	1
+田心	tian xin	1
+田心村	tian xin cun	1
+田心里	tian xin li	1
+田心坪	tian xin ping	1
+田心上	tian xin shang	1
+田心头	tian xin tou	1
+田心乡	tian xin xiang	1
+田心医院	tian xin yi yuan	1
+田心庄	tian xin zhuang	1
+天一茶楼	tian yi cha lou	1
+天雨林	tian yu lin	1
+田园化	tian yuan hua	1
+天元山	tian yuan shan	1
+田中间	tian zhong jian	1
+天竺山	tian zhu shan	1
+天柱石	tian zhu shi	1
+田庄村	tian zhuang cun	1
+田庄乡	tian zhuang xiang	1
+田庄中心卫生院	tian zhuang zhong xin wei sheng yuan	1
+天子地	tian zi di	1
+天子佳人	tian zi jia ren	1
+天子桥	tian zi qiao	1
+天子山	tian zi shan	1
+天子寨	tian zi zhai	1
+条垅	tiao long	1
+跳石子	tiao shi zi	1
+调塘	tiao tang	1
+条子冲	tiao zi chong	1
+铁厂村	tie chang cun	1
+铁钉山	tie ding shan	1
+铁金山	tie jin shan	1
+铁坑	tie keng	1
+铁坑村	tie keng cun	1
+铁龙村	tie long cun	1
+铁龙门	tie long men	1
+铁炉	tie lu	1
+铁炉冲	tie lu chong	1
+铁炉村	tie lu cun	1
+铁路坪	tie lu ping	1
+铁炉塘	tie lu tang	1
+铁路头	tie lu tou	1
+铁炉湾	tie lu wan	1
+铁路下	tie lu xia	1
+铁炉下	tie lu xia	1
+铁铺里	tie pu li	1
+铁桥	tie qiao	1
+铁山	tie shan	1
+铁山里	tie shan li	1
+铁山下	tie shan xia	1
+铁屋里	tie wu li	1
+停车场	ting che chang	1
+厅上	ting shang	1
+厅头村	ting tou cun	1
+听下	ting xia	1
+亭子里	ting zi li	1
+亭子上	ting zi shang	1
+亭子头	ting zi tou	1
+亭子下	ting zi xia	1
+筒车坝	tong che ba	1
+铜城村	tong cheng cun	1
+桐冲	tong chong	1
+桐冲村	tong chong cun	1
+桐岗村	tong gang cun	1
+桐岗小学	tong gang xiao xue	1
+铜鼓石	tong gu shi	1
+同和村	tong he cun	1
+同和乡	tong he xiang	1
+同辉小区	tong hui xiao qu	1
+桐家冲	tong jia chong	1
+桐江	tong jiang	1
+铜角湾	tong jiao wan	1
+铜角湾村	tong jiao wan cun	1
+铜坑	tong keng	1
+同坑	tong keng	1
+铜坑湖	tong keng hu	1
+铜坑湖村	tong keng hu cun	1
+桐林	tong lin	1
+桐林村	tong lin cun	1
+铜锣村	tong luo cun	1
+铜锣丘	tong luo qiu	1
+铜锣山	tong luo shan	1
+铜锣滩	tong luo tan	1
+铜锣围	tong luo wei	1
+桐木	tong mu	1
+桐木冲	tong mu chong	1
+桐木村	tong mu cun	1
+桐木井	tong mu jing	1
+桐木岭	tong mu ling	1
+桐木桥	tong mu qiao	1
+桐木山	tong mu shan	1
+桐木石	tong mu shi	1
+桐木塘	tong mu tang	1
+铜钱湾	tong qian wan	1
+同仁堂	tong ren tang	1
+同升宾馆	tong sheng bin guan	1
+桐树坪	tong shu ping	1
+桐树下	tong shu xia	1
+桶水	tong shui	1
+统水	tong shui	1
+铜田	tong tian	1
+通天蜡烛	tong tian la zhu	1
+通天岩	tong tian yan	1
+桐尾	tong wei	1
+同祥村	tong xiang cun	1
+同心宾馆	tong xin bin guan	1
+同心村	tong xin cun	1
+同心花园	tong xin hua yuan	1
+同心桥村	tong xin qiao cun	1
+同心市场	tong xin shi chang	1
+同心小区	tong xin xiao qu	1
+同新小区	tong xin xiao qu	1
+同意村	tong yi cun	1
+同益村	tong yi cun	1
+同益乡	tong yi xiang	1
+铜钟岭	tong zhong ling	1
+桐子坳	tong zi ao	1
+童子村	tong zi cun	1
+桐子坪	tong zi ping	1
+桐梓坪	tong zi ping	1
+桐子山	tong zi shan	1
+桐梓山	tong zi shan	1
+桐子树下	tong zi shu xia	1
+桐子湾	tong zi wan	1
+桐子窝	tong zi wo	1
+桐子元	tong zi yuan	1
+桐子园	tong zi yuan	1
+桐梓园	tong zi yuan	1
+头金石	tou jin shi	1
+头岭	tou ling	1
+头天门	tou tian men	1
+土坝头	tu ba tou	1
+土场	tu chang	1
+土冲	tu chong	1
+土地坳	tu di ao	1
+土地背	tu di bei	1
+土地河	tu di he	1
+土地庙	tu di miao	1
+土地脑	tu di nao	1
+土地塘	tu di tang	1
+土地乡	tu di xiang	1
+图府	tu fu	1
+土富	tu fu	1
+土贡	tu gong	1
+涂家	tu jia	1
+土坑	tu keng	1
+土老匪	tu lao fei	1
+土垄	tu long	1
+土桥	tu qiao	1
+土桥村	tu qiao cun	1
+土桥加油站	tu qiao jia you zhan	1
+土桥头	tu qiao tou	1
+土桥小学	tu qiao xiao xue	1
+土桥镇	tu qiao zhen	1
+土桥中学	tu qiao zhong xue	1
+土山里	tu shan li	1
+土塘	tu tang	1
+兔仔窝	tu zai wo	1
+兔子塘	tu zi tang	1
+团洞	tuan dong	1
+团结村	tuan jie cun	1
+团结卫生院	tuan jie wei sheng yuan	1
+团结中学	tuan jie zhong xue	1
+团桥村	tuan qiao cun	1
+团塘	tuan tang	1
+腿上	tui shang	1
+推心	tui xin	1
+吞上	tun shang	1
+托的	tuo de	1
+陀里	tuo li	1
+托山村	tuo shan cun	1
+驼塘	tuo tang	1
+瓦坑	wa keng	1
+瓦石村	wa shi cun	1
+瓦屋	wa wu	1
+瓦屋冲	wa wu chong	1
+瓦屋里	wa wu li	1
+瓦屋山	wa wu shan	1
+瓦屋上	wa wu shang	1
+瓦屋头	wa wu tou	1
+瓦屋下	wa wu xia	1
+瓦窑	wa yao	1
+瓦窑冲	wa yao chong	1
+瓦窑坪	wa yao ping	1
+瓦窑头	wa yao tou	1
+瓦灶村	wa zao cun	1
+瓦子坪	wa zi ping	1
+外冲	wai chong	1
+外洞	wai dong	1
+外坑	wai keng	1
+外沙村	wai sha cun	1
+外沙乡	wai sha xiang	1
+晚安家纺	wan an jia fang	1
+湾背	wan bei	1
+万冲	wan chong	1
+弯冲	wan chong	1
+湾冲	wan chong	1
+湾村	wan cun	1
+万达市场	wan da shi chang	1
+湾得	wan de	1
+万峰山	wan feng shan	1
+万佛寺	wan fo si	1
+万福洞	wan fu dong	1
+万福隆超市	wan fu long chao shi	1
+万福楼	wan fu lou	1
+万国大酒店	wan guo da jiu dian	1
+万国大厦	wan guo da sha	1
+万豪大酒店	wan hao da jiu dian	1
+万和宾馆	wan he bin guan	1
+万花冲	wan hua chong	1
+万华大道	wan hua da dao	1
+万华大酒店	wan hua da jiu dian	1
+万华岩	wan hua yan	1
+万华岩镇	wan hua yan zhen	1
+万家	wan jia	1
+万家坳	wan jia ao	1
+万佳超市	wan jia chao shi	1
+万家庄	wan jia zhuang	1
+万里	wan li	1
+塆里	wan li	1
+湾里	wan li	1
+湾里面	wan li mian	1
+弯垄	wan long	1
+湾内	wan nei	1
+湾丘	wan qiu	1
+湾坵	wan qiu	1
+万山下	wan shan xia	1
+万上	wan shang	1
+湾上	wan shang	1
+万时山	wan shi shan	1
+万寿庵	wan shou an	1
+万寿桥	wan shou qiao	1
+万寿桥村	wan shou qiao cun	1
+万水乡	wan shui xiang	1
+万岁桥	wan sui qiao	1
+湾塘	wan tang	1
+湾塘村	wan tang cun	1
+万田	wan tian	1
+万田村	wan tian cun	1
+万通大厦	wan tong da sha	1
+湾头	wan tou	1
+万仙桥	wan xian qiao	1
+碗形	wan xing	1
+碗窑	wan yao	1
+万志山	wan zhi shan	1
+万众百货	wan zhong bai huo	1
+塆子	wan zi	1
+湾子里	wan zi li	1
+忘不了	wang bu liao	1
+王朝大酒店	wang chao da jiu dian	1
+旺冲	wang chong	1
+旺冲村	wang chong cun	1
+王冲的	wang chong de	1
+旺村	wang cun	1
+汪村	wang cun	1
+王洞	wang dong	1
+汪古	wang gu	1
+王古	wang gu	1
+王古洞	wang gu dong	1
+望湖花园	wang hu hua yuan	1
+汪家	wang jia	1
+王家	wang jia	1
+王家坳	wang jia ao	1
+王家坝	wang jia ba	1
+王家塝	wang jia bang	1
+王家车	wang jia che	1
+汪家冲	wang jia chong	1
+王家冲	wang jia chong	1
+汪家村	wang jia cun	1
+王家村	wang jia cun	1
+王家坊	wang jia fang	1
+王家咀	wang jia ju	1
+王家里	wang jia li	1
+王家垄	wang jia long	1
+王家垅	wang jia long	1
+王家坪	wang jia ping	1
+汪家山	wang jia shan	1
+王家山	wang jia shan	1
+王家塘	wang jia tang	1
+王家田	wang jia tian	1
+王家湾	wang jia wan	1
+王家窝	wang jia wo	1
+王家屋	wang jia wu	1
+王家窑	wang jia yao	1
+王家寨	wang jia zhai	1
+王家庄	wang jia zhuang	1
+旺客隆超市	wang ke long chao shi	1
+王坑	wang keng	1
+王岭	wang ling	1
+网岭	wang ling	1
+王垄	wang long	1
+王毛眼	wang mao yan	1
+汪山	wang shan	1
+王泗村	wang si cun	1
+汪塘村	wang tang cun	1
+旺田村	wang tian cun	1
+旺旺超市	wang wang chao shi	1
+王下	wang xia	1
+王仙	wang xian	1
+王仙岭	wang xian ling	1
+王仙桥	wang xian qiao	1
+望仙亭	wang xian ting	1
+望仙小区	wang xian xiao qu	1
+网形	wang xing	1
+王阳村	wang yang cun	1
+望月岭	wang yue ling	1
+王竹坑	wang zhu keng	1
+王子冲	wang zi chong	1
+王子平	wang zi ping	1
+王子塘	wang zi tang	1
+围背	wei bei	1
+魏家	wei jia	1
+维可陶洁具	wei ke tao jie ju	1
+围里	wei li	1
+威鹿男装	wei lu nan zhuang	1
+为民大药房	wei min da yao fang	1
+围前	wei qian	1
+威狮轮胎	wei shi lun tai	1
+魏塘	wei tang	1
+围寨	wei zhai	1
+围子里	wei zi li	1
+围子湾	wei zi wan	1
+文笔山	wen bi shan	1
+文昌	wen chang	1
+文昌村	wen chang cun	1
+文昌阁	wen chang ge	1
+文昌阁村	wen chang ge cun	1
+汶村	wen cun	1
+文阁村	wen ge cun	1
+文化宾馆	wen hua bin guan	1
+文化楼	wen hua lou	1
+文化路	wen hua lu	1
+文家	wen jia	1
+温家	wen jia	1
+文家冲	wen jia chong	1
+文家村	wen jia cun	1
+文家岭	wen jia ling	1
+文家桥	wen jia qiao	1
+文江	wen jiang	1
+文军加油站	wen jun jia you zhan	1
+温仑	wen lun	1
+文明村	wen ming cun	1
+文明加油站	wen ming jia you zhan	1
+文明乡	wen ming xiang	1
+文明幼儿园	wen ming you er yuan	1
+文明中学	wen ming zhong xue	1
+文盘	wen pan	1
+文泉村	wen quan cun	1
+温泉村	wen quan cun	1
+温泉口	wen quan kou	1
+温泉水	wen quan shui	1
+文市村	wen shi cun	1
+温塘	wen tang	1
+文溪	wen xi	1
+文溪村	wen xi cun	1
+温溪村	wen xi cun	1
+温州海鲜楼	wen zhou hai xian lou	1
+窝里	wo li	1
+窝丘	wo qiu	1
+窝山	wo shan	1
+沃水	wo shui	1
+窝塘	wo tang	1
+五爱村	wu ai cun	1
+屋背	wu bei	1
+屋背岭	wu bei ling	1
+屋场里	wu chang li	1
+屋场坪	wu chang ping	1
+屋场坪村	wu chang ping cun	1
+屋场坵	wu chang qiu	1
+五成村	wu cheng cun	1
+乌冲	wu chong	1
+五村	wu cun	1
+梧洞	wu dong	1
+五渡村	wu du cun	1
+五峰村	wu feng cun	1
+五峰仙	wu feng xian	1
+五盖山	wu gai shan	1
+蜈蚣冲	wu gong chong	1
+蜈蚣岭	wu gong ling	1
+蜈蚣形	wu gong xing	1
+伍古	wu gu	1
+吴古	wu gu	1
+乌龟冲	wu gui chong	1
+五桂村	wu gui cun	1
+乌龟洞	wu gui dong	1
+乌龟山	wu gui shan	1
+乌龟石	wu gui shi	1
+乌龟坦	wu gui tan	1
+乌龟塘	wu gui tang	1
+乌龟寨	wu gui zhai	1
+五合村	wu he cun	1
+五花村	wu hua cun	1
+五花路	wu hua lu	1
+邬家	wu jia	1
+伍家	wu jia	1
+吴家	wu jia	1
+巫家	wu jia	1
+武家	wu jia	1
+乌家冲	wu jia chong	1
+伍家冲	wu jia chong	1
+吴家冲	wu jia chong	1
+五甲村	wu jia cun	1
+吴家村	wu jia cun	1
+伍家里	wu jia li	1
+吴家垅	wu jia long	1
+伍家坪	wu jia ping	1
+吴家坪	wu jia ping	1
+伍家山	wu jia shan	1
+伍家湾	wu jia wan	1
+吴家湾	wu jia wan	1
+武家湾	wu jia wan	1
+吴家庄	wu jia zhuang	1
+五里	wu li	1
+五里冲	wu li chong	1
+五里村	wu li cun	1
+五里堆	wu li dui	1
+五里墩	wu li dun	1
+五里界	wu li jie	1
+五里庙	wu li miao	1
+五里排	wu li pai	1
+五里牌	wu li pai	1
+五里牌乡	wu li pai xiang	1
+五里牌中学	wu li pai zhong xue	1
+五里桥	wu li qiao	1
+五里山	wu li shan	1
+五里上	wu li shang	1
+五里亭	wu li ting	1
+五里源	wu li yuan	1
+五连冠酒店	wu lian guan jiu dian	1
+五粮液专卖店	wu liang ye zhuan mai dian	1
+五岭宾馆	wu ling bin guan	1
+五陵村	wu ling cun	1
+五岭村	wu ling cun	1
+五岭大道	wu ling da dao	1
+五岭大市场	wu ling da shi chang	1
+五岭广场	wu ling guang chang	1
+五岭花园	wu ling hua yuan	1
+五岭驾校	wu ling jia xiao	1
+五岭新天地	wu ling xin tian di	1
+五零一	wu ling yi	1
+乌龙村	wu long cun	1
+乌龙塘	wu long tang	1
+五马槽	wu ma cao	1
+五马归槽	wu ma gui cao	1
+五亩山	wu mu shan	1
+五亩田	wu mu tian	1
+乌泥村	wu ni cun	1
+乌泥洞	wu ni dong	1
+乌泥塘	wu ni tang	1
+吴其	wu qi	1
+五七村	wu qi cun	1
+五七农场	wu qi nong chang	1
+梧桥	wu qiao	1
+乌青山	wu qing shan	1
+吴丘	wu qiu	1
+雾山	wu shan	1
+吴山村	wu shan cun	1
+吴山下	wu shan xia	1
+乌市	wu shi	1
+乌石	wu shi	1
+乌石冲	wu shi chong	1
+乌市村	wu shi cun	1
+乌石村	wu shi cun	1
+五十担	wu shi dan	1
+乌石江	wu shi jiang	1
+乌石岭	wu shi ling	1
+乌石垅	wu shi long	1
+乌石山	wu shi shan	1
+乌石塘	wu shi tang	1
+乌石下	wu shi xia	1
+乌石寨	wu shi zhai	1
+武水镇	wu shui zhen	1
+五四村	wu si cun	1
+五四农场	wu si nong chang	1
+梧潭	wu tan	1
+乌塘村	wu tang cun	1
+乌田	wu tian	1
+乌田村	wu tian cun	1
+五条路	wu tiao lu	1
+梧桐村	wu tong cun	1
+梧桐境	wu tong jing	1
+梧桐岭	wu tong ling	1
+梧桐窝	wu tong wo	1
+梧桐仙	wu tong xian	1
+屋头冲	wu tou chong	1
+吴土	wu tu	1
+吴王庙	wu wang miao	1
+吴溪	wu xi	1
+浯溪	wu xi	1
+五星村	wu xing cun	1
+五一村	wu yi cun	1
+五一水库	wu yi shui ku	1
+武源乡	wu yuan xiang	1
+屋造	wu zao	1
+五指峰	wu zhi feng	1
+五指山	wu zhi shan	1
+五洲大酒店	wu zhou da jiu dian	1
+五庄	wu zhuang	1
+西岸	xi an	1
+西岸边	xi an bian	1
+西安村	xi an cun	1
+西安水库	xi an shui ku	1
+西北湾	xi bei wan	1
+西边冲	xi bian chong	1
+西边岭	xi bian ling	1
+西边山	xi bian shan	1
+西边山村	xi bian shan cun	1
+西边庄	xi bian zhuang	1
+西禅村	xi chan cun	1
+西车村	xi che cun	1
+西城村	xi cheng cun	1
+西城加油站	xi cheng jia you zhan	1
+西冲	xi chong	1
+锡冲	xi chong	1
+细冲	xi chong	1
+西冲村	xi chong cun	1
+西冲口	xi chong kou	1
+曦丹酒店	xi dan jiu dian	1
+溪东	xi dong	1
+溪洞	xi dong	1
+西汾村	xi fen cun	1
+西瓜冲	xi gua chong	1
+西河	xi he	1
+西河村	xi he cun	1
+西河加油站	xi he jia you zhan	1
+西湖	xi hu	1
+西湖村	xi hu cun	1
+西湖水库	xi hu shui ku	1
+西华山	xi hua shan	1
+西黄村	xi huang cun	1
+西江	xi jiang	1
+溪江	xi jiang	1
+西江村	xi jiang cun	1
+溪江村	xi jiang cun	1
+西江头	xi jiang tou	1
+西角湾	xi jiao wan	1
+西街	xi jie	1
+西康村	xi kang cun	1
+西坑	xi keng	1
+西坑头	xi keng tou	1
+西坑子	xi keng zi	1
+溪口村	xi kou cun	1
+喜来登宾馆	xi lai deng bin guan	1
+西廊	xi lang	1
+西廊村	xi lang cun	1
+溪里	xi li	1
+西利村	xi li cun	1
+溪连	xi lian	1
+溪连村	xi lian cun	1
+西林村	xi lin cun	1
+西岭	xi ling	1
+西岭村	xi ling cun	1
+西岭脚	xi ling jiao	1
+西岭头	xi ling tou	1
+西龙村	xi long cun	1
+西楼	xi lou	1
+西麓	xi lu	1
+洗煤厂	xi mei chang	1
+西门村	xi men cun	1
+西门桥	xi men qiao	1
+西牛塘	xi niu tang	1
+西乾	xi qian	1
+细山	xi shan	1
+西山村	xi shan cun	1
+锡山村	xi shan cun	1
+西山林场	xi shan lin chang	1
+西山坪	xi shan ping	1
+西山山脉	xi shan shan mai	1
+西山头	xi shan tou	1
+西山下	xi shan xia	1
+西水	xi shui	1
+西水村	xi shui cun	1
+戏台村	xi tai cun	1
+戏台下	xi tai xia	1
+西塘	xi tang	1
+西塘村	xi tang cun	1
+溪塘村	xi tang cun	1
+西塘头	xi tang tou	1
+西塘尾	xi tang wei	1
+西塘下	xi tang xia	1
+西头	xi tou	1
+溪头村	xi tou cun	1
+溪头下	xi tou xia	1
+西湾	xi wan	1
+溪尾村	xi wei cun	1
+细窝	xi wo	1
+习武	xi wu	1
+西溪	xi xi	1
+西溪村	xi xi cun	1
+溪下	xi xia	1
+西阳	xi yang	1
+喜盈门大酒店	xi ying men da jiu dian	1
+西域骆驼	xi yu luo tuo	1
+西垣	xi yuan	1
+溪源	xi yuan	1
+溪源村	xi yuan cun	1
+下阿	xia a	1
+下安	xia an	1
+下坳	xia ao	1
+下坝	xia ba	1
+下巴冲	xia ba chong	1
+下半山	xia ban shan	1
+下板塘	xia ban tang	1
+下堡村	xia bao cun	1
+下边山	xia bian shan	1
+下埠	xia bu	1
+下菜园	xia cai yuan	1
+下苍	xia cang	1
+下曹	xia cao	1
+下茶园	xia cha yuan	1
+下厂	xia chang	1
+下昌	xia chang	1
+下车	xia che	1
+下城村	xia cheng cun	1
+下冲	xia chong	1
+下冲村	xia chong cun	1
+下冲头	xia chong tou	1
+下村	xia cun	1
+下大洞	xia da dong	1
+下大火	xia da huo	1
+下大垄	xia da long	1
+下大排	xia da pai	1
+下大坪	xia da ping	1
+下大桥	xia da qiao	1
+下大水	xia da shui	1
+下大塘	xia da tang	1
+下大田	xia da tian	1
+下大湾	xia da wan	1
+下带	xia dai	1
+夏丹	xia dan	1
+下邓	xia deng	1
+下邓村	xia deng cun	1
+下地坪	xia di ping	1
+下顶	xia ding	1
+下洞	xia dong	1
+下东村	xia dong cun	1
+下洞村	xia dong cun	1
+下东坑	xia dong keng	1
+下洞里	xia dong li	1
+下东塘	xia dong tang	1
+下洞头	xia dong tou	1
+下渡	xia du	1
+下渡村	xia du cun	1
+下堆	xia dui	1
+下鹅	xia e	1
+下方	xia fang	1
+下汾	xia fen	1
+下凤村	xia feng cun	1
+下甫	xia fu	1
+下高坪	xia gao ping	1
+下高桥	xia gao qiao	1
+下高山	xia gao shan	1
+下埂	xia geng	1
+下公塘	xia gong tang	1
+夏古	xia gu	1
+下古塘	xia gu tang	1
+下毫	xia hao	1
+下何	xia he	1
+下河	xia he	1
+下河村	xia he cun	1
+下河源	xia he yuan	1
+下黑角	xia hei jiao	1
+下横	xia heng	1
+下横排	xia heng pai	1
+下胡	xia hu	1
+下湖洞	xia hu dong	1
+下胡家	xia hu jia	1
+下湖塘	xia hu tang	1
+下黄	xia huang	1
+下黄草	xia huang cao	1
+下黄家	xia huang jia	1
+下黄坑	xia huang keng	1
+下黄泥	xia huang ni	1
+下黄袍	xia huang pao	1
+下黄桥	xia huang qiao	1
+下黄沙	xia huang sha	1
+下火坑	xia huo keng	1
+夏家	xia jia	1
+夏家村	xia jia cun	1
+夏家垅	xia jia long	1
+夏家湾	xia jia wan	1
+夏家湾村	xia jia wan cun	1
+下蒋	xia jiang	1
+下江边	xia jiang bian	1
+下江村	xia jiang cun	1
+下江桥	xia jiang qiao	1
+下江水	xia jiang shui	1
+下蕉	xia jiao	1
+下迳	xia jing	1
+下井	xia jing	1
+下坑	xia keng	1
+下口	xia kou	1
+狭口	xia kou	1
+下廊	xia lang	1
+下老山	xia lao shan	1
+下老屋	xia lao wu	1
+下乐	xia le	1
+下雷	xia lei	1
+下雷家	xia lei jia	1
+下雷震	xia lei zhen	1
+峡里	xia li	1
+下里村	xia li cun	1
+下李家	xia li jia	1
+下里坪	xia li ping	1
+下联村	xia lian cun	1
+下连村	xia lian cun	1
+下莲塘	xia lian tang	1
+下梁村	xia liang cun	1
+下寮	xia liao	1
+下料	xia liao	1
+下岭	xia ling	1
+下岭背	xia ling bei	1
+下刘家	xia liu jia	1
+下龙	xia long	1
+下垄	xia long	1
+下垅	xia long	1
+下龙村	xia long cun	1
+下垅村	xia long cun	1
+下龙家	xia long jia	1
+下龙山	xia long shan	1
+下龙水	xia long shui	1
+下龙尾	xia long wei	1
+下龙穴	xia long xue	1
+下炉	xia lu	1
+下路清	xia lu qing	1
+下鲁塘	xia lu tang	1
+下鲁塘村	xia lu tang cun	1
+夏洛村	xia luo cun	1
+下罗家	xia luo jia	1
+下马碑	xia ma bei	1
+下马村	xia ma cun	1
+下马山	xia ma shan	1
+下马塘	xia ma tang	1
+下满堂	xia man tang	1
+下茅坪	xia mao ping	1
+下毛坪	xia mao ping	1
+下茅屋	xia mao wu	1
+下湄桥	xia mei qiao	1
+下孟家	xia meng jia	1
+下庙	xia miao	1
+下磨刀	xia mo dao	1
+下南	xia nan	1
+下南边	xia nan bian	1
+下南桥	xia nan qiao	1
+下南山	xia nan shan	1
+下泥坑	xia ni keng	1
+下泥塘	xia ni tang	1
+下牛塘	xia niu tang	1
+下欧	xia ou	1
+下欧村	xia ou cun	1
+下排	xia pai	1
+下牌	xia pai	1
+下畔	xia pan	1
+下棚	xia peng	1
+下坪	xia ping	1
+下坪村	xia ping cun	1
+下坪坑	xia ping keng	1
+下坪山	xia ping shan	1
+下坪子	xia ping zi	1
+下铺	xia pu	1
+下铺头	xia pu tou	1
+下墙背	xia qiang bei	1
+下桥	xia qiao	1
+下桥村	xia qiao cun	1
+下桥小学	xia qiao xiao xue	1
+下青村	xia qing cun	1
+下清江	xia qing jiang	1
+下青山	xia qing shan	1
+下秋	xia qiu	1
+下人工	xia ren gong	1
+下汝江	xia ru jiang	1
+下沙	xia sha	1
+下沙坪	xia sha ping	1
+下山	xia shan	1
+下山背	xia shan bei	1
+下山冲	xia shan chong	1
+下山村	xia shan cun	1
+下山塘	xia shan tang	1
+下山湾	xia shan wan	1
+下上	xia shang	1
+下石	xia shi	1
+硖石	xia shi	1
+下石板	xia shi ban	1
+下石冲	xia shi chong	1
+下石门	xia shi men	1
+下石坪	xia shi ping	1
+下石塘	xia shi tang	1
+下石湾	xia shi wan	1
+下石围	xia shi wei	1
+下水岸	xia shui an	1
+下水保	xia shui bao	1
+下水东	xia shui dong	1
+下水洞	xia shui dong	1
+下水龙	xia shui long	1
+下水山	xia shui shan	1
+下水头	xia shui tou	1
+下松	xia song	1
+下孙家	xia sun jia	1
+下坛	xia tan	1
+霞潭村	xia tan cun	1
+下谭家	xia tan jia	1
+下塘	xia tang	1
+下塘村	xia tang cun	1
+下唐家	xia tang jia	1
+下田冲	xia tian chong	1
+侠头	xia tou	1
+下土湾	xia tu wan	1
+下塆	xia wan	1
+下湾	xia wan	1
+下湾村	xia wan cun	1
+下湾里	xia wan li	1
+下王	xia wang	1
+下王峰	xia wang feng	1
+下王家	xia wang jia	1
+下王铺	xia wang pu	1
+下屋	xia wu	1
+下吴家	xia wu jia	1
+下屋里	xia wu li	1
+下屋头	xia wu tou	1
+下溪	xia xi	1
+下西安	xia xi an	1
+下溪村	xia xi cun	1
+吓下	xia xia	1
+下乡	xia xiang	1
+下肖	xia xiao	1
+下肖家	xia xiao jia	1
+下小坑	xia xiao keng	1
+下小溪	xia xiao xi	1
+下新塘	xia xin tang	1
+下新屋	xia xin wu	1
+下兴村	xia xing cun	1
+下形塘	xia xing tang	1
+下徐家	xia xu jia	1
+下岩	xia yan	1
+下燕	xia yan	1
+下杨	xia yang	1
+下阳村	xia yang cun	1
+下杨村	xia yang cun	1
+下杨林	xia yang lin	1
+下杨梅坑	xia yang mei keng	1
+下瑶村	xia yao cun	1
+下油槽	xia you cao	1
+下有洞	xia you dong	1
+下雨山	xia yu shan	1
+下园	xia yuan	1
+下元村	xia yuan cun	1
+下源村	xia yuan cun	1
+下沅江	xia yuan jiang	1
+下源头	xia yuan tou	1
+下云	xia yun	1
+下泽村	xia ze cun	1
+下寨	xia zhai	1
+下张家	xia zhang jia	1
+下圳	xia zhen	1
+下洲	xia zhou	1
+下周家	xia zhou jia	1
+下祝村	xia zhu cun	1
+下竹山	xia zhu shan	1
+下庄	xia zhuang	1
+下庄村	xia zhuang cun	1
+仙背	xian bei	1
+县背	xian bei	1
+仙倒	xian dao	1
+县电力局	xian dian li ju	1
+仙鹅塘	xian e tang	1
+先峰村	xian feng cun	1
+先锋岭	xian feng ling	1
+县妇幼保健院	xian fu you bao jian yuan	1
+县公安局	xian gong an ju	1
+仙合	xian he	1
+贤江村	xian jiang cun	1
+仙脚	xian jiao	1
+县教育局	xian jiao yu ju	1
+仙景	xian jing	1
+仙居村	xian ju cun	1
+县良种站	xian liang zhong zhan	1
+仙岭	xian ling	1
+仙门口	xian men kou	1
+县锰矿	xian meng kuang	1
+县苗圃	xian miao pu	1
+县民政局	xian min zheng ju	1
+县农机厂	xian nong ji chang	1
+县农科所	xian nong ke suo	1
+仙女岩	xian nv yan	1
+仙女寨	xian nv zhai	1
+仙桥村	xian qiao cun	1
+仙人甲	xian ren jia	1
+仙人脚	xian ren jiao	1
+仙人井	xian ren jing	1
+仙人桥	xian ren qiao	1
+仙人石	xian ren shi	1
+仙人下棋	xian ren xia qi	1
+仙人寨	xian ren zhai	1
+仙上	xian shang	1
+县水泥厂	xian shui ni chang	1
+县陶瓷厂	xian tao ci chang	1
+现田村	xian tian cun	1
+仙溪	xian xi	1
+仙溪村	xian xi cun	1
+仙下	xian xia	1
+县乡镇企业局	xian xiang zhen qi ye ju	1
+咸宜村	xian yi cun	1
+县一中	xian yi zhong	1
+县原种场	xian yuan zhong chang	1
+乡巴佬	xiang ba lao	1
+祥背	xiang bei	1
+香冲	xiang chong	1
+乡村人家	xiang cun ren jia	1
+向东村	xiang dong cun	1
+香枫村	xiang feng cun	1
+湘福楼	xiang fu lou	1
+湘钢	xiang gang	1
+香菇山	xiang gu shan	1
+湘华宾馆	xiang hua bin guan	1
+香花村	xiang hua cun	1
+香花井	xiang hua jing	1
+香花岭镇	xiang hua ling zhen	1
+香花路	xiang hua lu	1
+香花卫生院	xiang hua wei sheng yuan	1
+香花乡	xiang hua xiang	1
+香花苑	xiang hua yuan	1
+香花中学	xiang hua zhong xue	1
+香火堂	xiang huo tang	1
+向家	xiang jia	1
+祥康大药房	xiang kang da yao fang	1
+香口	xiang kou	1
+香口村	xiang kou cun	1
+巷口村	xiang kou cun	1
+湘里人家	xiang li ren jia	1
+香岭村	xiang ling cun	1
+香炉山	xiang lu shan	1
+香炉石	xiang lu shi	1
+香炉寨	xiang lu zhai	1
+香梅	xiang mei	1
+香梅乡	xiang mei xiang	1
+香梅中学	xiang mei zhong xue	1
+湘淼人家	xiang miao ren jia	1
+湘南大酒店	xiang nan da jiu dian	1
+湘南地质队	xiang nan di zhi dui	1
+湘南技校	xiang nan ji xiao	1
+湘南驾校	xiang nan jia xiao	1
+湘南市场	xiang nan shi chang	1
+湘南食府	xiang nan shi fu	1
+湘南学院	xiang nan xue yuan	1
+湘南中学	xiang nan zhong xue	1
+乡农机站	xiang nong ji zhan	1
+乡农科站	xiang nong ke zhan	1
+响泉	xiang quan	1
+湘泉人家	xiang quan ren jia	1
+向日葵幼儿园	xiang ri kui you er yuan	1
+向荣村	xiang rong cun	1
+香山	xiang shan	1
+湘山村	xiang shan cun	1
+香山里	xiang shan li	1
+香山坪	xiang shan ping	1
+相思宾馆	xiang si bin guan	1
+香穗花园	xiang sui hua yuan	1
+香塘	xiang tang	1
+响塘	xiang tang	1
+香塘村	xiang tang cun	1
+项田	xiang tian	1
+巷头村	xiang tou cun	1
+乡卫生院	xiang wei sheng yuan	1
+湘溪村	xiang xi cun	1
+香下	xiang xia	1
+香雪大道	xiang xue da dao	1
+香雪桥	xiang xue qiao	1
+香雪苑	xiang xue yuan	1
+象牙村	xiang ya cun	1
+象牙山	xiang ya shan	1
+向阳村	xiang yang cun	1
+向阳完小	xiang yang wan xiao	1
+湘阴渡镇	xiang yin du zhen	1
+湘源村	xiang yuan cun	1
+湘粤学校	xiang yue xue xiao	1
+香樟苑	xiang zhang yuan	1
+小坳	xiao ao	1
+小白元	xiao bai yuan	1
+小白竹	xiao bai zhu	1
+小背	xiao bei	1
+小背村	xiao bei cun	1
+小碧山	xiao bi shan	1
+小碧潭	xiao bi tan	1
+小柏林	xiao bo lin	1
+小博士幼儿园	xiao bo shi you er yuan	1
+小埠村	xiao bu cun	1
+小长江	xiao chang jiang	1
+小城村	xiao cheng cun	1
+小冲	xiao chong	1
+小冲村	xiao chong cun	1
+小冲头	xiao chong tou	1
+小冲下	xiao chong xia	1
+小点菜	xiao dian cai	1
+小东	xiao dong	1
+小洞	xiao dong	1
+小东坑	xiao dong keng	1
+小洞子	xiao dong zi	1
+小段家	xiao duan jia	1
+小芳村	xiao fang cun	1
+小芬	xiao fen	1
+小凤	xiao feng	1
+小凤村	xiao feng cun	1
+小风洞	xiao feng dong	1
+肖古	xiao gu	1
+小合	xiao he	1
+小河	xiao he	1
+小河村	xiao he cun	1
+小禾洞	xiao he dong	1
+小河山	xiao he shan	1
+小红帽幼儿园	xiao hong mao you er yuan	1
+小湖村	xiao hu cun	1
+小花山	xiao hua shan	1
+肖家	xiao jia	1
+肖家坳	xiao jia ao	1
+肖家坝	xiao jia ba	1
+肖家冲	xiao jia chong	1
+肖家村	xiao jia cun	1
+肖家洞	xiao jia dong	1
+肖家咀	xiao jia ju	1
+肖家岭	xiao jia ling	1
+肖家门	xiao jia men	1
+肖家坪	xiao jia ping	1
+肖家铺	xiao jia pu	1
+肖家山	xiao jia shan	1
+肖家山村	xiao jia shan cun	1
+肖家塆	xiao jia wan	1
+肖家湾	xiao jia wan	1
+肖家屋	xiao jia wu	1
+肖家镇	xiao jia zhen	1
+小江	xiao jiang	1
+小江边	xiao jiang bian	1
+小江村	xiao jiang cun	1
+小江口	xiao jiang kou	1
+小江头	xiao jiang tou	1
+小江湾	xiao jiang wan	1
+小金坑	xiao jin keng	1
+小坑	xiao keng	1
+小坑村	xiao keng cun	1
+小里	xiao li	1
+小李家	xiao li jia	1
+小连	xiao lian	1
+小岭	xiao ling	1
+小岭头	xiao ling tou	1
+小垄	xiao long	1
+小龙形	xiao long xing	1
+小路	xiao lu	1
+小路下	xiao lu xia	1
+小门寨	xiao men zhai	1
+小米塘	xiao mi tang	1
+小魔鱼专卖店	xiao mo yu zhuan mai dian	1
+小南冲	xiao nan chong	1
+小南溪	xiao nan xi	1
+小泥	xiao ni	1
+小泥塘	xiao ni tang	1
+小庞家	xiao pang jia	1
+小坪	xiao ping	1
+小坪山	xiao ping shan	1
+小坪头	xiao ping tou	1
+小铺	xiao pu	1
+小浦村	xiao pu cun	1
+小七里	xiao qi li	1
+小前	xiao qian	1
+小桥	xiao qiao	1
+小桥下	xiao qiao xia	1
+小泉	xiao quan	1
+小山下	xiao shan xia	1
+小深坑	xiao shen keng	1
+小水冲	xiao shui chong	1
+小水村	xiao shui cun	1
+小水江	xiao shui jiang	1
+小水口	xiao shui kou	1
+小水岭	xiao shui ling	1
+小水龙	xiao shui long	1
+小水塘	xiao shui tang	1
+小塘	xiao tang	1
+小塘冲	xiao tang chong	1
+小塘村	xiao tang cun	1
+小塘收费站	xiao tang shou fei zhan	1
+小田	xiao tian	1
+小田村	xiao tian cun	1
+小天使幼儿园	xiao tian shi you er yuan	1
+小田下	xiao tian xia	1
+消湾	xiao wan	1
+小湾村	xiao wan cun	1
+小湾里	xiao wan li	1
+肖王村	xiao wang cun	1
+小窝	xiao wo	1
+肖屋	xiao wu	1
+小屋头	xiao wu tou	1
+小溪	xiao xi	1
+小溪村	xiao xi cun	1
+小西坑	xiao xi keng	1
+潇湘宾馆	xiao xiang bin guan	1
+小小超市	xiao xiao chao shi	1
+晓晓超市	xiao xiao chao shi	1
+小丫头	xiao ya tou	1
+小燕子幼儿园	xiao yan zi you er yuan	1
+小源	xiao yuan	1
+晓源	xiao yuan	1
+小垣镇	xiao yuan zhen	1
+小掌柜	xiao zhang gui	1
+小张家	xiao zhang jia	1
+小竹园	xiao zhu yuan	1
+小庄	xiao zhuang	1
+小庄村	xiao zhuang cun	1
+小状元幼儿园	xiao zhuang yuan you er yuan	1
+谢冲	xie chong	1
+谢古	xie gu	1
+谢古村	xie gu cun	1
+谢家	xie jia	1
+谢家坳	xie jia ao	1
+谢家冲	xie jia chong	1
+谢家村	xie jia cun	1
+谢家道	xie jia dao	1
+谢家浪	xie jia lang	1
+谢家岭	xie jia ling	1
+谢家垅	xie jia long	1
+谢家坪	xie jia ping	1
+谢家山	xie jia shan	1
+谢家湾	xie jia wan	1
+谢家洲	xie jia zhou	1
+谢家庄	xie jia zhuang	1
+斜江村	xie jiang cun	1
+斜里	xie li	1
+斜岭	xie ling	1
+斜塘镇	xie tang zhen	1
+谢湾	xie wan	1
+斜溪	xie xi	1
+蟹形	xie xing	1
+新安	xin an	1
+新岸	xin an	1
+新庵	xin an	1
+新安村	xin an cun	1
+新安里	xin an li	1
+新安上	xin an shang	1
+新坳村	xin ao cun	1
+新部	xin bu	1
+新茶园	xin cha yuan	1
+新车村	xin che cun	1
+新车里	xin che li	1
+新城加油站	xin cheng jia you zhan	1
+新冲	xin chong	1
+新村	xin cun	1
+新村林场	xin cun lin chang	1
+新村圩	xin cun xu	1
+鑫达银业	xin da yin ye	1
+新邓家	xin deng jia	1
+新地	xin di	1
+新地方	xin di fang	1
+新店	xin dian	1
+新店上	xin dian shang	1
+心洞	xin dong	1
+新洞	xin dong	1
+新东村	xin dong cun	1
+新洞村	xin dong cun	1
+新东方大酒店	xin dong fang da jiu dian	1
+新渡	xin du	1
+新渡村	xin du cun	1
+新对门	xin dui men	1
+新坊村	xin fang cun	1
+新坊乡	xin fang xiang	1
+新丰	xin feng	1
+新丰村	xin feng cun	1
+新风亭	xin feng ting	1
+新丰学校	xin feng xue xiao	1
+新复村	xin fu cun	1
+新高塘	xin gao tang	1
+新桂	xin gui	1
+新和兴	xin he xing	1
+新华宾馆	xin hua bin guan	1
+新华村	xin hua cun	1
+新华家	xin hua jia	1
+新华书店	xin hua shu dian	1
+新华乡	xin hua xiang	1
+新建	xin jian	1
+新建村	xin jian cun	1
+新建庄	xin jian zhuang	1
+新江	xin jiang	1
+新江村	xin jiang cun	1
+新江里	xin jiang li	1
+新脚盆	xin jiao pen	1
+新金马超市	xin jin ma chao shi	1
+新井村	xin jing cun	1
+新聚	xin ju	1
+新开路	xin kai lu	1
+新开丘	xin kai qiu	1
+新开田	xin kai tian	1
+鑫康大药店	xin kang da yao dian	1
+新坑村	xin keng cun	1
+新李家	xin li jia	1
+新联村	xin lian cun	1
+新莲塘	xin lian tang	1
+心连心大药房	xin lian xin da yao fang	1
+新凉亭	xin liang ting	1
+新寮	xin liao	1
+新岭背	xin ling bei	1
+新柳	xin liu	1
+新柳村	xin liu cun	1
+新龙	xin long	1
+新垅	xin long	1
+新龙村	xin long cun	1
+鑫隆大酒店	xin long da jiu dian	1
+新楼上	xin lou shang	1
+新六合	xin lu he	1
+新路下	xin lu xia	1
+新毛家	xin mao jia	1
+新苗幼儿园	xin miao you er yuan	1
+新民	xin min	1
+新民村	xin min cun	1
+新木村	xin mu cun	1
+新南村	xin nan cun	1
+新农村	xin nong cun	1
+新棚村	xin peng cun	1
+新坪村	xin ping cun	1
+新坡村	xin po cun	1
+新坡头	xin po tou	1
+新铺里	xin pu li	1
+新铺上	xin pu shang	1
+新桥	xin qiao	1
+新桥村	xin qiao cun	1
+新桥头	xin qiao tou	1
+新桥圩	xin qiao xu	1
+新山里	xin shan li	1
+新市村	xin shi cun	1
+新世纪大酒店	xin shi ji da jiu dian	1
+新世纪大市场	xin shi ji da shi chang	1
+新世纪花园	xin shi ji hua yuan	1
+新市学校	xin shi xue xiao	1
+新书房	xin shu fang	1
+新塔村	xin ta cun	1
+新塘	xin tang	1
+新塘冲	xin tang chong	1
+新堂村	xin tang cun	1
+新塘村	xin tang cun	1
+新塘里	xin tang li	1
+新塘湾	xin tang wan	1
+新塘下	xin tang xia	1
+新塘园	xin tang yuan	1
+新田	xin tian	1
+新田冲	xin tian chong	1
+心田村	xin tian cun	1
+新田村	xin tian cun	1
+新田埂	xin tian geng	1
+新田里	xin tian li	1
+新田垅	xin tian long	1
+新田湾	xin tian wan	1
+新塆	xin wan	1
+新湾	xin wan	1
+新湾里	xin wan li	1
+鑫旺超市	xin wang chao shi	1
+新王家	xin wang jia	1
+新伍	xin wu	1
+新屋	xin wu	1
+新屋边	xin wu bian	1
+新屋场	xin wu chang	1
+新屋场村	xin wu chang cun	1
+新屋陈家	xin wu chen jia	1
+新屋村	xin wu cun	1
+新屋得	xin wu de	1
+新屋里	xin wu li	1
+新屋门口	xin wu men kou	1
+新屋内	xin wu nei	1
+新屋坪	xin wu ping	1
+新屋上	xin wu shang	1
+新屋台	xin wu tai	1
+新屋头	xin wu tou	1
+新屋图	xin wu tu	1
+新屋下	xin wu xia	1
+新屋仔	xin wu zai	1
+新屋子	xin wu zi	1
+新溪	xin xi	1
+新下塘	xin xia tang	1
+鑫鑫酒楼	xin xin jiu lou	1
+新星幼儿园	xin xing you er yuan	1
+新秀里	xin xiu li	1
+新旭村	xin xu cun	1
+新窑	xin yao	1
+新窑村	xin yao cun	1
+新一佳	xin yi jia	1
+馨园宾馆	xin yuan bin guan	1
+心愿家纺	xin yuan jia fang	1
+鑫源酒业	xin yuan jiu ye	1
+新园里	xin yuan li	1
+鑫源招待所	xin yuan zhao dai suo	1
+新寨	xin zhai	1
+新洲乡	xin zhou xiang	1
+新庄	xin zhuang	1
+新庄村	xin zhuang cun	1
+新庄上	xin zhuang shang	1
+兴安村	xing an cun	1
+行村	xing cun	1
+星村	xing cun	1
+杏村	xing cun	1
+兴达加油站	xing da jia you zhan	1
+兴洞	xing dong	1
+兴洞村	xing dong cun	1
+幸福村	xing fu cun	1
+幸福家园小区	xing fu jia yuan xiao qu	1
+星光园	xing guang yuan	1
+星红村	xing hong cun	1
+兴华汽修	xing hua qi xiu	1
+兴华市场	xing hua shi chang	1
+星火村	xing huo cun	1
+行廊镇	xing lang zhen	1
+杏林春大药房	xing lin chun da yao fang	1
+兴隆大酒店	xing long da jiu dian	1
+兴隆街	xing long jie	1
+型男淑女	xing nan shu nv	1
+兴宁镇	xing ning zhen	1
+醒狮村	xing shi cun	1
+兴塘	xing tang	1
+星堂	xing tang	1
+兴塘村	xing tang cun	1
+星塘村	xing tang cun	1
+兴园	xing yuan	1
+兴中大厦	xing zhong da sha	1
+杏子山	xing zi shan	1
+熊古	xiong gu	1
+雄家	xiong jia	1
+熊家	xiong jia	1
+熊家湾	xiong jia wan	1
+雄屋	xiong wu	1
+秀里村	xiu li cun	1
+秀丽山	xiu li shan	1
+秀岭	xiu ling	1
+秀流公园	xiu liu gong yuan	1
+秀山	xiu shan	1
+秀水	xiu shui	1
+秀水村	xiu shui cun	1
+秀水亭	xiu shui ting	1
+秀溪村	xiu xi cun	1
+秀竹	xiu zhu	1
+徐洞	xu dong	1
+徐洞村	xu dong cun	1
+许古	xu gu	1
+旭辉公司	xu hui gong si	1
+许家	xu jia	1
+徐家	xu jia	1
+许家坳	xu jia ao	1
+许家冲	xu jia chong	1
+徐家冲	xu jia chong	1
+许家村	xu jia cun	1
+徐家村	xu jia cun	1
+许家洞	xu jia dong	1
+许家洞镇	xu jia dong zhen	1
+许家坊	xu jia fang	1
+许家垄	xu jia long	1
+许家垅	xu jia long	1
+许家山	xu jia shan	1
+许家湾	xu jia wan	1
+许山	xu shan	1
+选垄	xuan long	1
+漩水湾	xuan shui wan	1
+玄屋	xuan wu	1
+宣溪	xuan xi	1
+雪歌	xue ge	1
+雪花皮	xue hua pi	1
+雪花坪	xue hua ping	1
+薛家	xue jia	1
+薛家塘	xue jia tang	1
+薛家窝	xue jia wo	1
+雪岭山	xue ling shan	1
+雪山头	xue shan tou	1
+学堂埂	xue tang geng	1
+学堂里	xue tang li	1
+学堂排	xue tang pai	1
+学堂前	xue tang qian	1
+学堂湾	xue tang wan	1
+学田里	xue tian li	1
+学校背	xue xiao bei	1
+雅安苑	ya an yuan	1
+雅贝菲斯	ya bei fei si	1
+鸭池塘	ya chi tang	1
+雅芳	ya fang	1
+雅芳婷	ya fang ting	1
+雅戈尔	ya ge er	1
+鸭公头	ya gong tou	1
+鸭湖	ya hu	1
+丫江	ya jiang	1
+雅江村	ya jiang cun	1
+崖口	ya kou	1
+丫里	ya li	1
+雅里村	ya li cun	1
+娅丽达	ya li da	1
+鸭铺	ya pu	1
+鸦鹊冲	ya que chong	1
+鸦鹊村	ya que cun	1
+雅塘	ya tang	1
+鸭塘	ya tang	1
+丫塘	ya tang	1
+丫头山	ya tou shan	1
+丫头羊	ya tou yang	1
+丫溪	ya xi	1
+雅苑酒店	ya yuan jiu dian	1
+鸭子岭	ya zi ling	1
+鸭子水	ya zi shui	1
+岩背	yan bei	1
+烟厂	yan chang	1
+岩冲	yan chong	1
+燕冲	yan chong	1
+烟村	yan cun	1
+烟地坪	yan di ping	1
+燕洞	yan dong	1
+燕坊	yan fang	1
+颜古	yan gu	1
+沿河村	yan he cun	1
+阎家	yan jia	1
+颜家	yan jia	1
+严家	yan jia	1
+晏家	yan jia	1
+鄢家冲	yan jia chong	1
+颜家冲	yan jia chong	1
+颜家村	yan jia cun	1
+颜家岭	yan jia ling	1
+严家岭	yan jia ling	1
+颜家湾	yan jia wan	1
+沿江村	yan jiang cun	1
+岩脚	yan jiao	1
+岩口	yan kou	1
+岩口村	yan kou cun	1
+烟里	yan li	1
+岩岭村	yan ling cun	1
+岩龙村	yan long cun	1
+岩门口	yan men kou	1
+燕南花园	yan nan hua yuan	1
+烟坪乡	yan ping xiang	1
+岩前	yan qian	1
+盐丘	yan qiu	1
+岩泉	yan quan	1
+燕泉广场	yan quan guang chang	1
+燕泉花园	yan quan hua yuan	1
+燕泉路	yan quan lu	1
+燕泉路口	yan quan lu kou	1
+岩泉镇	yan quan zhen	1
+燕山	yan shan	1
+燕山村	yan shan cun	1
+燕山下	yan shan xia	1
+堰上	yan shang	1
+岩上	yan shang	1
+盐石沙	yan shi sha	1
+延寿瑶族乡	yan shou yao zu xiang	1
+沿滩	yan tan	1
+盐坦	yan tan	1
+沿滩村	yan tan cun	1
+颜唐	yan tang	1
+严塘	yan tang	1
+岩塘	yan tang	1
+淹塘	yan tang	1
+烟塘	yan tang	1
+盐塘	yan tang	1
+烟塘村	yan tang cun	1
+盐塘村	yan tang cun	1
+燕塘乡	yan tang xiang	1
+岩头	yan tou	1
+岩头岭	yan tou ling	1
+岩头上	yan tou shang	1
+燕尾村	yan wei cun	1
+烟窝	yan wo	1
+燕窝村	yan wo cun	1
+燕窝里	yan wo li	1
+沿溪	yan xi	1
+燕溪村	yan xi cun	1
+堰下	yan xia	1
+岩下	yan xia	1
+岩下村	yan xia cun	1
+严形	yan xing	1
+燕园	yan yuan	1
+烟竹	yan zhu	1
+烟竹村	yan zhu cun	1
+烟竹塘	yan zhu tang	1
+燕子背	yan zi bei	1
+燕子冲	yan zi chong	1
+燕子河	yan zi he	1
+燕子排	yan zi pai	1
+燕子坪	yan zi ping	1
+燕子山	yan zi shan	1
+燕子窝	yan zi wo	1
+燕子岩	yan zi yan	1
+杨边	yang bian	1
+杨车	yang che	1
+杨冲	yang chong	1
+洋冲	yang chong	1
+羊冲	yang chong	1
+阳春宾馆	yang chun bin guan	1
+秧地头	yang di tou	1
+杨福洲	yang fu zhou	1
+杨公井	yang gong jing	1
+阳古	yang gu	1
+杨古	yang gu	1
+羊古岭	yang gu ling	1
+羊牯岭	yang gu ling	1
+羊古脑	yang gu nao	1
+阳光超市	yang guang chao shi	1
+阳光大药房	yang guang da yao fang	1
+阳光电子	yang guang dian zi	1
+阳光小区	yang guang xiao qu	1
+羊合冲	yang he chong	1
+洋河村	yang he cun	1
+杨湖村	yang hu cun	1
+阳际	yang ji	1
+杨基塘	yang ji tang	1
+洋际乡	yang ji xiang	1
+阳家	yang jia	1
+仰家	yang jia	1
+杨家	yang jia	1
+杨家坳	yang jia ao	1
+杨家板	yang jia ban	1
+杨家卜	yang jia bu	1
+杨家冲	yang jia chong	1
+阳家村	yang jia cun	1
+杨家村	yang jia cun	1
+杨家洞	yang jia dong	1
+杨家洞村	yang jia dong cun	1
+杨家坊	yang jia fang	1
+杨家坑	yang jia keng	1
+杨家岭	yang jia ling	1
+杨家垄	yang jia long	1
+杨家垅	yang jia long	1
+杨家门口	yang jia men kou	1
+杨家排	yang jia pai	1
+杨家坪	yang jia ping	1
+杨家坪上	yang jia ping shang	1
+杨家坡	yang jia po	1
+杨家山	yang jia shan	1
+杨家坦	yang jia tan	1
+杨家塘	yang jia tang	1
+杨家田	yang jia tian	1
+杨家塆	yang jia wan	1
+杨家湾	yang jia wan	1
+杨家屋场	yang jia wu chang	1
+杨家寨	yang jia zhai	1
+羊角冲	yang jiao chong	1
+羊角村	yang jiao cun	1
+羊角脑	yang jiao nao	1
+羊角山	yang jiao shan	1
+羊角石	yang jiao shi	1
+羊角滩	yang jiao tan	1
+羊角湾	yang jiao wan	1
+羊角仙	yang jiao xian	1
+洋井	yang jing	1
+样口	yang kou	1
+样里	yang li	1
+杨林	yang lin	1
+杨林村	yang lin cun	1
+杨岭	yang ling	1
+羊岭	yang ling	1
+杨岭村	yang ling cun	1
+杨柳冲	yang liu chong	1
+杨柳村	yang liu cun	1
+杨柳凤	yang liu feng	1
+杨柳井	yang liu jing	1
+杨柳坪	yang liu ping	1
+杨柳铺	yang liu pu	1
+杨柳水	yang liu shui	1
+杨柳塘	yang liu tang	1
+杨柳田	yang liu tian	1
+杨柳湾	yang liu wan	1
+杨柳下	yang liu xia	1
+杨垅	yang long	1
+养路段	yang lu duan	1
+杨梅坳	yang mei ao	1
+杨梅冲	yang mei chong	1
+杨梅村	yang mei cun	1
+杨梅干	yang mei gan	1
+杨梅岗	yang mei gang	1
+杨梅江	yang mei jiang	1
+杨梅坑	yang mei keng	1
+杨梅岭	yang mei ling	1
+杨梅垄	yang mei long	1
+杨梅垅	yang mei long	1
+杨梅坪	yang mei ping	1
+杨梅山	yang mei shan	1
+杨梅山村	yang mei shan cun	1
+杨梅山镇	yang mei shan zhen	1
+杨梅树下	yang mei shu xia	1
+杨梅滩	yang mei tan	1
+杨梅塘	yang mei tang	1
+杨梅头	yang mei tou	1
+杨梅湾	yang mei wan	1
+杨梅窝	yang mei wo	1
+杨梅溪	yang mei xi	1
+洋门口	yang men kou	1
+杨木塘	yang mu tang	1
+羊脑乡	yang nao xiang	1
+杨坪	yang ping	1
+羊群里	yang qun li	1
+阳山	yang shan	1
+杨山	yang shan	1
+阳山村	yang shan cun	1
+羊山头	yang shan tou	1
+洋市镇	yang shi zhen	1
+杨树村	yang shu cun	1
+杨树塘	yang shu tang	1
+阳泗	yang si	1
+洋塘	yang tang	1
+秧塘	yang tang	1
+羊塘	yang tang	1
+洋塘村	yang tang cun	1
+秧塘村	yang tang cun	1
+杨塘下	yang tang xia	1
+洋塘乡	yang tang xiang	1
+秧田村	yang tian cun	1
+秧田埂	yang tian geng	1
+仰天湖	yang tian hu	1
+秧田坑	yang tian keng	1
+秧田里	yang tian li	1
+秧田湾	yang tian wan	1
+仰天窝	yang tian wo	1
+杨头村	yang tou cun	1
+羊头岭	yang tou ling	1
+阳湾村	yang wan cun	1
+羊坞	yang wu	1
+杨武村	yang wu cun	1
+洋五六	yang wu liu	1
+杨下	yang xia	1
+洋下	yang xia	1
+阳小	yang xiao	1
+阳星村	yang xing cun	1
+羊兴村	yang xing cun	1
+养鸭塘	yang ya tang	1
+阳阳超市	yang yang chao shi	1
+洋洋前	yang yang qian	1
+杨裕兴	yang yu xing	1
+养殖场	yang zhi chang	1
+杨子梅	yang zi mei	1
+窑背岭	yao bei ling	1
+窑边	yao bian	1
+窑厂	yao chang	1
+窑厂里	yao chang li	1
+瑶池上	yao chi shang	1
+窑冲	yao chong	1
+尧丰村	yao feng cun	1
+瑶岗仙	yao gang xian	1
+瑶岗仙钨矿	yao gang xian wu kuang	1
+瑶岗仙镇	yao gang xian zhen	1
+姚家	yao jia	1
+尧家	yao jia	1
+姚家村	yao jia cun	1
+瑶家岭	yao jia ling	1
+窑里	yao li	1
+摇钱	yao qian	1
+窑前	yao qian	1
+瑶泉村	yao quan cun	1
+爻山	yao shan	1
+瑶山	yao shan	1
+瑶山的	yao shan de	1
+尧山里	yao shan li	1
+瑶山里	yao shan li	1
+窑上	yao shang	1
+窑上村	yao shang cun	1
+腰塘	yao tang	1
+尧田	yao tian	1
+窑头	yao tou	1
+窑头下	yao tou xia	1
+瑶湾	yao wan	1
+腰窝	yao wo	1
+瑶溪村	yao xi cun	1
+爻下	yao xia	1
+腰仔	yao zai	1
+腰子形	yao zi xing	1
+瑶族村	yao zu cun	1
+叶冲	ye chong	1
+野鹅塘	ye e tang	1
+野鸡冲	ye ji chong	1
+野鸡公	ye ji gong	1
+野鸡家	ye ji jia	1
+野鸡岭	ye ji ling	1
+野鸡坪	ye ji ping	1
+野鸡铺	ye ji pu	1
+野鸡山	ye ji shan	1
+野鸡窝	ye ji wo	1
+叶家	ye jia	1
+叶家湾	ye jia wan	1
+冶金宾馆	ye jin bin guan	1
+冶金院	ye jin yuan	1
+业里	ye li	1
+叶垄	ye long	1
+野鹿村	ye lu cun	1
+野猫窝	ye mao wo	1
+野牛洞	ye niu dong	1
+野牛山	ye niu shan	1
+叶窝	ye wo	1
+野屋	ye wu	1
+叶屋	ye wu	1
+野鸭塘	ye ya tang	1
+业之峰装饰	ye zhi feng zhuang shi	1
+野猪冲	ye zhu chong	1
+野猪湖	ye zhu hu	1
+野猪窝	ye zhu wo	1
+一把伞	yi ba san	1
+艺邦装饰	yi bang zhuang shi	1
+依冲	yi chong	1
+易冲	yi chong	1
+以纯	yi chun	1
+义帝陵	yi di ling	1
+颐而康	yi er kang	1
+意尔康	yi er kang	1
+颐豪福邸	yi hao fu di	1
+怡和宾馆	yi he bin guan	1
+义和村	yi he cun	1
+乙甲	yi jia	1
+易家	yi jia	1
+易家冲	yi jia chong	1
+易家村	yi jia cun	1
+一家食府	yi jia shi fu	1
+益将乡	yi jiang xiang	1
+益康大药房	yi kang da yao fang	1
+宜康医院	yi kang yi yuan	1
+伊蕾名店	yi lei ming dian	1
+一零七国道	yi ling qi guo dao	1
+一六镇	yi liu zhen	1
+益明超市	yi ming chao shi	1
+一塘	yi tang	1
+宜塘	yi tang	1
+椅形	yi xing	1
+宜兴桥	yi xing qiao	1
+宜阳村	yi yang cun	1
+依衣人	yi yi ren	1
+宜章八中	yi zhang ba zhong	1
+宜章七中	yi zhang qi zhong	1
+宜章四中	yi zhang si zhong	1
+宜章县	yi zhang xian	1
+宜章县公安局	yi zhang xian gong an ju	1
+宜章县水利局	yi zhang xian shui li ju	1
+椅子冲	yi zi chong	1
+银都大酒店	yin du da jiu dian	1
+银都花园	yin du hua yuan	1
+阴风亭	yin feng ting	1
+银岗岭	yin gang ling	1
+尹古	yin gu	1
+银光大厦	yin guang da sha	1
+尹郭村	yin guo cun	1
+银河乡	yin he xiang	1
+尹家	yin jia	1
+殷家边	yin jia bian	1
+尹家冲	yin jia chong	1
+尹家村	yin jia cun	1
+银坑	yin keng	1
+银坑村	yin keng cun	1
+银孔	yin kong	1
+阴山村	yin shan cun	1
+银塘	yin tang	1
+阴塘	yin tang	1
+音塘	yin tang	1
+印头	yin tou	1
+银星大酒店	yin xing da jiu dian	1
+印子屋	yin zi wu	1
+迎宾饭店	ying bin fan dian	1
+迎春镇	ying chun zhen	1
+迎春镇政府	ying chun zhen zheng fu	1
+鹰峰	ying feng	1
+樱花婚纱	ying hua hun sha	1
+营坪	ying ping	1
+营桥	ying qiao	1
+营上	ying shang	1
+英塘	ying tang	1
+盈田	ying tian	1
+硬田	ying tian	1
+营头	ying tou	1
+应学	ying xue	1
+永安村	yong an cun	1
+永安加油站	yong an jia you zhan	1
+永春乡	yong chun xiang	1
+永发加油站	yong fa jia you zhan	1
+永丰	yong feng	1
+永丰店	yong feng dian	1
+永丰乡	yong feng xiang	1
+永丰乡政府	yong feng xiang zheng fu	1
+永丰中心校	yong feng zhong xin xiao	1
+永和美食城	yong he mei shi cheng	1
+永华村	yong hua cun	1
+永康大药房	yong kang da yao fang	1
+用口	yong kou	1
+用口村	yong kou cun	1
+永乐村	yong le cun	1
+永乐大酒店	yong le da jiu dian	1
+永乐江	yong le jiang	1
+永乐江超市	yong le jiang chao shi	1
+永利村	yong li cun	1
+永联村	yong lian cun	1
+永平	yong ping	1
+涌泉坝	yong quan ba	1
+涌泉小区	yong quan xiao qu	1
+涌水村	yong shui cun	1
+永兴宾馆	yong xing bin guan	1
+永兴电大	yong xing dian da	1
+永兴二中	yong xing er zhong	1
+永兴工业园	yong xing gong ye yuan	1
+永兴汽车站	yong xing qi che zhan	1
+永兴五中	yong xing wu zhong	1
+永兴县	yong xing xian	1
+永兴县财政局	yong xing xian cai zheng ju	1
+永兴县公安局	yong xing xian gong an ju	1
+永兴县政府	yong xing xian zheng fu	1
+永远山	yong yuan shan	1
+油菜冲	you cai chong	1
+油菜坪	you cai ping	1
+油菜湾	you cai wan	1
+油菜园	you cai yuan	1
+油槽	you cao	1
+油槽里	you cao li	1
+油冲	you chong	1
+友好村	you hao cun	1
+游家	you jia	1
+油井村	you jing cun	1
+游龙村	you long cun	1
+油麻冲	you ma chong	1
+油麻村	you ma cun	1
+油麻田	you ma tian	1
+油麻乡	you ma xiang	1
+友坪	you ping	1
+油铺	you pu	1
+油山	you shan	1
+油山村	you shan cun	1
+油市镇	you shi zhen	1
+油塘村	you tang cun	1
+油屋	you wu	1
+油行村	you xing cun	1
+友谊中皇城	you yi zhong huang cheng	1
+油榨	you zha	1
+油榨冲	you zha chong	1
+油榨坑	you zha keng	1
+油榨坪	you zha ping	1
+油榨头	you zha tou	1
+油榨湾	you zha wan	1
+油榨屋	you zha wu	1
+油榨下	you zha xia	1
+邮政储蓄所	you zheng chu xu suo	1
+油竹山	you zhu shan	1
+油子塘	you zi tang	1
+于背	yu bei	1
+育才村	yu cai cun	1
+育才幼儿园	yu cai you er yuan	1
+渔场村	yu chang cun	1
+鱼池头	yu chi tou	1
+玉洞	yu dong	1
+玉洞村	yu dong cun	1
+于古	yu gu	1
+余家	yu jia	1
+喻家	yu jia	1
+玉家	yu jia	1
+余家坳	yu jia ao	1
+余家村	yu jia cun	1
+余家湾	yu jia wan	1
+喻家寨	yu jia zhai	1
+御璟城市花园	yu jing cheng shi hua yuan	1
+玉坑	yu keng	1
+玉兰村	yu lan cun	1
+与狼共舞	yu lang gong wu	1
+育林村	yu lin cun	1
+玉美村	yu mei cun	1
+禹门村	yu men cun	1
+玉米园	yu mi yuan	1
+育苗幼儿园	yu miao you er yuan	1
+玉屏村	yu ping cun	1
+玉泉村	yu quan cun	1
+御泉大酒店	yu quan da jiu dian	1
+玉泉湾	yu quan wan	1
+雨山	yu shan	1
+鱼山	yu shan	1
+玉石村	yu shi cun	1
+御食坊	yu shi fang	1
+玉石岭	yu shi ling	1
+榆树岭	yu shu ling	1
+雨水冲	yu shui chong	1
+雨水停	yu shui ting	1
+雨塘	yu tang	1
+鱼塘	yu tang	1
+余田乡	yu tian xiang	1
+鱼跳	yu tiao	1
+宇通驾校	yu tong jia xiao	1
+芋头冲	yu tou chong	1
+芋头湾	yu tou wan	1
+芋头窝	yu tou wo	1
+鱼王村	yu wang cun	1
+渔溪村	yu xi cun	1
+玉溪桥	yu xi qiao	1
+御仙宫	yu xian gong	1
+裕新	yu xin	1
+雨兴	yu xing	1
+鱼形	yu xing	1
+玉占	yu zhan	1
+鱼子坑	yu zi keng	1
+园背	yuan bei	1
+元村	yuan cun	1
+远大宾馆	yuan da bin guan	1
+源洞	yuan dong	1
+圆墩	yuan dun	1
+源发	yuan fa	1
+元福楼	yuan fu lou	1
+远光村	yuan guang cun	1
+袁家	yuan jia	1
+园家	yuan jia	1
+袁家边	yuan jia bian	1
+袁家村	yuan jia cun	1
+袁家桥	yuan jia qiao	1
+袁家山	yuan jia shan	1
+袁家湾	yuan jia wan	1
+袁家镇	yuan jia zhen	1
+元界	yuan jie	1
+园界	yuan jie	1
+元里	yuan li	1
+元里村	yuan li cun	1
+园里村	yuan li cun	1
+元林村	yuan lin cun	1
+园门口	yuan men kou	1
+元木村	yuan mu cun	1
+袁木山	yuan mu shan	1
+圆坪	yuan ping	1
+元山	yuan shan	1
+元山村	yuan shan cun	1
+源山村	yuan shan cun	1
+园山里	yuan shan li	1
+元山下	yuan shan xia	1
+源山庄	yuan shan zhuang	1
+沅潭	yuan tan	1
+袁塘	yuan tang	1
+源塘村	yuan tang cun	1
+元田	yuan tian	1
+源头村	yuan tou cun	1
+源尾	yuan wei	1
+袁屋	yuan wu	1
+元下	yuan xia	1
+源下	yuan xia	1
+源兴村	yuan xing cun	1
+园艺场村	yuan yi chang cun	1
+沅洲	yuan zhou	1
+元庄村	yuan zhuang cun	1
+月池村	yue chi cun	1
+月峰村	yue feng cun	1
+月光塘	yue guang tang	1
+悦来乡	yue lai xiang	1
+月亮塘	yue liang tang	1
+月岭	yue ling	1
+月岭下	yue ling xia	1
+月梅村	yue mei cun	1
+岳桥村	yue qiao cun	1
+月塘	yue tang	1
+月塘村	yue tang cun	1
+月形	yue xing	1
+月形湾	yue xing wan	1
+云伴	yun ban	1
+云里	yun li	1
+云里村	yun li cun	1
+云岭	yun ling	1
+云龙大酒店	yun long da jiu dian	1
+云南冲	yun nan chong	1
+云南普洱	yun nan pu er	1
+云善	yun shan	1
+云山	yun shan	1
+云头岭	yun tou ling	1
+赞门	zan men	1
+早禾冲	zao he chong	1
+早禾洞	zao he dong	1
+早禾坑	zao he keng	1
+早禾排	zao he pai	1
+早禾塘	zao he tang	1
+早禾田	zao he tian	1
+皂角	zao jiao	1
+皂角村	zao jiao cun	1
+皂角树	zao jiao shu	1
+皂角树下	zao jiao shu xia	1
+皂角湾	zao jiao wan	1
+枣林村	zao lin cun	1
+灶门前	zao men qian	1
+枣树下	zao shu xia	1
+枣子村	zao zi cun	1
+枣子坪	zao zi ping	1
+枣子树下	zao zi shu xia	1
+枣子园	zao zi yuan	1
+则上	ze shang	1
+泽溪	ze xi	1
+增冲	zeng chong	1
+增湖	zeng hu	1
+增湖村	zeng hu cun	1
+曾家	zeng jia	1
+曾家冲	zeng jia chong	1
+曾家村	zeng jia cun	1
+曾家洞	zeng jia dong	1
+曾家坊	zeng jia fang	1
+曾家咀	zeng jia ju	1
+曾家岭	zeng jia ling	1
+曾家坪	zeng jia ping	1
+曾家山	zeng jia shan	1
+曾家湾	zeng jia wan	1
+增口乡	zeng kou xiang	1
+增浪	zeng lang	1
+增源	zeng yuan	1
+渣龙	zha long	1
+榨木冲	zha mu chong	1
+渣湾	zha wan	1
+寨背	zhai bei	1
+寨冲	zhai chong	1
+斋公坑	zhai gong keng	1
+斋公岭	zhai gong ling	1
+斋公山	zhai gong shan	1
+斋公塘	zhai gong tang	1
+寨脚	zhai jiao	1
+寨角	zhai jiao	1
+寨脚村	zhai jiao cun	1
+寨脚下	zhai jiao xia	1
+寨岭	zhai ling	1
+寨脑	zhai nao	1
+寨皮	zhai pi	1
+寨坪	zhai ping	1
+寨坪村	zhai ping cun	1
+寨前乡	zhai qian xiang	1
+寨山	zhai shan	1
+寨上	zhai shang	1
+寨上村	zhai shang cun	1
+寨塘	zhai tang	1
+寨头	zhai tou	1
+寨屋	zhai wu	1
+寨溪	zhai xi	1
+寨下	zhai xia	1
+寨下村	zhai xia cun	1
+寨子背	zhai zi bei	1
+寨子岭	zhai zi ling	1
+寨子头	zhai zi tou	1
+寨子下	zhai zi xia	1
+詹家	zhan jia	1
+占家冲	zhan jia chong	1
+站林	zhan lin	1
+张冲	zhang chong	1
+樟冲	zhang chong	1
+樟村	zhang cun	1
+张得生	zhang de sheng	1
+樟洞	zhang dong	1
+张弓岭	zhang gong ling	1
+张古	zhang gu	1
+张古村	zhang gu cun	1
+樟涵村	zhang han cun	1
+张禾田	zhang he tian	1
+张家	zhang jia	1
+张家坳	zhang jia ao	1
+张家厂	zhang jia chang	1
+张家冲	zhang jia chong	1
+张家冲村	zhang jia chong cun	1
+张家村	zhang jia cun	1
+张家洞	zhang jia dong	1
+张家坊	zhang jia fang	1
+张家坟	zhang jia fen	1
+张家里	zhang jia li	1
+张家岭	zhang jia ling	1
+张家垅	zhang jia long	1
+张家门	zhang jia men	1
+张家排	zhang jia pai	1
+张家坪	zhang jia ping	1
+张家坪村	zhang jia ping cun	1
+张家铺	zhang jia pu	1
+张家山	zhang jia shan	1
+张家山里	zhang jia shan li	1
+张家塘	zhang jia tang	1
+张家田	zhang jia tian	1
+张家头	zhang jia tou	1
+张家塆	zhang jia wan	1
+张家湾	zhang jia wan	1
+张家湾村	zhang jia wan cun	1
+张家湾里	zhang jia wan li	1
+张家窝	zhang jia wo	1
+张家屋场	zhang jia wu chang	1
+张家巷	zhang jia xiang	1
+张家斜	zhang jia xie	1
+张家圩	zhang jia xu	1
+张家应	zhang jia ying	1
+张老屋	zhang lao wu	1
+章美	zhang mei	1
+樟门塘村	zhang men tang cun	1
+樟木	zhang mu	1
+樟木村	zhang mu cun	1
+樟木坑	zhang mu keng	1
+樟木坪	zhang mu ping	1
+樟木山	zhang mu shan	1
+樟木塘	zhang mu tang	1
+樟木乡	zhang mu xiang	1
+樟桥	zhang qiao	1
+樟桥村	zhang qiao cun	1
+章山村	zhang shan cun	1
+樟市镇	zhang shi zhen	1
+樟市中学	zhang shi zhong xue	1
+樟树洞	zhang shu dong	1
+樟树脚	zhang shu jiao	1
+樟树坑	zhang shu keng	1
+樟树垄	zhang shu long	1
+樟树垅	zhang shu long	1
+樟树坪	zhang shu ping	1
+樟树湾	zhang shu wan	1
+樟树下	zhang shu xia	1
+樟树乡	zhang shu xiang	1
+樟树中学	zhang shu zhong xue	1
+樟田村	zhang tian cun	1
+张网	zhang wang	1
+张伍	zhang wu	1
+张屋	zhang wu	1
+漳溪村	zhang xi cun	1
+赵古	zhao gu	1
+赵家	zhao jia	1
+赵家村	zhao jia cun	1
+赵家堆	zhao jia dui	1
+赵家岭	zhao jia ling	1
+赵家下	zhao jia xia	1
+照面	zhao mian	1
+招商广场	zhao shang guang chang	1
+朝阳庵	zhao yang an	1
+朝阳村	zhao yang cun	1
+朝阳中学	zhao yang zhong xue	1
+赵源	zhao yuan	1
+赵源村	zhao yuan cun	1
+鹧鸪洞	zhe gu dong	1
+鹧鸪岭	zhe gu ling	1
+浙江	zhe jiang	1
+柘木村	zhe mu cun	1
+振华小学	zhen hua xiao xue	1
+圳口	zhen kou	1
+镇南村	zhen nan cun	1
+镇南乡	zhen nan xiang	1
+圳上	zhen shang	1
+圳上村	zhen shang cun	1
+镇水泥厂	zhen shui ni chang	1
+圳头	zhen tou	1
+圳头村	zhen tou cun	1
+圳下	zhen xia	1
+镇兴村	zhen xing cun	1
+振兴酒楼	zhen xing jiu lou	1
+镇中心学校	zhen zhong xin xue xiao	1
+珍珠山	zhen zhu shan	1
+珍珠岩	zhen zhu yan	1
+正冲	zheng chong	1
+正洞	zheng dong	1
+正和乡	zheng he xiang	1
+郑家	zheng jia	1
+郑家湾	zheng jia wan	1
+正立	zheng li	1
+正垅	zheng long	1
+整齐里	zheng qi li	1
+正清和	zheng qing he	1
+郑屋	zheng wu	1
+正义村	zheng yi cun	1
+正源	zheng yuan	1
+正源村	zheng yuan cun	1
+正云	zheng yun	1
+纸厂	zhi chang	1
+纸厂的	zhi chang de	1
+纸厂里	zhi chang li	1
+治都	zhi dou	1
+直河	zhi he	1
+梽木山	zhi mu shan	1
+指南山	zhi nan shan	1
+致盛木门	zhi sheng mu men	1
+治塘	zhi tang	1
+直溪	zhi xi	1
+职中	zhi zhong	1
+蜘蛛坑	zhi zhu keng	1
+中茶园	zhong cha yuan	1
+中陈	zhong chen	1
+中洞	zhong dong	1
+中洞村	zhong dong cun	1
+中洞里	zhong dong li	1
+中埂	zhong geng	1
+钟鼓石	zhong gu shi	1
+中广南	zhong guang nan	1
+中国城夜总会	zhong guo cheng ye zong hui	1
+中行北湖支行	zhong hang bei hu zhi hang	1
+中行文化路支行	zhong hang wen hua lu zhi hang	1
+中何	zhong he	1
+中和村	zhong he cun	1
+忠和村	zhong he cun	1
+中湖	zhong hu	1
+中华山	zhong hua shan	1
+中伙铺	zhong huo pu	1
+中级人民法院	zhong ji ren min fa yuan	1
+钟家	zhong jia	1
+中家	zhong jia	1
+钟家冲	zhong jia chong	1
+钟家祠堂	zhong jia ci tang	1
+钟家村	zhong jia cun	1
+钟家岭	zhong jia ling	1
+钟家湾	zhong jia wan	1
+钟家小学	zhong jia xiao xue	1
+中间冲	zhong jian chong	1
+中间坑	zhong jian keng	1
+中间铺	zhong jian pu	1
+中间湾	zhong jian wan	1
+中坑	zhong keng	1
+中坑村	zhong keng cun	1
+中乐	zhong le	1
+忠良村	zhong liang cun	1
+中寮	zhong liao	1
+肿瘤医院	zhong liu yi yuan	1
+中垄	zhong long	1
+中欧村	zhong ou cun	1
+中棚	zhong peng	1
+中坪村	zhong ping cun	1
+中铺子	zhong pu zi	1
+中其	zhong qi	1
+中桥	zhong qiao	1
+中清江	zhong qing jiang	1
+中山	zhong shan	1
+中山里	zhong shan li	1
+中山岭	zhong shan ling	1
+中山田	zhong shan tian	1
+中山亭	zhong shan ting	1
+中市	zhong shi	1
+钟水乡	zhong shui xiang	1
+中唐	zhong tang	1
+中塘	zhong tang	1
+中塘村	zhong tang cun	1
+中田村	zhong tian cun	1
+中天大厦	zhong tian da sha	1
+中铁五局五公司	zhong tie wu ju wu gong si	1
+中塆	zhong wan	1
+中湾	zhong wan	1
+中屋	zhong wu	1
+中心村	zhong xin cun	1
+中心洞	zhong xin dong	1
+中心加油站	zhong xin jia you zhan	1
+中心坑	zhong xin keng	1
+中信旅行社	zhong xin lv xing she	1
+中心药店	zhong xin yao dian	1
+钟形	zhong xing	1
+中形	zhong xing	1
+中兴信用社	zhong xing xin yong she	1
+中央头	zhong yang tou	1
+钟寨	zhong zhai	1
+周德佑	zhou de you	1
+周古	zhou gu	1
+周家	zhou jia	1
+周家坳	zhou jia ao	1
+周家冲	zhou jia chong	1
+周家村	zhou jia cun	1
+周家洞	zhou jia dong	1
+周家坑	zhou jia keng	1
+周家岭	zhou jia ling	1
+周家垅	zhou jia long	1
+周家坪	zhou jia ping	1
+周家山	zhou jia shan	1
+周家生	zhou jia sheng	1
+周家水	zhou jia shui	1
+周家坦	zhou jia tan	1
+周家塘	zhou jia tang	1
+周家田	zhou jia tian	1
+周家湾	zhou jia wan	1
+周家湾村	zhou jia wan cun	1
+周家屋	zhou jia wu	1
+周家屋场	zhou jia wu chang	1
+周家小学	zhou jia xiao xue	1
+周家园	zhou jia yuan	1
+周家庄	zhou jia zhuang	1
+周江村	zhou jiang cun	1
+周立冲	zhou li chong	1
+州门司镇	zhou men si zhen	1
+周山下	zhou shan xia	1
+洲上	zhou shang	1
+洲上湾	zhou shang wan	1
+周台	zhou tai	1
+周台村	zhou tai cun	1
+周塘	zhou tang	1
+周塘村	zhou tang cun	1
+洲田	zhou tian	1
+舟头	zhou tou	1
+粥王店	zhou wang dian	1
+竹把	zhu ba	1
+竹背	zhu bei	1
+猪场上	zhu chang shang	1
+朱冲	zhu chong	1
+竹冲	zhu chong	1
+珠洞	zhu dong	1
+竹洞	zhu dong	1
+竹洞村	zhu dong cun	1
+珠堆村	zhu dui cun	1
+竹芳园	zhu fang yuan	1
+朱古	zhu gu	1
+珠光金行	zhu guang jin hang	1
+诸广山	zhu guang shan	1
+朱家	zhu jia	1
+祝家	zhu jia	1
+朱家凹	zhu jia ao	1
+朱家坳	zhu jia ao	1
+朱家冲	zhu jia chong	1
+朱家村	zhu jia cun	1
+朱家洞	zhu jia dong	1
+朱家坊	zhu jia fang	1
+朱家垅	zhu jia long	1
+朱家庙	zhu jia miao	1
+朱家排	zhu jia pai	1
+朱家坪	zhu jia ping	1
+朱家山	zhu jia shan	1
+朱家塘	zhu jia tang	1
+朱家田	zhu jia tian	1
+朱家塆	zhu jia wan	1
+朱家湾	zhu jia wan	1
+朱家湾村	zhu jia wan cun	1
+竹枧水	zhu jian shui	1
+竹枧水村	zhu jian shui cun	1
+竹江	zhu jiang	1
+珠江加油站	zhu jiang jia you zhan	1
+珠江桥	zhu jiang qiao	1
+竹坑	zhu keng	1
+竹坑村	zhu keng cun	1
+朱李村	zhu li cun	1
+竹里村	zhu li cun	1
+竹林	zhu lin	1
+竹岭村	zhu ling cun	1
+筑路机械厂	zhu lu ji xie chang	1
+朱美村	zhu mei cun	1
+株木	zhu mu	1
+株木村	zhu mu cun	1
+竹木检查站	zhu mu jian cha zhan	1
+株木山	zhu mu shan	1
+竹坪	zhu ping	1
+竹坪村	zhu ping cun	1
+珠砂	zhu sha	1
+朱砂塘	zhu sha tang	1
+竹山	zhu shan	1
+竹山坳	zhu shan ao	1
+竹山背	zhu shan bei	1
+竹山冲	zhu shan chong	1
+竹山村	zhu shan cun	1
+竹山里	zhu shan li	1
+竹山坪	zhu shan ping	1
+竹山上	zhu shan shang	1
+竹山水	zhu shan shui	1
+竹山塘	zhu shan tang	1
+竹山头	zhu shan tou	1
+竹山湾	zhu shan wan	1
+朱山下	zhu shan xia	1
+竹山下	zhu shan xia	1
+竹山乡	zhu shan xiang	1
+竹山园	zhu shan yuan	1
+竹山中学	zhu shan zhong xue	1
+竹山子	zhu shan zi	1
+株树村	zhu shu cun	1
+株树湾	zhu shu wan	1
+株树下	zhu shu xia	1
+竹塘	zhu tang	1
+珠塘村	zhu tang cun	1
+竹塘村	zhu tang cun	1
+竹头背	zhu tou bei	1
+竹头下	zhu tou xia	1
+朱湾	zhu wan	1
+朱屋	zhu wu	1
+珠溪村	zhu xi cun	1
+竹溪村	zhu xi cun	1
+竹溪水	zhu xi shui	1
+竹下	zhu xia	1
+竹下村	zhu xia cun	1
+竹筱	zhu xiao	1
+朱形	zhu xing	1
+竹叶冲	zhu ye chong	1
+竹叶村	zhu ye cun	1
+竹叶山	zhu ye shan	1
+朱院	zhu yuan	1
+竹园	zhu yuan	1
+竹园背	zhu yuan bei	1
+竹园宾馆	zhu yuan bin guan	1
+竹园冲	zhu yuan chong	1
+竹园村	zhu yuan cun	1
+竹园里	zhu yuan li	1
+竹园内	zhu yuan nei	1
+竹园坪	zhu yuan ping	1
+竹园头	zhu yuan tou	1
+竹园下	zhu yuan xia	1
+竹云山庄	zhu yun shan zhuang	1
+竹中	zhu zhong	1
+竹子冲	zhu zi chong	1
+竹子坑	zhu zi keng	1
+竹子林	zhu zi lin	1
+竹子岭	zhu zi ling	1
+竹子排	zhu zi pai	1
+竹子坪	zhu zi ping	1
+竹子塘	zhu zi tang	1
+竹子窝	zhu zi wo	1
+转湖	zhuan hu	1
+专康	zhuan kang	1
+转堂	zhuan tang	1
+砖头坳	zhuan tou ao	1
+庄川	zhuang chuan	1
+庄村	zhuang cun	1
+庄里	zhuang li	1
+庄门村	zhuang men cun	1
+庄内	zhuang nei	1
+庄山村	zhuang shan cun	1
+庄上	zhuang shang	1
+庄屋里	zhuang wu li	1
+庄溪	zhuang xi	1
+状元楼大酒店	zhuang yuan lou da jiu dian	1
+梓洞村	zi dong cun	1
+紫东阁	zi dong ge	1
+自家人	zi jia ren	1
+紫金豪园	zi jin hao yuan	1
+自力	zi li	1
+梓里村	zi li cun	1
+子龙村	zi long cun	1
+梓木冲	zi mu chong	1
+梓木村	zi mu cun	1
+梓桥	zi qiao	1
+子山	zi shan	1
+自生村	zi sheng cun	1
+自生桥	zi sheng qiao	1
+梓塘	zi tang	1
+紫霞园	zi xia yuan	1
+资兴宾馆	zi xing bin guan	1
+资兴矿务局	zi xing kuang wu ju	1
+资兴市	zi xing shi	1
+资兴市法院	zi xing shi fa yuan	1
+资兴市建设局	zi xing shi jian she ju	1
+资兴市教育局	zi xing shi jiao yu ju	1
+资兴市立中学	zi xing shi li zhong xue	1
+资兴市委	zi xing shi wei	1
+资兴市政府	zi xing shi zheng fu	1
+资兴市政协	zi xing shi zheng xie	1
+资兴一中	zi xing yi zhong	1
+自由鸟	zi you niao	1
+自愿村	zi yuan cun	1
+总工会宾馆	zong gong hui bin guan	1
+棕林	zong lin	1
+棕树坪	zong shu ping	1
+棕树下	zong shu xia	1
+棕叶山	zong ye shan	1
+邹家	zou jia	1
+邹家村	zou jia cun	1
+走马村	zou ma cun	1
+走马岭	zou ma ling	1
+走马岭村	zou ma ling cun	1
+走马坪	zou ma ping	1
+祖岗	zu gang	1
+族里	zu li	1
+钻石人生	zuan shi ren sheng	1
+钻水	zuan shui	1
+左家	zuo jia	1
+左家冲	zuo jia chong	1
+左家垅	zuo jia long	1
+左家台	zuo jia tai	1
+左龙	zuo long	1
+柞树下	zuo shu xia	1

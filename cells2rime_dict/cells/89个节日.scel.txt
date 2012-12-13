@@ -1,0 +1,113 @@
+巴丹吉林沙漠旅游节	ba dan ji lin sha mo lv you jie	1
+车公诞	che gong dan	1
+重阳节	chong yang jie	1
+春节	chun jie	1
+碘缺乏病防治日	dian que fa bing fang zhi ri	1
+读者节	du zhe jie	1
+端午节	duan wu jie	1
+防治沙漠化和干旱日	fang zhi sha mo hua he gan han ri	1
+父亲节	fu qin jie	1
+妇幼节	fu you jie	1
+感恩节	gan en jie	1
+姑娘节	gu niang jie	1
+光棍节	guang gun jie	1
+广元女儿节	guang yuan nv er jie	1
+国际爱牙日	guo ji ai ya ri	1
+国际奥林匹克日	guo ji ao lin pi ke ri	1
+国际博物馆日	guo ji bo wu guan ri	1
+国际臭氧层保护日	guo ji chou yang ceng bao hu ri	1
+国际大学生节	guo ji da xue sheng jie	1
+国际儿童节	guo ji er tong jie	1
+国际妇女节	guo ji fu nv jie	1
+国际护士日	guo ji hu shi ri	1
+国际家庭日	guo ji jia ting ri	1
+国际减轻自然灾害日	guo ji jian qing zi ran zai hai ri	1
+国际警察日	guo ji jing cha ri	1
+国际劳动节	guo ji lao dong jie	1
+国际聋人节	guo ji long ren jie	1
+国际旅游电影节	guo ji lv you dian ying jie	1
+国际盲人节	guo ji mang ren jie	1
+国际母亲节	guo ji mu qin jie	1
+国际牛奶日	guo ji niu nai ri	1
+国际气象节	guo ji qi xiang jie	1
+国际扫盲日	guo ji sao mang ri	1
+国际生物多样性日	guo ji sheng wu duo yang xing ri	1
+国际消费者权益日	guo ji xiao fei zhe quan yi ri	1
+国际音乐日	guo ji yin yue ri	1
+国际助残日	guo ji zhu can ri	1
+国际住房日	guo ji zhu fang ri	1
+国庆节	guo qing jie	1
+寒食节	han shi jie	1
+火把节	huo ba jie	1
+建军日	jian jun ri	1
+教师节	jiao shi jie	1
+姐妹节	jie mei jie	1
+开年	kai nian	1
+开斋节	kai zhai jie	1
+抗日战争纪念日	kang ri zhan zheng ji nian ri	1
+抗日战争胜利日	kang ri zhan zheng sheng li ri	1
+腊八节	la ba jie	1
+联合国日	lian he guo ri	1
+妈祖生辰	ma zu sheng chen	1
+毛泽东诞生	mao ze dong dan sheng	1
+美食节	mei shi jie	1
+母亲节	mu qin jie	1
+女儿节	nv er jie	1
+女神节	nv shen jie	1
+泼水节	po shui jie	1
+乞巧节	qi qiao jie	1
+七夕情人节	qi xi qing ren jie	1
+钱江观潮节	qian jiang guan chao jie	1
+敲锣儿节	qiao luo er jie	1
+清明节	qing ming jie	1
+情人节	qing ren jie	1
+全国爱耳日	quan guo ai er ri	1
+全国爱眼日	quan guo ai yan ri	1
+全国高血压日	quan guo gao xue ya ri	1
+全国土地日	quan guo tu di ri	1
+全国学生营养日	quan guo xue sheng ying yang ri	1
+全国助残日	quan guo zhu can ri	1
+人日	ren ri	1
+三峡国际旅游节	san xia guo ji lv you jie	1
+圣诞节	sheng dan jie	1
+世界艾滋病日	shi jie ai zi bing ri	1
+世界残疾人日	shi jie can ji ren ri	1
+世界地球日	shi jie di qiu ri	1
+世界电信日	shi jie dian xin ri	1
+世界动物日	shi jie dong wu ri	1
+世界儿歌日	shi jie er ge ri	1
+世界防治结核病日	shi jie fang zhi jie he bing ri	1
+世界红十字日	shi jie hong shi zi ri	1
+世界环境日	shi jie huan jing ri	1
+世界建筑日	shi jie jian zhu ri	1
+世界禁毒日	shi jie jin du ri	1
+世界粮食日	shi jie liang shi ri	1
+世界旅游日	shi jie lv you ri	1
+世界气象日	shi jie qi xiang ri	1
+世界人口日	shi jie ren kou ri	1
+世界森林日	shi jie sen lin ri	1
+世界水日	shi jie shui ri	1
+世界糖尿病日	shi jie tang niao bing ri	1
+世界卫生日	shi jie wei sheng ri	1
+世界无烟日	shi jie wu yan ri	1
+世界消除贫困日	shi jie xiao chu pin kun ri	1
+世界邮政日	shi jie you zheng ri	1
+世界足球日	shi jie zu qiu ri	1
+孙中山诞辰	sun zhong shan dan chen	1
+桃花节	tao hua jie	1
+添仓节	tian cang jie	1
+现代世界足球诞生日	xian dai shi jie zu qiu dan sheng ri	1
+仙女节	xian nv jie	1
+消防宣传日	xiao fang xuan chuan ri	1
+娅拜节	ya bai jie	1
+愚人节	yu ren jie	1
+元旦	yuan dan	1
+元宵节	yuan xiao jie	1
+植树节	zhi shu jie	1
+中国共产党诞生纪念日	zhong guo gong chan dang dan sheng ji nian ri	1
+中国记者日	zhong guo ji zhe ri	1
+中国青年节	zhong guo qing nian jie	1
+中国少先队建队日	zhong guo shao xian dui jian dui ri	1
+中秋节	zhong qiu jie	1
+中元节	zhong yuan jie	1
+走麦罢	zou mai ba	1
